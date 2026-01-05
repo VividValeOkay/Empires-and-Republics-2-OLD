@@ -85,6 +85,16 @@
 					"Generated on every [16] tiles <in [{Featureless} {Tundra}] tiles> <in [Hill] Regions>",
 					"Generated on every [28] tiles <in [Forest] tiles> <in [Hill] Regions>"]
 	},
+	{
+		"name": "Bananas",
+		"resourceType": "Bonus",
+		"terrainsCanBeFoundOn": ["Jungle"],
+		"food": 1,
+		"improvement": "Plantation",
+		"improvementStats": {"food": 2,"production": -1,"gold": -1},
+		"uniques": ["Generated on every [14] tiles <in [Jungle] tiles>",
+					"Generated on every [16] tiles <in [Jungle] tiles> <in [Hill] Regions>"]
+	},
 // Strategic resources
 	{
 		"name": "Horses",
@@ -250,6 +260,31 @@
 		"uniques": ["[+15]% Production when constructing [All] wonders [in this city]",
 					"Special placement during map generation",
 					"Doesn't generate naturally <in [{Grassland} {Fresh Water}] tiles>"]
+	},
+	{
+		"name": "Dyes",
+		"resourceType": "Luxury",
+		"terrainsCanBeFoundOn": ["Jungle","Forest","Marsh"],
+		"gold": 2,
+		"improvement": "Plantation",
+		"uniques": ["Generated with weight [5] <in [Tundra] Regions>",
+					"Generated with weight [5] <in [Jungle] Regions>",
+					"Generated with weight [30] <in [Forest] Regions>",
+					"Generated near City States with weight [10]",
+					"Doesn't generate naturally <in [Hill] tiles>"]
+	},
+	{
+		"name": "Citrus",
+		"resourceType": "Luxury",
+		"terrainsCanBeFoundOn": ["Jungle","Forest","Flood plains"],
+		"food": 1,
+		"gold": 1,
+		"improvement": "Plantation",
+		"uniques": ["Generated with weight [35] <in [Jungle] Regions>",
+					"Generated with weight [5] <in [Forest] Regions>",
+					"Generated with weight [5] <in [Desert] Regions>",
+					"Generated with weight [5] <in [Hybrid] Regions>",
+					"Doesn't generate naturally <in [Tundra] tiles>"]
 	},
 	// Civ-made resources
 	{
