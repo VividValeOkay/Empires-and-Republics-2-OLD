@@ -6,6 +6,7 @@
     {
         "name": "Sword",
         "movementType": "Land"
+        "uniques": ["[-50]% Strength <vs [Gunpowder] units>","[-50]% Strength <vs [Ranged Gunpowder] units>"],
     },
     {
         "name": "Gunpowder",
@@ -22,6 +23,7 @@
     {
         "name": "Scout",
         "movementType": "Land"
+        "uniques": ["[+1] Sight"],
     },
     {
         "name": "Mounted",
