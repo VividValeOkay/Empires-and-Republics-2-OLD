@@ -200,8 +200,8 @@
 		"name": "Caravel",
 		"unitType": "Melee Water",
 		"movement": 4,
-		"strength": 18,
-		"cost": 160,
+		"strength": 19,
+		"cost": 165,
 		"requiredTech": "Early Age of Discovery Military",
 		"uniques": ["Can only be built <in cities with a [Docks]>","[+1] Sight"],
 		"attackSound": "cannon"
@@ -246,6 +246,16 @@
 		"range": 2,
 		"cost": 140,
 		"requiredTech": "Late Age of Imperialism Military",
+	},
+	{
+		"name": "Frigate",
+		"unitType": "Ranged Water",
+		"movement": 5,
+		"strength": 20,
+		"rangedStrength": 26,
+		"cost": 220,
+		"requiredTech": "Late Age of Discovery Military",
+		"attackSound": "shipCannonVolley"
 	},
 	// Great People (Yes, i did just copy this from the base game...)
 	{
