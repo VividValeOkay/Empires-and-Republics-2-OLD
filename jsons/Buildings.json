@@ -264,4 +264,35 @@
     "requiredResource": "Iron",
     "uniques": ["Provides [1] [Cement]","Limited to [2] per Civilization"],
   },
+  {
+    "name": "Factory",
+    "cost": 220,
+    "production": 3,
+    "requiredTech": "Late Age of Imperialism Production",
+  },
+  {
+    "name": "Stock Exchange",
+    "cost": 190,
+    "gold": 3,
+    "requiredTech": "Late Age of Imperialism Riches",
+  },
+  {
+	"name": "Printing House",
+	"cost": 195,
+    "science": 2,
+	"uniques": ["[+1 Science] per [7] population [in this city]"],
+	"requiredTech": "Late Age of Imperialism Science"
+  },
+  {
+	"name": "Academy",
+	"cost": 220,
+    "science": 3,
+	"requiredTech": "Late Age of Imperialism Science"
+  },
+  {
+    "name": "Fertilizer Plant",
+    "cost": 200,
+    "food": 2,
+    "requiredTech": "Late Age of Imperialism Growth",
+  },
 ]
