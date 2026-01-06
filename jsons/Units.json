@@ -147,6 +147,8 @@
 		"strength": 17,
 		"cost": 100,
 		"requiredTech": "Late Middle Ages Military",
+		"obsoleteTech": "Early Age of Imperialism Military",
+		"upgradesTo": "Line Infantry",
 		"requiredResource": "Iron",
 		"attackSound": "metalhit"
 	},
