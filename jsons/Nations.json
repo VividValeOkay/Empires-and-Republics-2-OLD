@@ -296,7 +296,7 @@
 {
 		"name": "The Turkish",
 		"leaderName": "Atatürk",
-		"startBias": ["Desert","Plains"],
+		"startBias": ["Hill","Plains"],
         "favoredReligion": "Sunni Islam",
 
 		"declaringWar": "Your continued insolence and failure to recognize any preeminence leads us to war.",
@@ -316,6 +316,30 @@
 		"uniqueName": "Atatürk's Legacy",
 	    "uniques": ["[+1 Food] per [3] population [in all cities]","[+25]% Production when constructing [Siege] units [in all cities]"]
 		"cities": ["Ankara","Istanbul","Izmir","Bursa","Adana","Konya","Gaziantep","Kayseri","Samsun","Eskişehir","Sivas","Trabzon","Diyarbakır","Malatya","Erzurum"],
+},
+{
+		"name": "The Japanese",
+		"leaderName": "Tokugawa",
+		"startBias": ["Coast","Grassland"],
+        "favoredReligion": "Buddhism",
+
+		"declaringWar": "A sword with a sharp edge cuts through space. A cool breeze blows through the flames.",
+		"attacked": "Approach with caution. Let's wait for your opening.",
+		"defeated": "The summer grasses are all that remains of warriors' dreams...",
+        "denounced": "Resentment is neither appropriate for others, nor for oneself."
+		"introduction": "I am the Shogun of Japan, Tokugawa Ieyasu. Without my orders, nothing will happen.",
+
+		"neutralHello": "Hello.",
+		"hateHello": "Oh, it's you...",
+
+		"tradeRequest": "I would be grateful if you agreed on the following proposal.",
+		"declaringFriendship": "I understand the value of peace. Do you, as well?",
+
+		"outerColor": [249, 249, 249],
+		"innerColor": [212, 6, 6],
+		"uniqueName": "Land of the Rising Sun",
+	    "uniques": ["[-20]% Science cost of researching new Technologies","[+3] Strength <for [Military] units> <when fighting in [Coastal] tiles>"]
+		"cities": ["Edo","Osaka","Kyoto","Tokyo","Satsuma","Kagoshima","Nara","Nagoya","Izumo","Nagasaki","Yokohama","Shimonoseki","Matsuyama","Sapporo","Hakodate","Ise","Toyama","Fukushima","Suo"],
 },
 	// City-States
 {
@@ -403,8 +427,8 @@
 		"cities": ["Jerusalem"]
 },
 {
-		"name": "Ayutthaya",
-		"adjective": ["Krung Tai"],
+		"name": "Thailand",
+		"adjective": ["Thai"],
 		"cityStateType": "Culture",
 
 		"declaringWar": "You leave us no choice. War it must be.",
@@ -412,7 +436,7 @@
 		"defeated": "We follow you now...",
 		"outerColor": [0, 0, 0],
 		"innerColor": [135, 44, 28],
-		"cities": ["Ayutthaya"]
+		"cities": ["Bangkok"]
 },
 {
 		"name": "Portugal",
@@ -463,8 +487,8 @@
 		"cities": ["Kathmandu"]
 },
 {
-		"name": "Majapahit",
-		"adjective": ["Majapahitian"],
+		"name": "Indonesia",
+		"adjective": ["Indonesian"],
 		"cityStateType": "Food",
 
 		"declaringWar": "You leave us no choice. War it must be.",
@@ -472,7 +496,7 @@
 		"defeated": "We follow you now...",
 		"outerColor": [0, 0, 0],
 		"innerColor": [247, 100, 87],
-		"cities": ["Majapahit"]
+		"cities": ["Jakarta"]
 },
 {
 		"name": "Pakistan",
