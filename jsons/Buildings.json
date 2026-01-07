@@ -277,7 +277,7 @@
     "requiredTech": "Late Age of Imperialism Riches",
   },
   {
-	"name": "Printing House",
+	"name": "Printer",
 	"cost": 195,
     "science": 2,
 	"uniques": ["[+1 Science] per [7] population [in this city]"],
