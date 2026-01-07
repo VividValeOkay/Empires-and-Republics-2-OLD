@@ -20,6 +20,7 @@
   },
   {
 		"name": "Weapons II",
+		"prerequisites": ["Weapons I"],
 		"uniques": ["[+1] Strength <when attacking>"],
 		"unitTypes": ["Sword","Gunpowder","Archery","Ranged Gunpowder"],
         "column": 1,
@@ -27,6 +28,7 @@
   },
   {
 		"name": "Weapons III",
+		"prerequisites": ["Weapons II"],
 		"uniques": ["[+1] Strength <when attacking>"],
 		"unitTypes": ["Sword","Gunpowder","Archery","Ranged Gunpowder"],
         "column": 1,
@@ -41,6 +43,7 @@
   },
   {
 		"name": "Defense II",
+		"prerequisites": ["Defense I"],
 		"uniques": ["[+1] Strength <when defending>"],
 		"unitTypes": ["Sword","Gunpowder","Archery","Ranged Gunpowder"],
         "column": 3,
@@ -48,6 +51,7 @@
   },
   {
 		"name": "Defense III",
+		"prerequisites": ["Defense II"],
 		"uniques": ["[+1] Strength <when defending>"],
 		"unitTypes": ["Sword","Gunpowder","Archery","Ranged Gunpowder"],
         "column": 3,
