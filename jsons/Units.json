@@ -237,6 +237,8 @@
 		"strength": 24,
 		"cost": 140,
 		"requiredTech": "Early Age of Imperialism Military",
+		"obsoleteTech": "Early Machine Age Military",
+		"upgradesTo": "Great War Infantry",
 		"attackSound": "shot"
 	},
 	{
@@ -248,6 +250,8 @@
 		"range": 2,
 		"cost": 140,
 		"requiredTech": "Late Age of Imperialism Military",
+		"obsoleteTech": "Early Machine Age Military",
+		"upgradesTo": "Heavy Machine Gun",
 	},
 	{
 		"name": "Frigate",
@@ -258,6 +262,25 @@
 		"cost": 220,
 		"requiredTech": "Late Age of Discovery Military",
 		"attackSound": "shipCannonVolley"
+	},
+	{
+		"name": "Great War Infantry",
+		"unitType": "Gunpowder",
+		"movement": 2,
+		"strength": 27,
+		"cost": 170,
+		"requiredTech": "Early Machine Age Military",
+		"attackSound": "shot"
+	},
+	{
+		"name": "Heavy Machine Gun",
+		"unitType": "Ranged Gunpowder",
+		"movement": 2,
+		"strength": 24,
+		"rangedStrength": 27,
+		"range": 2,
+		"cost": 170,
+		"requiredTech": "Early Machine Age Military",
 	},
 	// Great People (Yes, i did just copy this from the base game...)
 	{
