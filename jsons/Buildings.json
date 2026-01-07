@@ -70,6 +70,12 @@
     "requiredTech": "Early Ancient Production",
   },
   {
+    "name": "Barracks",
+    "cost": 110,
+    "requiredTech": "Early Ancient Military",
+	"uniques": ["New [Military] units start with [15] XP [in this city]","Destroyed when the city is captured"],
+  },
+  {
     "name": "Logging Camp",
     "cost": 100,
     "production": 2,
@@ -309,5 +315,17 @@
     "culture": 3,
 	"happiness": 1,
     "requiredTech": "Early Machine Age Culture",
+  },
+  {
+    "name": "Conscription Center",
+    "cost": 240,
+    "requiredTech": "Early Machine Age Military",
+	"uniques": ["New [Military] units start with [15] XP [in this city]","Destroyed when the city is captured"],
+  },
+  {
+    "name": "Stadium",
+    "cost": 240,
+	"happiness": 3,
+    "requiredTech": "Early Machine Age Growth",
   },
 ]
