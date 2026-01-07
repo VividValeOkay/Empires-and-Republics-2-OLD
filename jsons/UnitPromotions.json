@@ -65,7 +65,7 @@
 		"name": "Scouts",
 		"uniques": ["[+1] Sight"],
 		"unitTypes": ["Sword","Gunpowder"],
-        "column": 5,
+        "column": 7,
         "row": 1
   },
 ]
