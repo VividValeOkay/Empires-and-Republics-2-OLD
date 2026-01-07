@@ -1,0 +1,71 @@
+[
+
+	{
+		"name": "Heal Instantly",
+		"uniques": ["[This Unit] heals [50] HP", "Doing so will consume this opportunity to choose a Promotion"],
+		"unitTypes": ["Sword","Gunpowder","Mounted","Scout","Siege","Archery","Ranged Gunpowder","Armored","Melee Water","Ranged Water","Submarine"],
+		"innerColor": [195,53,43],
+		"outerColor": [253,236,234],
+        "row": 0,
+        "column": 0
+    },
+
+	// Main
+	{
+		"name": "Weapons I",
+		"uniques": ["[+1] Strength <when attacking>"],
+		"unitTypes": ["Sword","Gunpowder","Archery","Ranged Gunpowder"],
+        "column": 1,
+        "row": 1
+  },
+  {
+		"name": "Weapons II",
+		"uniques": ["[+1] Strength <when attacking>"],
+		"unitTypes": ["Sword","Gunpowder","Archery","Ranged Gunpowder"],
+        "column": 1,
+        "row": 2
+  },
+  {
+		"name": "Weapons III",
+		"uniques": ["[+1] Strength <when attacking>"],
+		"unitTypes": ["Sword","Gunpowder","Archery","Ranged Gunpowder"],
+        "column": 1,
+        "row": 3
+  },
+	{
+		"name": "Defense I",
+		"uniques": ["[+1] Strength <when defending>"],
+		"unitTypes": ["Sword","Gunpowder","Archery","Ranged Gunpowder"],
+        "column": 3,
+        "row": 1
+  },
+  {
+		"name": "Defense II",
+		"uniques": ["[+1] Strength <when defending>"],
+		"unitTypes": ["Sword","Gunpowder","Archery","Ranged Gunpowder"],
+        "column": 3,
+        "row": 2
+  },
+  {
+		"name": "Defense III",
+		"uniques": ["[+1] Strength <when defending>"],
+		"unitTypes": ["Sword","Gunpowder","Archery","Ranged Gunpowder"],
+        "column": 3,
+        "row": 3
+  },
+// Melee only
+	{
+		"name": "Mobility",
+		"uniques": ["[+1] Movement"],
+		"unitTypes": ["Sword","Gunpowder"],
+        "column": 5,
+        "row": 1
+  },
+	{
+		"name": "Scouts",
+		"uniques": ["[+1] Sight"],
+		"unitTypes": ["Sword","Gunpowder"],
+        "column": 5,
+        "row": 1
+  },
+]
