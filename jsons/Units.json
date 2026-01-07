@@ -23,6 +23,8 @@
 		"movement": 2,
 		"strength": 10,
 		"cost": 40,
+		"obsoleteTech": "Early Age of Discovery Military",
+		"upgradesTo": "Spearman",
 		"attackSound": "nonmetalhit",
 	},
 	{
