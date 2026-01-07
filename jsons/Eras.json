@@ -10,7 +10,7 @@
         "startingMilitaryUnitCount": 1,
         "startingMilitaryUnit": "Warrior",
         "settlerPopulation": 1,
-        "baseUnitBuyCost": 200,
+        "baseUnitBuyCost": 180,
         "embarkDefense": 3,
         "startPercent": 0,
         "citySound": "cityAncient",
@@ -55,10 +55,10 @@
         "startingMilitaryUnit": "Footman",
         "settlerPopulation": 4,
         "settlerBuildings": ["Shrine","Campfire","Well","Furnace","Granary","Library"],
-        "baseUnitBuyCost": 250,
+        "baseUnitBuyCost": 350,
         "embarkDefense": 3,
         "startPercent": 0,
-        "citySound": "cityMedieval",
+        "citySound": "cityRenaissance",
         "iconRGB": [255, 87, 35]
     },
     {
@@ -70,10 +70,10 @@
         "startingMilitaryUnit": "Pikeman",
         "settlerPopulation": 4,
         "settlerBuildings": ["Shrine","Campfire","Well","Furnace","Granary","Library","School","Market","Tannery","Logging Camp","Mint","Mill","Bakery","Walls"],
-        "baseUnitBuyCost": 250,
+        "baseUnitBuyCost": 450,
         "embarkDefense": 3,
         "startPercent": 0,
-        "citySound": "cityMedieval",
+        "citySound": "cityIndustrial",
         "iconRGB": [255, 87, 35]
     },
     {
@@ -85,10 +85,25 @@
         "startingMilitaryUnit": "Line Infantry",
         "settlerPopulation": 6,
         "settlerBuildings": ["Shrine","Campfire","Well","Furnace","Granary","Library","School","Market","Tannery","Logging Camp","Mint","Mill","Bakery","Walls"],
-        "baseUnitBuyCost": 250,
+        "baseUnitBuyCost": 550,
         "embarkDefense": 3,
         "startPercent": 0,
-        "citySound": "cityMedieval",
+        "citySound": "cityModern",
+        "iconRGB": [255, 87, 35]
+    },
+    {
+        "name": "Age of Atom",
+        "researchAgreementCost": 680,
+        "startingSettlerCount": 3, // These values should not include the values given in Difficulties.json
+        "startingWorkerCount": 2,
+        "startingMilitaryUnitCount": 3,
+        "startingMilitaryUnit": "Line Infantry",
+        "settlerPopulation": 6,
+        "settlerBuildings": ["Shrine","Campfire","Well","Furnace","Granary","Library","School","Market","Tannery","Logging Camp","Mint","Mill","Bakery","Walls"],
+        "baseUnitBuyCost": 550,
+        "embarkDefense": 3,
+        "startPercent": 0,
+        "citySound": "cityAtomic",
         "iconRGB": [255, 87, 35]
     },
 ]
