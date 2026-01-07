@@ -295,4 +295,12 @@
     "food": 2,
     "requiredTech": "Late Age of Imperialism Growth",
   },
+  {
+    "name": "Pub",
+    "cost": 200,
+    "food": 2,
+    "happiness": 2,
+    "requiredTech": "Late Age of Imperialism Growth",
+    "requiredResource": "Grapes",
+  },
 ]
