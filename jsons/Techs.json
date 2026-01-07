@@ -655,4 +655,106 @@
 			},
 		]
 	},
+	{
+		"columnNumber": 13,
+		"era": "Age of Atom",
+		"techCost": 260,
+		"buildingCost": 240,
+		"wonderCost": 100,
+		"techs": [
+			{
+				"name": "Early Age of Atom Science",
+				"row": 1,
+				"prerequisites": ["Late Machine Age Science"],
+				"quote": "'He who commands the sea has command of everything.' - Themistocles",
+			},
+			{
+				"name": "Early Age of Atom Riches",
+				"row": 3,
+				"prerequisites": ["Late Machine Age Science"],
+				"quote": "'He who commands the sea has command of everything.' - Themistocles",
+			},
+			{
+				"name": "Early Age of Atom Production",
+				"row": 5,
+				"prerequisites": ["Late Machine Age Production"],
+				"quote": "'He who commands the sea has command of everything.' - Themistocles",
+			},
+			{
+				"name": "Early Age of Atom Growth",
+				"row": 7,
+				"prerequisites": ["Late Machine Age Growth"],
+				"quote": "'He who commands the sea has command of everything.' - Themistocles",
+			},
+			{
+				"name": "Early Age of Atom Culture",
+				"row": 9,
+				"prerequisites": ["Late Machine Age Culture"],
+				"quote": "'He who commands the sea has command of everything.' - Themistocles",
+			},
+			{
+				"name": "Early Age of Atom Military",
+				"row": 11,
+				"prerequisites": ["Late Machine Age Military"],
+				"quote": "'He who commands the sea has command of everything.' - Themistocles",
+			},
+			{
+				"name": "Early Age of Atom Faith",
+				"row": 13,
+				"prerequisites": ["Late Machine Age Faith"],
+				"quote": "'He who commands the sea has command of everything.' - Themistocles",
+			},
+		]
+	},
+	{
+		"columnNumber": 14,
+		"era": "Age of Atom",
+		"techCost": 420,
+		"buildingCost": 380,
+		"wonderCost": 100,
+		"techs": [
+			{
+				"name": "Late Age of Atom Science",
+				"row": 1,
+				"prerequisites": ["Early Age of Atom Science"],
+				"quote": "'He who commands the sea has command of everything.' - Themistocles",
+			},
+			{
+				"name": "Late Age of Atom Riches",
+				"row": 3,
+				"prerequisites": ["Early Age of Atom Science"],
+				"quote": "'He who commands the sea has command of everything.' - Themistocles",
+			},
+			{
+				"name": "Late Age of Atom Production",
+				"row": 5,
+				"prerequisites": ["Early Age of Atom Production"],
+				"quote": "'He who commands the sea has command of everything.' - Themistocles",
+			},
+			{
+				"name": "Late Age of Atom Growth",
+				"row": 7,
+				"prerequisites": ["Early Age of Atom Growth"],
+				"quote": "'He who commands the sea has command of everything.' - Themistocles",
+			},
+			{
+				"name": "Late Age of Atom Culture",
+				"row": 9,
+				"prerequisites": ["Early Age of Atom Culture"],
+				"quote": "'He who commands the sea has command of everything.' - Themistocles",
+			},
+			{
+				"name": "Late Age of Atom Military",
+				"row": 11,
+				"prerequisites": ["Early Age of Atom Military"],
+				"quote": "'He who commands the sea has command of everything.' - Themistocles",
+			},
+			{
+				"name": "Late Age of Atom Faith",
+				"row": 13,
+				"prerequisites": ["Early Age of Atom Faith"],
+				"quote": "'He who commands the sea has command of everything.' - Themistocles",
+			},
+		]
+	},
 ]
