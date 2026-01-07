@@ -23,7 +23,7 @@
 		"tradeRequest": "Would you be interested in a trade agreement with England?",
 		"declaringFriendship": "We are pleased to consider you an esteemed friend. We hope the feeling is mutual...",
 
-		"outerColor": [212, 6, 6],
+		"outerColor": [120, 0, 1],
 		"innerColor": [249, 249, 249],
 		"uniqueName": "Sun Never Sets",
 	    "uniques": ["[+1 Gold, +1 Science] [in all cities connected to capital]","[+1] Movement <for [Embarked] units>","[+25]% Strength <for [Water] units>"]
