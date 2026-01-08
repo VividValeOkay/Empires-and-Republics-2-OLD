@@ -328,4 +328,16 @@
 	"happiness": 3,
     "requiredTech": "Early Machine Age Growth",
   },
+  {
+    "name": "Industrial Silos",
+    "cost": 240,
+    "food": 3,
+    "requiredTech": "Early Machine Age Growth",
+  },
+  {
+    "name": "Police Station",
+    "cost": 275,
+    "requiredTech": "Early Machine Age Growth",
+	"uniques": ["[-15]% enemy spy effectiveness [in this city]","Gain an extra spy"],
+  },
 ]
