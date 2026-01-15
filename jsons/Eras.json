@@ -118,7 +118,7 @@
         "baseUnitBuyCost": 650,
         "embarkDefense": 3,
         "startPercent": 0,
-        "citySound": "cityAtomic",
+        "citySound": "cityInformation",
         "iconRGB": [255, 87, 35]
     },
 ]
