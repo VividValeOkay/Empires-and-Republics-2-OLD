@@ -314,7 +314,7 @@
 	},
 	{
 		"name": "Tank",
-		"unitType": "Mounted",
+		"unitType": "Armored",
 		"movement": 2,
 		"strength": 30,
 		"cost": 210,
