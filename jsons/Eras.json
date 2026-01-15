@@ -97,7 +97,7 @@
         "startingSettlerCount": 3, // These values should not include the values given in Difficulties.json
         "startingWorkerCount": 2,
         "startingMilitaryUnitCount": 3,
-        "startingMilitaryUnit": "Great War Infatry",
+        "startingMilitaryUnit": "Great War Infantry",
         "settlerPopulation": 6,
         "settlerBuildings": ["Shrine","Campfire","Well","Furnace","Granary","Library","School","Market","Tannery","Logging Camp","Mint","Mill","Bakery","Walls"],
         "baseUnitBuyCost": 550,
@@ -112,7 +112,7 @@
         "startingSettlerCount": 3, // These values should not include the values given in Difficulties.json
         "startingWorkerCount": 2,
         "startingMilitaryUnitCount": 4,
-        "startingMilitaryUnit": "Great War Infatry",
+        "startingMilitaryUnit": "Great War Infantry",
         "settlerPopulation": 8,
         "settlerBuildings": ["Shrine","Campfire","Well","Furnace","Granary","Library","School","Market","Tannery","Logging Camp","Mint","Mill","Bakery","Walls"],
         "baseUnitBuyCost": 650,
