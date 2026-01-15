@@ -117,6 +117,12 @@
 	"uniques": ["[+2 Gold] <if [Docks] is constructed>"],
   },
   {
+    "name": "Bath",
+    "cost": 100,
+    "food": 2,
+    "requiredTech": "Early Ancient Growth",
+  },
+  {
     "name": "Mill",
     "cost": 90,
     "production": 1,
