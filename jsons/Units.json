@@ -319,7 +319,7 @@
 		"strength": 30,
 		"cost": 210,
 		"requiredTech": "Late Machine Age Military",
-		"requiredResource": "Iron",
+		"requiredResource": "Oil",
 		"uniques": ["No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>"],
 	},
 	// Great People (Yes, i did just copy this from the base game...)
