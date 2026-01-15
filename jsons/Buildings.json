@@ -359,4 +359,11 @@
     "science": 3,
 	"requiredTech": "Late Machine Age Science"
   },
+  {
+    "name": "War Memorial",
+    "cost": 265,
+    "culture": 3,
+	"happiness": 1,
+    "requiredTech": "Late Machine Age Culture",
+  },
 ]
