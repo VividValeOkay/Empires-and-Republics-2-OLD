@@ -64,6 +64,20 @@
 		"uniques": ["Can be built outside your borders"],
 		"shortcutKey": "R",
 	},
+	{
+		"name": "Oil well",
+		"turnsToBuild": 9,
+		"techRequired": "Early Machine Age Production",
+		"uniques": ["Can only be built to improve a resource", "Cannot be built on [Water] tiles", "Pillaging this improvement yields approximately [+20 Gold]"],
+		"shortcutKey": "W"
+	},
+	{
+		"name": "Offshore Platform",
+		"turnsToBuild": 1,  // Allows this to be constructed for city-states
+		"techRequired": "Early Age of Atom Production",
+		"uniques": ["Can only be built to improve a resource", "Can only be built on [Water] tiles", "Pillaging this improvement yields approximately [+20 Gold]"],
+		"shortcutKey": "P"
+	},
 // MISC
 	{
 		"name": "Remove Forest",
