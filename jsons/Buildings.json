@@ -353,4 +353,10 @@
 	"gold": 1,
     "requiredTech": "Early Machine Age Growth",
   },
+  {
+	"name": "Research Lab",
+	"cost": 250,
+    "science": 3,
+	"requiredTech": "Late Machine Age Science"
+  },
 ]
