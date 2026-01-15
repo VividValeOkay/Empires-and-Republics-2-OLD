@@ -757,4 +757,106 @@
 			},
 		]
 	},
+	{
+		"columnNumber": 15,
+		"era": "Age of Information",
+		"techCost": 340,
+		"buildingCost": 300,
+		"wonderCost": 100,
+		"techs": [
+			{
+				"name": "Early Age of Information Science",
+				"row": 1,
+				"prerequisites": ["Late Age of Atom Science"],
+				"quote": "'He who commands the sea has command of everything.' - Themistocles",
+			},
+			{
+				"name": "Early Age of Information Riches",
+				"row": 3,
+				"prerequisites": ["Late Age of Atom Science"],
+				"quote": "'He who commands the sea has command of everything.' - Themistocles",
+			},
+			{
+				"name": "Early Age of Information Production",
+				"row": 5,
+				"prerequisites": ["Late Age of Atom Production"],
+				"quote": "'He who commands the sea has command of everything.' - Themistocles",
+			},
+			{
+				"name": "Early Age of Information Growth",
+				"row": 7,
+				"prerequisites": ["Late Age of Atom Growth"],
+				"quote": "'He who commands the sea has command of everything.' - Themistocles",
+			},
+			{
+				"name": "Early Age of Information Culture",
+				"row": 9,
+				"prerequisites": ["Late Age of Atom Culture"],
+				"quote": "'He who commands the sea has command of everything.' - Themistocles",
+			},
+			{
+				"name": "Early Age of Information Military",
+				"row": 11,
+				"prerequisites": ["Late Age of Atom Military"],
+				"quote": "'He who commands the sea has command of everything.' - Themistocles",
+			},
+			{
+				"name": "Early Age of Information Faith",
+				"row": 13,
+				"prerequisites": ["Late Age of Atom Faith"],
+				"quote": "'He who commands the sea has command of everything.' - Themistocles",
+			},
+		]
+	},
+	{
+		"columnNumber": 16,
+		"era": "Age of Information",
+		"techCost": 340,
+		"buildingCost": 300,
+		"wonderCost": 100,
+		"techs": [
+			{
+				"name": "Late Age of Information Science",
+				"row": 1,
+				"prerequisites": ["Early Age of Information Science"],
+				"quote": "'He who commands the sea has command of everything.' - Themistocles",
+			},
+			{
+				"name": "Late Age of Information Riches",
+				"row": 3,
+				"prerequisites": ["Early Age of Information Science"],
+				"quote": "'He who commands the sea has command of everything.' - Themistocles",
+			},
+			{
+				"name": "Late Age of Information Production",
+				"row": 5,
+				"prerequisites": ["Early Age of Information Production"],
+				"quote": "'He who commands the sea has command of everything.' - Themistocles",
+			},
+			{
+				"name": "Late Age of Information Growth",
+				"row": 7,
+				"prerequisites": ["Early Age of Information Growth"],
+				"quote": "'He who commands the sea has command of everything.' - Themistocles",
+			},
+			{
+				"name": "Late Age of Information Culture",
+				"row": 9,
+				"prerequisites": ["Early Age of Information Culture"],
+				"quote": "'He who commands the sea has command of everything.' - Themistocles",
+			},
+			{
+				"name": "Late Age of Information Military",
+				"row": 11,
+				"prerequisites": ["Early Age of Information Military"],
+				"quote": "'He who commands the sea has command of everything.' - Themistocles",
+			},
+			{
+				"name": "Late Age of Information Faith",
+				"row": 13,
+				"prerequisites": ["Early Age of Information Faith"],
+				"quote": "'He who commands the sea has command of everything.' - Themistocles",
+			},
+		]
+	},
 ]
