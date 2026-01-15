@@ -340,4 +340,11 @@
     "requiredTech": "Early Machine Age Growth",
 	"uniques": ["[-15]% enemy spy effectiveness [in this city]","Gain an extra spy"],
   },
+  {
+    "name": "Tram Station",
+    "cost": 240,
+    "food": 2,
+	"gold": 1,
+    "requiredTech": "Early Machine Age Growth",
+  },
 ]
