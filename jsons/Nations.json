@@ -355,6 +355,31 @@
 		"cities": ["Edo","Osaka","Kyoto","Tokyo","Satsuma","Kagoshima","Nara","Nagoya","Izumo","Nagasaki","Yokohama","Shimonoseki","Matsuyama","Sapporo","Hakodate","Ise","Toyama","Fukushima","Suo"],
 		"spyNames": ["Li","Chen","Zhang","Liu","Yang","Huang","Zhao"],
 },
+{
+		"name": "The Egyptians",
+		"leaderName": "Cleopatra",
+		"startBias": ["Desert"],
+        "favoredReligion": "Pesedjet Mythology",
+
+		"declaringWar": "I have had enough with you. May Amun Ra guide us!",
+		"attacked": "Hah! Osiris will be pleased to welcome my enemies.",
+		"defeated": "Egypt is lost. If I can't embrace my love, I will embrace the asps.",
+        "denounced": "You dare insult the New Isis?!? You will regret this!"
+		"introduction": "I am Isis reborn, I am the living Nile, I am Cleopatra and an ally, if you are worthy.",
+
+		"neutralHello": "Good day.",
+		"hateHello": "Oh, it's you.",
+
+		"tradeRequest": "Generous Egypt makes you this offer.",
+		"declaringFriendship": "Many would kill for my friendship. It's a generous offer, but I offer it to you. What is your answer?",
+
+		"outerColor": [1, 78, 81],
+		"innerColor": [234, 225, 157],
+		"uniqueName": "Iteru",
+	    "uniques": ["[+2 Production] from [Fresh Water] tiles [in all cities]","[+2 Food] from [Flood plains] tiles [in all cities]"]
+		"cities": ["Râ-Kedet","Memphis","Heliopolis","Elephantine","Alexandria","Pi-Ramesses","Giza","Byblos","Akhetaten","Hieraconpolis","Abydos","Asyut","Avaris","Lisht","Buto","Edfu","Pithom","Busiris","Kahun","Athribis"],
+		"spyNames": ["Abubakar","Hamadi","Okpara","Rashidi","Bahiti","Hehet","Sanura"],
+},
 	// City-States
 {
 		"name": "Belgium",
