@@ -366,4 +366,16 @@
 	"happiness": 1,
     "requiredTech": "Late Machine Age Culture",
   },
+  {
+    "name": "Medical Lab",
+    "cost": 280,
+    "food": 3,
+    "requiredTech": "Early Age of Atom Growth",
+  },
+  {
+    "name": "Solar Plant",
+    "cost": 280,
+    "production": 3,
+    "requiredTech": "Late Age of Atom Production",
+  },
 ]
