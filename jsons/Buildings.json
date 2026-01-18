@@ -378,4 +378,11 @@
     "production": 3,
     "requiredTech": "Late Age of Atom Production",
   },
+  {
+    "name": "Nuclear Plant",
+    "cost": 280,
+    "production": 3,
+    "requiredTech": "Early Age of Atom Production",
+    "requiredResource": "Uranium",
+  },
 ]
