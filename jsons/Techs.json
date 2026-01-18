@@ -2,7 +2,7 @@
 	{
 		"columnNumber": 0,
 		"era": "Neolithic era",
-		"techCost": 40,
+		"techCost": 70,
 		"buildingCost": 40,
 		"wonderCost": 185,
 		"techs": [
@@ -17,7 +17,7 @@
 	{
 		"columnNumber": 1,
 		"era": "Neolithic era",
-		"techCost": 40,
+		"techCost": 70,
 		"buildingCost": 40,
 		"wonderCost": 100,
 		"techs": [
@@ -68,7 +68,7 @@
 	{
 		"columnNumber": 2,
 		"era": "Neolithic era",
-		"techCost": 40,
+		"techCost": 70,
 		"buildingCost": 40,
 		"wonderCost": 100,
 		"techs": [
@@ -126,7 +126,7 @@
 	{
 		"columnNumber": 3,
 		"era": "Ancient era",
-		"techCost": 80,
+		"techCost": 100,
 		"buildingCost": 80,
 		"wonderCost": 100,
 		"techs": [
@@ -177,7 +177,7 @@
 	{
 		"columnNumber": 4,
 		"era": "Ancient era",
-		"techCost": 80,
+		"techCost": 100,
 		"buildingCost": 80,
 		"wonderCost": 100,
 		"techs": [
@@ -243,7 +243,7 @@
 	{
 		"columnNumber": 5,
 		"era": "High Middle Ages",
-		"techCost": 120,
+		"techCost": 150,
 		"buildingCost": 120,
 		"wonderCost": 100,
 		"techs": [
@@ -296,7 +296,7 @@
 	{
 		"columnNumber": 6,
 		"era": "High Middle Ages",
-		"techCost": 120,
+		"techCost": 150,
 		"buildingCost": 120,
 		"wonderCost": 100,
 		"techs": [
@@ -348,7 +348,7 @@
 	{
 		"columnNumber": 7,
 		"era": "Age of Discovery",
-		"techCost": 180,
+		"techCost": 210,
 		"buildingCost": 160,
 		"wonderCost": 100,
 		"techs": [
@@ -402,7 +402,7 @@
 	{
 		"columnNumber": 8,
 		"era": "Age of Discovery",
-		"techCost": 180,
+		"techCost": 210,
 		"buildingCost": 160,
 		"wonderCost": 100,
 		"techs": [
@@ -454,7 +454,7 @@
 	{
 		"columnNumber": 9,
 		"era": "Age of Imperialism",
-		"techCost": 260,
+		"techCost": 290,
 		"buildingCost": 240,
 		"wonderCost": 100,
 		"techs": [
@@ -505,7 +505,7 @@
 	{
 		"columnNumber": 10,
 		"era": "Age of Imperialism",
-		"techCost": 260,
+		"techCost": 290,
 		"buildingCost": 240,
 		"wonderCost": 100,
 		"techs": [
@@ -556,7 +556,7 @@
 	{
 		"columnNumber": 11,
 		"era": "Machine Age",
-		"techCost": 260,
+		"techCost": 320,
 		"buildingCost": 240,
 		"wonderCost": 100,
 		"techs": [
@@ -607,7 +607,7 @@
 	{
 		"columnNumber": 12,
 		"era": "Machine Age",
-		"techCost": 260,
+		"techCost": 320,
 		"buildingCost": 240,
 		"wonderCost": 100,
 		"techs": [
@@ -658,7 +658,7 @@
 	{
 		"columnNumber": 13,
 		"era": "Age of Atom",
-		"techCost": 260,
+		"techCost": 360,
 		"buildingCost": 240,
 		"wonderCost": 100,
 		"techs": [
@@ -709,7 +709,7 @@
 	{
 		"columnNumber": 14,
 		"era": "Age of Atom",
-		"techCost": 420,
+		"techCost": 360,
 		"buildingCost": 380,
 		"wonderCost": 100,
 		"techs": [
@@ -760,7 +760,7 @@
 	{
 		"columnNumber": 15,
 		"era": "Age of Information",
-		"techCost": 340,
+		"techCost": 410,
 		"buildingCost": 300,
 		"wonderCost": 100,
 		"techs": [
@@ -811,7 +811,7 @@
 	{
 		"columnNumber": 16,
 		"era": "Age of Information",
-		"techCost": 340,
+		"techCost": 410,
 		"buildingCost": 300,
 		"wonderCost": 100,
 		"techs": [
