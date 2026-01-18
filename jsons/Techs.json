@@ -243,7 +243,7 @@
 	{
 		"columnNumber": 5,
 		"era": "High Middle Ages",
-		"techCost": 150,
+		"techCost": 200,
 		"buildingCost": 120,
 		"wonderCost": 100,
 		"techs": [
@@ -296,7 +296,7 @@
 	{
 		"columnNumber": 6,
 		"era": "High Middle Ages",
-		"techCost": 150,
+		"techCost": 200,
 		"buildingCost": 120,
 		"wonderCost": 100,
 		"techs": [
@@ -348,7 +348,7 @@
 	{
 		"columnNumber": 7,
 		"era": "Age of Discovery",
-		"techCost": 210,
+		"techCost": 280,
 		"buildingCost": 160,
 		"wonderCost": 100,
 		"techs": [
@@ -402,7 +402,7 @@
 	{
 		"columnNumber": 8,
 		"era": "Age of Discovery",
-		"techCost": 210,
+		"techCost": 280,
 		"buildingCost": 160,
 		"wonderCost": 100,
 		"techs": [
@@ -454,7 +454,7 @@
 	{
 		"columnNumber": 9,
 		"era": "Age of Imperialism",
-		"techCost": 290,
+		"techCost": 330,
 		"buildingCost": 240,
 		"wonderCost": 100,
 		"techs": [
@@ -505,7 +505,7 @@
 	{
 		"columnNumber": 10,
 		"era": "Age of Imperialism",
-		"techCost": 290,
+		"techCost": 330,
 		"buildingCost": 240,
 		"wonderCost": 100,
 		"techs": [
@@ -556,7 +556,7 @@
 	{
 		"columnNumber": 11,
 		"era": "Machine Age",
-		"techCost": 320,
+		"techCost": 380,
 		"buildingCost": 240,
 		"wonderCost": 100,
 		"techs": [
@@ -607,7 +607,7 @@
 	{
 		"columnNumber": 12,
 		"era": "Machine Age",
-		"techCost": 320,
+		"techCost": 380,
 		"buildingCost": 240,
 		"wonderCost": 100,
 		"techs": [
@@ -658,7 +658,7 @@
 	{
 		"columnNumber": 13,
 		"era": "Age of Atom",
-		"techCost": 360,
+		"techCost": 430,
 		"buildingCost": 240,
 		"wonderCost": 100,
 		"techs": [
@@ -709,7 +709,7 @@
 	{
 		"columnNumber": 14,
 		"era": "Age of Atom",
-		"techCost": 360,
+		"techCost": 430,
 		"buildingCost": 380,
 		"wonderCost": 100,
 		"techs": [
@@ -760,7 +760,7 @@
 	{
 		"columnNumber": 15,
 		"era": "Age of Information",
-		"techCost": 410,
+		"techCost": 500,
 		"buildingCost": 300,
 		"wonderCost": 100,
 		"techs": [
@@ -811,7 +811,7 @@
 	{
 		"columnNumber": 16,
 		"era": "Age of Information",
-		"techCost": 410,
+		"techCost": 500,
 		"buildingCost": 300,
 		"wonderCost": 100,
 		"techs": [
