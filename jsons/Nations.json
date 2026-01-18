@@ -563,19 +563,7 @@
 },
 {
 		"name": "Armenia",
-		"adjective": ["Romanian"],
-		"cityStateType": "Culture",
-
-		"declaringWar": "You leave us no choice. War it must be.",
-		"attacked": "Very well, this shall not be forgotten.",
-		"defeated": "We follow you now...",
-		"outerColor": [0, 0, 0],
-		"innerColor": [225, 194, 129],
-		"cities": ["Yerevan"]
-},
-{
-		"name": "Armenia",
-		"adjective": ["Romanian"],
+		"adjective": ["Armenian"],
 		"cityStateType": "Culture",
 
 		"declaringWar": "You leave us no choice. War it must be.",
