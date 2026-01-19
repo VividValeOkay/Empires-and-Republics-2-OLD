@@ -386,7 +386,7 @@
     "requiredResource": "Uranium",
   },
   {
-	"name": "Manhattan Project",
+	"name": "Nuclear Weapons Project",
 	"cost": 750,
 	"isNationalWonder": true,
 	"uniques": ["Enables nuclear weapon", "Triggers a global alert upon completion", "Cannot be hurried"],
