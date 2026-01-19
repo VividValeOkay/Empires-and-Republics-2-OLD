@@ -72,4 +72,12 @@
         "column": 7,
         "row": 1
   },
+// MISC
+	{
+		"name": "Evasion",
+		"uniques": ["Damage taken from interception reduced by [50]%", "[+200]% weight to this choice for AI decisions"],
+		"unitTypes": ["Bomber"],
+        "column": 17,
+        "row": 4
+	},
 ]
