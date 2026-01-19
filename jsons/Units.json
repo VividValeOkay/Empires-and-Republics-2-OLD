@@ -322,6 +322,23 @@
 		"requiredResource": "Oil",
 		"uniques": ["No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>"],
 	},
+	{
+		"name": "Atomic Bomb",
+		"unitType": "Atomic Bomber",
+		"movement": 1,
+		"strength": 250,
+		"rangedStrength": 300,
+		"range": 12,
+		"cost": 600,
+		"requiredTech": "Early Age of Atom Military",
+		"requiredResource": "Uranium",
+		"promotions" : ["Evasion"],
+		"uniques": ["Nuclear weapon of Strength [2]", "Only available <if [Nuclear Weapons Project] is constructed>", "Self-destructs when attacking",
+			"Blast radius [5]"],
+		"attackSound": "nuke"
+		// Plane rather than a missile - can be based in city or Carrier only.
+		// Can be intercepted, but must die for it not to take effect.
+	},
 	// Great People (Yes, i did just copy this from the base game...)
 	{
 		"name": "Great General",
