@@ -381,9 +381,9 @@
 		"spyNames": ["Abubakar","Hamadi","Okpara","Rashidi","Bahiti","Hehet","Sanura"],
 },
 {
-		"name": "The Cusus",
-		"leaderName": "Cleopatra",
-		"startBias": ["Desert"],
+		"name": "The Sumerians",
+		"leaderName": "Gilgamesh",
+		"startBias": ["Desert","River"],
         "favoredReligion": "Pesedjet Mythology",
 
 		"declaringWar": "I have had enough with you. May Amun Ra guide us!",
@@ -400,7 +400,7 @@
 
 		"outerColor": [1, 78, 81],
 		"innerColor": [234, 225, 157],
-		"uniqueName": "Iteru",
+		"uniqueName": "Epic Quests",
 	    "uniques": ["[+2 Production] from [Fresh Water] tiles [in all cities]","[+2 Food] from [Flood plains] tiles [in all cities]"]
 		"cities": ["Râ-Kedet","Memphis","Heliopolis","Elephantine","Alexandria","Pi-Ramesses","Giza","Byblos","Akhetaten","Hieraconpolis","Abydos","Asyut","Avaris","Lisht","Buto","Edfu","Pithom","Busiris","Kahun","Athribis"],
 		"spyNames": ["Abubakar","Hamadi","Okpara","Rashidi","Bahiti","Hehet","Sanura"],
