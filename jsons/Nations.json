@@ -384,26 +384,26 @@
 		"name": "The Sumerians",
 		"leaderName": "Gilgamesh",
 		"startBias": ["Desert","River"],
-        "favoredReligion": "Pesedjet Mythology",
+        "favoredReligion": "Sunni Islam",
 
-		"declaringWar": "I have had enough with you. May Amun Ra guide us!",
-		"attacked": "Hah! Osiris will be pleased to welcome my enemies.",
-		"defeated": "Egypt is lost. If I can't embrace my love, I will embrace the asps.",
-        "denounced": "You dare insult the New Isis?!? You will regret this!"
-		"introduction": "I am Isis reborn, I am the living Nile, I am Cleopatra and an ally, if you are worthy.",
+		"declaringWar": "Why do I fight? Because I can... because Inanna demands it. Now you will know the power of Sumer!",
+		"attacked": "I will enjoy hearing your last breath when you witness the destruction of your people.",
+		"defeated": "What treachery did this to me? No, what evil?",
+        "denounced": "Hah! Gilgamesh is stronger than your false words."
+		"introduction": "I am Gilgamesh of Sumeria and King of Uruk. Do not be afraid... I am good to my friends.",
 
 		"neutralHello": "Good day.",
 		"hateHello": "Oh, it's you.",
 
-		"tradeRequest": "Generous Egypt makes you this offer.",
-		"declaringFriendship": "Many would kill for my friendship. It's a generous offer, but I offer it to you. What is your answer?",
+		"tradeRequest": "Generous Sumeria makes you this offer.",
+		"declaringFriendship": "All the world knows of my generosity to my friends. Let us then be friends, not enemies.",
 
-		"outerColor": [1, 78, 81],
-		"innerColor": [234, 225, 157],
+		"outerColor": [1, 42, 108],
+		"innerColor": [255, 129, 18],
 		"uniqueName": "Epic Quests",
 	    "uniques": ["[+2 Production] from [Fresh Water] tiles [in all cities]","[+2 Food] from [Flood plains] tiles [in all cities]"]
-		"cities": ["Râ-Kedet","Memphis","Heliopolis","Elephantine","Alexandria","Pi-Ramesses","Giza","Byblos","Akhetaten","Hieraconpolis","Abydos","Asyut","Avaris","Lisht","Buto","Edfu","Pithom","Busiris","Kahun","Athribis"],
-		"spyNames": ["Abubakar","Hamadi","Okpara","Rashidi","Bahiti","Hehet","Sanura"],
+		"cities": ["Uruk","Akkad","Ur"],
+		"spyNames": ["Ali","Hussein","Yusuf","Malik","Aasera","Farrah","Razeena"],
 },
 	// City-States
 {
