@@ -288,6 +288,8 @@
 		"strength": 30,
 		"cost": 170,
 		"requiredTech": "Early Machine Age Military",
+		"obsoleteTech": "Early Age of Atom Military",
+		"upgradesTo": "Infantry",
 		"attackSound": "shot"
 	},
 	{
@@ -338,6 +340,15 @@
 		"attackSound": "nuke"
 		// Plane rather than a missile - can be based in city or Carrier only.
 		// Can be intercepted, but must die for it not to take effect.
+	},
+	{
+		"name": "Infantry",
+		"unitType": "Gunpowder",
+		"movement": 2,
+		"strength": 35,
+		"cost": 190,
+		"requiredTech": "Early Age of Atom Military",
+		"attackSound": "shot"
 	},
 	// Great People (Yes, i did just copy this from the base game...)
 	{
