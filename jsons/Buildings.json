@@ -398,4 +398,11 @@
     "science": 3,
 	"requiredTech": "Late Age of Atom Science"
   },
+  {
+    "name": "Hotel",
+    "cost": 275,
+    "food": 1,
+	"happiness": 2,
+    "requiredTech": "Early Age of Atom Growth",
+  },
 ]
