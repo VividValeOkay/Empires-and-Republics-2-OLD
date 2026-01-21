@@ -412,8 +412,8 @@
 		"unitType": "Civilian",
 		"movement": 2,
 		"cost": 750,
-		"requiredTech": "Advanced Ballistics",
-		"requiredResource": "Aluminum",
+		"requiredTech": "Early Age of Information Science",
+		"requiredResource": "Oil",
 		"uniques": ["Spaceship part", "Cannot be purchased", "Only available <if [Apollo Program] is constructed>", "Uncapturable", "Can be added to [The Spaceship] in the Capital", "Limited to [3] per Civilization", "Only available <when [Scientific] Victory is enabled>"]
 		// costs 1500 in BNW
 	},
@@ -422,8 +422,8 @@
 		"unitType": "Civilian",
 		"movement": 2,
 		"cost": 750,
-		"requiredTech": "Satellites",
-		"requiredResource": "Aluminum",
+		"requiredTech": "Early Age of Information Science",
+		"requiredResource": "Iron",
 		"uniques": ["Spaceship part", "Cannot be purchased", "Only available <if [Apollo Program] is constructed>", "Uncapturable", "Can be added to [The Spaceship] in the Capital", "Limited to [1] per Civilization", "Only available <when [Scientific] Victory is enabled>"]
 		// costs 1500 in BNW
 	},
@@ -431,9 +431,9 @@
 		"name": "SS Engine",
 		"unitType": "Civilian",
 		"movement": 2,
-		"cost": 750,
-		"requiredTech": "Particle Physics",
-		"requiredResource": "Aluminum",
+		"cost": 1500,
+		"requiredTech": "Late Age of Information Science",
+		"requiredResource": "Oil",
 		"uniques": ["Spaceship part", "Cannot be purchased", "Only available <if [Apollo Program] is constructed>", "Uncapturable", "Can be added to [The Spaceship] in the Capital", "Limited to [1] per Civilization", "Only available <when [Scientific] Victory is enabled>"]
 		// costs 1500 in BNW
 	},
@@ -441,9 +441,9 @@
 		"name": "SS Stasis Chamber",
 		"unitType": "Civilian",
 		"movement": 2,
-		"cost": 750,
-		"requiredTech": "Nanotechnology",
-		"requiredResource": "Aluminum",
+		"cost": 1500,
+		"requiredTech": "Late Age of Information Science",
+		"requiredResource": "Iron",
 		"uniques": ["Spaceship part", "Cannot be purchased", "Only available <if [Apollo Program] is constructed>", "Uncapturable", "Can be added to [The Spaceship] in the Capital", "Limited to [1] per Civilization", "Only available <when [Scientific] Victory is enabled>"]
 		// costs 1500 in BNW
 	}
