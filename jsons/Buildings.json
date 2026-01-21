@@ -390,13 +390,13 @@
 	"cost": 750,
 	"isNationalWonder": true,
 	"uniques": ["Enables nuclear weapon", "Triggers a global alert upon completion", "Cannot be hurried"],
-	"requiredTech": "Early Age of Atom Military"
+	"requiredTech": "Early Age of Atom Military",
   },
   {
 	"name": "Data Centre",
 	"cost": 285,
     "science": 3,
-	"requiredTech": "Late Age of Atom Science"
+	"requiredTech": "Early Age of Atom Science",
   },
   {
     "name": "Hotel",
@@ -411,6 +411,6 @@
 		"isNationalWonder": true,
 		"uniques": ["Enables construction of Spaceship parts", "Triggers a global alert upon completion", 
 			"Only available <when [Scientific] Victory is enabled>", "Cannot be hurried"],
-		"requiredTech": "Rocketry",
+		"requiredTech": "Late Age of Atom Science",
 	},
 ]
