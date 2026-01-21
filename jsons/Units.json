@@ -219,6 +219,8 @@
 		"strength": 19,
 		"cost": 90,
 		"requiredTech": "Early Age of Discovery Military",
+		"obsoleteTech": "Late Machine Age Military",
+		"upgradesTo": "Anti-tank Gun",
 		"uniques": ["[+50]% Strength <vs [Mounted] units>"],
 		"attackSound": "metalhit"
 	},
@@ -323,6 +325,16 @@
 		"requiredTech": "Late Machine Age Military",
 		"requiredResource": "Oil",
 		"uniques": ["No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>"],
+	},
+	{
+		"name": "Anti-tank Gun",
+		"unitType": "Gunpowder",
+		"movement": 2,
+		"strength": 27,
+		"cost": 190,
+		"requiredTech": "Late Machine Age Military",
+		"uniques": ["[+50]% Strength <vs [Armored] units>"],
+		"attackSound": "shot"
 	},
 	{
 		"name": "Atomic Bomb",
