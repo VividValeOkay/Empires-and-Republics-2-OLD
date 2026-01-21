@@ -402,7 +402,7 @@
 		"innerColor": [255, 129, 18],
 		"uniqueName": "Epic Quests",
 	    "uniques": ["[+2 Production] from [Fresh Water] tiles [in all cities]","[+2 Food] from [Flood plains] tiles [in all cities]"]
-		"cities": ["Uruk","Akkad","Ur"],
+		"cities": ["Uruk","Eridu","Kish","Ur","Lagash","Nippur","Bad-Tibira","Sippar","Shuruppak","Adab","Isin","Hamazi","Larak","Abu Salabikh","Umma","Larsa","Girsu","Jemdet Nasr","Nina","Kuara"],
 		"spyNames": ["Ali","Hussein","Yusuf","Malik","Aasera","Farrah","Razeena"],
 },
 	// City-States
