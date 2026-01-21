@@ -405,6 +405,31 @@
 		"cities": ["Uruk","Eridu","Kish","Ur","Lagash","Nippur","Bad-Tibira","Sippar","Shuruppak","Adab","Isin","Hamazi","Larak","Abu Salabikh","Umma","Larsa","Girsu","Jemdet Nasr","Nina","Kuara"],
 		"spyNames": ["Ali","Hussein","Yusuf","Malik","Aasera","Farrah","Razeena"],
 },
+{
+		"name": "The Brazilians",
+		"leaderName": "Pedro II",
+		"startBias": ["Jungle"],
+        "favoredReligion": "Catholicism",
+
+		"declaringWar": "Why do I fight? Because I can... because Inanna demands it. Now you will know the power of Sumer!",
+		"attacked": "I will enjoy hearing your last breath when you witness the destruction of your people.",
+		"defeated": "What treachery did this to me? No, what evil?",
+        "denounced": "Hah! Gilgamesh is stronger than your false words."
+		"introduction": "I am Gilgamesh of Sumeria and King of Uruk. Do not be afraid... I am good to my friends.",
+
+		"neutralHello": "Hello.",
+		"hateHello": "Oh, it's you.",
+
+		"tradeRequest": "Generous Sumeria makes you this offer.",
+		"declaringFriendship": "All the world knows of my generosity to my friends. Let us then be friends, not enemies.",
+
+		"outerColor": [1, 42, 108],
+		"innerColor": [255, 129, 18],
+		"uniqueName": "Epic Quests",
+	    "uniques": ["[Gold] cost of purchasing [Military] units [-30]%","[-25]% Gold cost of acquiring tiles [in all cities]"]
+		"cities": ["Uruk","Eridu","Kish","Ur","Lagash","Nippur","Bad-Tibira","Sippar","Shuruppak","Adab","Isin","Hamazi","Larak","Abu Salabikh","Umma","Larsa","Girsu","Jemdet Nasr","Nina","Kuara"],
+		"spyNames": ["Ali","Hussein","Yusuf","Malik","Aasera","Farrah","Razeena"],
+},
 	// City-States
 {
 		"name": "Belgium",
