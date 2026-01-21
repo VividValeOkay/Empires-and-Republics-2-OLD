@@ -121,4 +121,19 @@
         "citySound": "cityInformation",
         "iconRGB": [255, 87, 35]
     },
+    {
+        "name": "Age of Tomorrow",
+        "researchAgreementCost": 1300,
+        "startingSettlerCount": 5, // These values should not include the values given in Difficulties.json
+        "startingWorkerCount": 3,
+        "startingMilitaryUnitCount": 6,
+        "startingMilitaryUnit": "Infantry",
+        "settlerPopulation": 9,
+        "settlerBuildings": ["Shrine","Campfire","Well","Furnace","Granary","Library","School","Market","Tannery","Logging Camp","Mint","Mill","Bakery","Walls"],
+        "baseUnitBuyCost": 950,
+        "embarkDefense": 3,
+        "startPercent": 0,
+        "citySound": "cityInformation",
+        "iconRGB": [255, 87, 35]
+    },
 ]
