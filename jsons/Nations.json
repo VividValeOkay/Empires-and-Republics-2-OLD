@@ -411,24 +411,24 @@
 		"startBias": ["Jungle"],
         "favoredReligion": "Catholicism",
 
-		"declaringWar": "Why do I fight? Because I can... because Inanna demands it. Now you will know the power of Sumer!",
-		"attacked": "I will enjoy hearing your last breath when you witness the destruction of your people.",
-		"defeated": "What treachery did this to me? No, what evil?",
-        "denounced": "Hah! Gilgamesh is stronger than your false words."
-		"introduction": "I am Gilgamesh of Sumeria and King of Uruk. Do not be afraid... I am good to my friends.",
+		"declaringWar": "I have to do this for the benefit of progress. It needs to be fought.",
+		"attacked": "You will see how fruitless it will be for you, won't you?",
+		"defeated": "May God grant me these last wishes... peace and prosperity for Brazil.",
+        "denounced": "This situation is going to get worse before it gets any better."
+		"introduction": "Good day. It is an honor to meet you in person. It seems great minds do attract each other, after all.",
 
-		"neutralHello": "Hello.",
-		"hateHello": "Oh, it's you.",
+		"neutralHello": "Good day.",
+		"hateHello": "Oh, it's you...",
 
-		"tradeRequest": "Generous Sumeria makes you this offer.",
-		"declaringFriendship": "All the world knows of my generosity to my friends. Let us then be friends, not enemies.",
+		"tradeRequest": "I hope this deal will receive your blessing.",
+		"declaringFriendship": "Would you like to formally declare our friendship?",
 
 		"outerColor": [1, 42, 108],
 		"innerColor": [255, 129, 18],
-		"uniqueName": "Epic Quests",
+		"uniqueName": "Amazon",
 	    "uniques": ["[Gold] cost of purchasing [Military] units [-30]%","[-25]% Gold cost of acquiring tiles [in all cities]"]
-		"cities": ["Uruk","Eridu","Kish","Ur","Lagash","Nippur","Bad-Tibira","Sippar","Shuruppak","Adab","Isin","Hamazi","Larak","Abu Salabikh","Umma","Larsa","Girsu","Jemdet Nasr","Nina","Kuara"],
-		"spyNames": ["Ali","Hussein","Yusuf","Malik","Aasera","Farrah","Razeena"],
+		"cities": ["Rio de Janeiro","São Paulo","Salvador da Bahia","Brasília","Fortaleza","Manaus","Curitiba","Recife","Porto Alegre","Belém","Guarulhos","Natal","Campinas","São Luis","Maceió","Vitória","Belo Horizonte","Goiânia","Duque de Caxias","Campo Grande"],
+		"spyNames": ["Bento","Donato","Leandro","Paulo","Clara","Fernanda","Talita"],
 },
 	// City-States
 {
