@@ -26,7 +26,7 @@
 		"outerColor": [120, 0, 1],
 		"innerColor": [249, 249, 249],
 		"uniqueName": "Sun Never Sets",
-	    "uniques": ["[+1 Gold, +1 Science] [in all cities connected to capital]","[+1] Movement <for [Embarked] units>","[+25]% Strength <for [Water] units>"]
+	    "uniques": ["[+1 Gold, +1 Science] [in all cities connected to capital]","[+1] Movement <for [Embarked] units>"]
 		"cities": ["London","York","Nottingham","Hastings","Canterbury","Coventry","Warwick","Newcastle","Oxford","Liverpool","Dover","Brighton","Norwich","Leeds","Reading","Birmingham","Richmond","Exeter","Cambridge","Gloucester"],
 	    "spyNames": ["Noah","Arthur","Theodore","George","Olivia","Amelia","Freya"],
 },
@@ -392,7 +392,7 @@
         "denounced": "Hah! Gilgamesh is stronger than your false words."
 		"introduction": "I am Gilgamesh of Sumeria and King of Uruk. Do not be afraid... I am good to my friends.",
 
-		"neutralHello": "Good day.",
+		"neutralHello": "Hello.",
 		"hateHello": "Oh, it's you.",
 
 		"tradeRequest": "Generous Sumeria makes you this offer.",
@@ -401,7 +401,7 @@
 		"outerColor": [1, 42, 108],
 		"innerColor": [255, 129, 18],
 		"uniqueName": "Epic Quests",
-	    "uniques": ["[+2 Production] from [Fresh Water] tiles [in all cities]","[+2 Food] from [Flood plains] tiles [in all cities]"]
+	    "uniques": ["[Gold] cost of purchasing [Military] units [-30]%","[-25]% Gold cost of acquiring tiles [in all cities]"]
 		"cities": ["Uruk","Eridu","Kish","Ur","Lagash","Nippur","Bad-Tibira","Sippar","Shuruppak","Adab","Isin","Hamazi","Larak","Abu Salabikh","Umma","Larsa","Girsu","Jemdet Nasr","Nina","Kuara"],
 		"spyNames": ["Ali","Hussein","Yusuf","Malik","Aasera","Farrah","Razeena"],
 },
