@@ -859,4 +859,22 @@
 			},
 		]
 	},
+	{
+		"columnNumber": 17,
+		"era": "Age of Tomorrow",
+		"techCost": 800,
+		"buildingCost": 500,
+		"wonderCost": 100,
+		"techs": [
+			{
+				"name": "Future Tech",
+				"row": 6,
+				"prerequisites": ["Late Age of Information Science","Late Age of Information Production","Late Age of Information Culture",
+					              "Late Age of Information Growth","Late Age of Information Military","Late Age of Information Faith"],
+				"uniques": ["Can be continually researched"],
+				"quote": "'I think we agree, the past is over.' - George W. Bush",
+                "civilopediaText": [{"text": "Who knows what the future holds?"}]
+			}
+		]
+	}
 ]
