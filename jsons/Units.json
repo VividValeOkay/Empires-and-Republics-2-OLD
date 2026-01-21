@@ -220,7 +220,7 @@
 		"cost": 90,
 		"requiredTech": "Early Age of Discovery Military",
 		"obsoleteTech": "Late Machine Age Military",
-		"upgradesTo": "Anti-tank Gun",
+		"upgradesTo": "Anti-Tank Gun",
 		"uniques": ["[+50]% Strength <vs [Mounted] units>"],
 		"attackSound": "metalhit"
 	},
@@ -327,7 +327,7 @@
 		"uniques": ["No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>"],
 	},
 	{
-		"name": "Anti-tank Gun",
+		"name": "Anti-Tank Gun",
 		"unitType": "Gunpowder",
 		"movement": 2,
 		"strength": 27,
