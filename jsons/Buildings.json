@@ -405,4 +405,12 @@
 	"happiness": 2,
     "requiredTech": "Early Age of Atom Growth",
   },
+	{
+		"name": "Apollo Program",
+		"cost": 750,
+		"isNationalWonder": true,
+		"uniques": ["Enables construction of Spaceship parts", "Triggers a global alert upon completion", 
+			"Only available <when [Scientific] Victory is enabled>", "Cannot be hurried"],
+		"requiredTech": "Rocketry",
+	},
 ]
