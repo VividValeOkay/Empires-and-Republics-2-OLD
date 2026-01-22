@@ -435,9 +435,8 @@
 		"name": "Cathedral",
 		"cost": 0,
 		"faith": 1,
-		"culture": 3,
+		"culture": 4,
 		"happiness": 1,
-		"specialistSlots": {"Artist": 1},
 		"uniques": ["Unbuildable", "Only available <when religion is enabled>"]
 	},
 	{
