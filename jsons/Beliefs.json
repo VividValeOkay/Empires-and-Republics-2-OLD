@@ -5,11 +5,6 @@
         "uniques": ["[+1 Culture] from every [Shrine]"]
   },
   {
-        "name": "God of War",
-        "type": "Pantheon",
-        "uniques": ["[+15]% Strength <for [Melee] units>"]
-  },
-  {
         "name": "Goddess of the Hunt",
         "type": "Pantheon",
         "uniques": ["[+1 Culture] from every [Camp]"]
@@ -28,11 +23,6 @@
         "name": "Religious Idols",
         "type": "Pantheon",
         "uniques": ["[+1 Happiness] from every [Luxury resource]"]
-  },
-  {
-        "name": "God of Blood",
-        "type": "Pantheon",
-        "uniques": ["Earn [30]% of killed [Military] unit's [Cost] as [Faith]"]
   },
   {
         "name": "Goddess of Gifts",
