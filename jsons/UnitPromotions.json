@@ -80,4 +80,8 @@
         "column": 17,
         "row": 4
 	},
+	{	
+		"name": "Unable to pillage tiles",
+		"uniques": ["Unable to pillage tiles"]
+	}
 ]
