@@ -128,4 +128,10 @@
 		"uniques": ["Unpillagable", "Provides a random bonus when entered", "Unbuildable",
 			"Does not need removal of [Forest]", "Does not need removal of [Jungle]"]
 	},
+	{
+		"name": "Barbarian encampment",
+		"terrainsCanBeBuiltOn": ["Land"],
+		"uniques": ["Unpillagable", "Unbuildable", "Excluded from map editor"],
+        "civilopediaText": [{"text":"Home to uncivilized barbarians, will spawn a hostile unit from time to time"}]
+	}
 ]
