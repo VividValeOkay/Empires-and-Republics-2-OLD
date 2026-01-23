@@ -864,6 +864,12 @@
 				"uniques": ["Can be continually researched"],
 				"quote": "'I think we agree, the past is over.' - George W. Bush",
                 "civilopediaText": [{"text": "Who knows what the future holds?"}]
+			},
+			{
+				"name": "PLACEHOLDER",
+				"row": 1,
+				"prerequisites": ["Early Age of Information Faith"],
+				"quote": "'He who commands the sea has command of everything.' - Themistocles",
 			}
 		]
 	}
