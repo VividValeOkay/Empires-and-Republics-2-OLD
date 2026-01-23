@@ -137,7 +137,7 @@
 			{
 				"name": "ANCIENT",
 				"row": 13,
-				"prerequisites": ["Early Ancient Faith"],
+				"prerequisites": ["Construction"],
 				"quote": "'He who commands the sea has command of everything.' - Themistocles",
 			},
 		]
