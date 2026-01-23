@@ -42,7 +42,7 @@
 		"movement": 2,
 		"strength": 9,
 		"cost": 50,
-		"requiredTech": "Early Ancient Military",
+		"requiredTech": "Standing Army",
 		"obsoleteTech": "Early Middle Ages Military",
 		"upgradesTo": "Footman",
 		"uniques": ["[+50]% Strength <vs [Mounted] units>"],
