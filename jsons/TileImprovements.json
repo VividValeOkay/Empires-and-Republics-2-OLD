@@ -4,7 +4,7 @@
 		"terrainsCanBeBuiltOn": ["Plains","Grassland","Flood plains"],
 		"food": 1,
 		"turnsToBuild": 7,
-		"techRequired": "The Beginning",
+		"techRequired": "Early Agriculture",
 		"uniques": ["Can also be built on tiles adjacent to fresh water",
                     "Pillaging this improvement yields approximately [+18 Gold]"],
 		"shortcutKey": "F"
@@ -12,7 +12,7 @@
 	{
 		"name": "Pasture",
 		"turnsToBuild": 8,
-		"techRequired": "Early Neolithic Growth",
+		"techRequired": "Early Ancient Growth",
 		"uniques": ["Can only be built to improve a resource", "Pillaging this improvement yields approximately [+10 Gold]"],
 		"shortcutKey": "P"
 	},
@@ -21,7 +21,7 @@
 		"terrainsCanBeBuiltOn": ["Hill"],
 		"production": 1,
 		"turnsToBuild": 7,
-		"techRequired": "Early Neolithic Production",
+		"techRequired": "Early Ancient Production",
 		"uniques": ["Pillaging this improvement yields approximately [+20 Gold]"],
 		"shortcutKey": "M"
 	},
@@ -30,14 +30,14 @@
 		"turnsToBuild": 1,  // Allows this to be constructed for city-states
 		"terrainsCanBeBuiltOn": ["Coast","Ocean"],
 		"food": 1,
-		"techRequired": "Early Neolithic Growth",
+		"techRequired": "Fishing",
 		"uniques": ["Can only be built to improve a resource", "Pillaging this improvement yields approximately [+10 Gold]"],
 		"shortcutKey": "F"
 	},
 	{
 		"name": "Quarry",
 		"turnsToBuild": 8,
-		"techRequired": "Late Neolithic Production",
+		"techRequired": "Early Ancient Production",
 		"uniques": ["Can only be built to improve a resource", "Pillaging this improvement yields approximately [+20 Gold]"],
 		"shortcutKey": "Q"
 	},
@@ -45,13 +45,14 @@
 		"name": "Plantation",
 		"turnsToBuild": 6,
 		"gold": 1,
-		"techRequired": "Late Neolithic Growth",
+		"techRequired": "Early Ancient Growth",
 		"uniques": ["Can only be built to improve a resource", "Pillaging this improvement yields approximately [+10 Gold]"],
 		"shortcutKey": "P"
 	},
 	{
 		"name": "Camp",
 		"turnsToBuild": 7,
+		"techRequired": "Early Ancient Growth",
 		"uniques": ["Does not need removal of [Forest]","Does not need removal of [Jungle]","Can only be built to improve a resource", "Pillaging this improvement yields approximately [+10 Gold]"],
 		"shortcutKey": "C"
 	},
@@ -60,7 +61,7 @@
 		"name": "Road",
 		"terrainsCanBeBuiltOn": ["Land"],
 		"turnsToBuild": 4,
-		"techRequired": "Late Neolithic Riches",
+		"techRequired": "Early Ancient Riches",
 		"uniques": ["Can be built outside your borders"],
 		"shortcutKey": "R",
 	},
