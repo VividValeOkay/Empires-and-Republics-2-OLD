@@ -22,14 +22,20 @@
 		"wonderCost": 100,
 		"techs": [
 			{
-				"name": "Stone Working",
+				"name": "Hunting",
 				"row": 1,
 				"prerequisites": ["The Beginning"],
 				"quote": "'He who commands the sea has command of everything.' - Themistocles",
 			},
 			{
-				"name": "Fire",
+				"name": "Stone Working",
 				"row": 3,
+				"prerequisites": ["The Beginning"],
+				"quote": "'He who commands the sea has command of everything.' - Themistocles",
+			},
+			{
+				"name": "Fire",
+				"row": 5,
 				"prerequisites": ["The Beginning"],
 				"quote": "'He who commands the sea has command of everything.' - Themistocles",
 			},
@@ -45,13 +51,13 @@
 			{
 				"name": "Fishing",
 				"row": 1,
-				"prerequisites": ["Fire"],
+				"prerequisites": ["Hunting"],
 				"quote": "'He who commands the sea has command of everything.' - Themistocles",
 			},
 			{
 				"name": "Early Agriculture",
 				"row": 3,
-				"prerequisites": ["Fire"],
+				"prerequisites": ["Fire","Hunting"],
 				"quote": "'He who commands the sea has command of everything.' - Themistocles",
 			},
 			{
