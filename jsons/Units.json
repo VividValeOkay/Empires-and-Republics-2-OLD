@@ -102,7 +102,7 @@
 		"movement": 4,
 		"strength": 12,
 		"cost": 90,
-		"requiredTech": "Early Ancient Military",
+		"requiredTech": "Ship Building",
 		"uniques": ["Can only be built <in cities with a [Docks]>","Cannot enter ocean tiles"],
 		"attackSound": "nonmetalhit"
 	},
