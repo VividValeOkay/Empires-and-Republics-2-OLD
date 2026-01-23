@@ -67,7 +67,7 @@
     "name": "Tannery",
     "cost": 90,
     "production": 1,
-    "requiredTech": "Early Ancient Production",
+    "requiredTech": "Construction",
   },
   {
     "name": "Barracks",
@@ -79,7 +79,7 @@
     "name": "Logging Camp",
     "cost": 100,
     "production": 2,
-    "requiredTech": "Early Ancient Production",
+    "requiredTech": "Construction",
     "uniques": ["[+1 Production] from [Forest] tiles [in this city]"],
   },
   {
@@ -120,7 +120,7 @@
     "name": "Bath",
     "cost": 100,
     "food": 2,
-    "requiredTech": "Early Ancient Growth",
+    "requiredTech": "COnstruction",
   },
   {
     "name": "Mill",
