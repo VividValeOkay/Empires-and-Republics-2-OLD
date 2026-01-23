@@ -82,6 +82,13 @@
 		"wonderCost": 100,
 		"techs": [
 			{
+				"name": "Writing",
+				"row": 2,
+				"prerequisites": ["Early Agriculture"],
+				"uniques": ["Enables Open Borders agreements"],
+				"quote": "'He who commands the sea has command of everything.' - Themistocles",
+			},
+			{
 				"name": "Mining",
 				"row": 5,
 				"prerequisites": ["Bronze Working"],
