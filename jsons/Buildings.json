@@ -40,7 +40,7 @@
     "name": "Furnace",
     "cost": 60,
     "production": 2,
-    "requiredTech": "Early Ancient Production", // Bronze workd=ing later NAHHHHH
+    "requiredTech": "Bronze Working",
   },
   {
 	"name": "Granary",
