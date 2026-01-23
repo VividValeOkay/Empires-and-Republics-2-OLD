@@ -126,12 +126,6 @@
 				"quote": "'He who commands the sea has command of everything.' - Themistocles",
 			},
 			{
-				"name": "Early Ancient Culture",
-				"row": 9,
-				"prerequisites": ["Early Agriculture"],
-				"quote": "'He who commands the sea has command of everything.' - Themistocles",
-			},
-			{
 				"name": "Early Ancient Military",
 				"row": 11,
 				"prerequisites": ["Early Agriculture"],
@@ -187,7 +181,7 @@
 			{
 				"name": "Late Ancient Culture",
 				"row": 9,
-				"prerequisites": ["Early Ancient Culture"],
+				"prerequisites": ["Early Ancient Faith"],
 				"quote": "'He who commands the sea has command of everything.' - Themistocles",
 			},
 			{
