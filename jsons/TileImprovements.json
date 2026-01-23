@@ -12,7 +12,7 @@
 	{
 		"name": "Pasture",
 		"turnsToBuild": 8,
-		"techRequired": "Early Ancient Growth",
+		"techRequired": "PLACEHOLDER",
 		"uniques": ["Can only be built to improve a resource", "Pillaging this improvement yields approximately [+10 Gold]"],
 		"shortcutKey": "P"
 	},
@@ -45,7 +45,7 @@
 		"name": "Plantation",
 		"turnsToBuild": 6,
 		"gold": 1,
-		"techRequired": "Early Ancient Growth",
+		"techRequired": "PLACEHOLDER",
 		"uniques": ["Can only be built to improve a resource", "Pillaging this improvement yields approximately [+10 Gold]"],
 		"shortcutKey": "P"
 	},
@@ -83,7 +83,7 @@
 	{
 		"name": "Remove Forest",
 		"turnsToBuild": 4,
-		"techRequired": "Early Ancient Production",
+		"techRequired": "PLACEHOLDER",
 		"uniques": ["Can be built outside your borders", "Excluded from map editor"],
 		"shortcutKey": "X",
         "civilopediaText": [{"text":"Provides a one-time Production bonus depending on distance to the closest city once finished"}]
