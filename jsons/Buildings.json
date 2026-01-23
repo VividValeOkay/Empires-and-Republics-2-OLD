@@ -86,7 +86,7 @@
     "name": "Weaver",
     "cost": 100,
     "production": 1,
-    "requiredTech": "Early Ancient Production",
+    "requiredTech": "PLACEHOLDER",
     "uniques": ["Provides [1] [Basket]","Only available <with [Sheep]> <in this city>","Limited to [2] per Civilization"],
   },
   {
@@ -100,13 +100,13 @@
     "name": "School",
     "cost": 100,
     "science": 2,
-    "requiredTech": "Early Ancient Science",
+    "requiredTech": "PLACEHOLDER",
   },
   {
 	"name": "Temple",
 	"faith": 2,
 	"cost": 120,
-	"requiredTech": "Early Ancient Faith",
+	"requiredTech": "PLACEHOLDER",
 	"uniques": ["Only available <when religion is enabled>"]
   },
   {
@@ -127,26 +127,26 @@
     "cost": 90,
     "production": 1,
 	"food": 1,
-    "requiredTech": "Late Ancient Growth",
+    "requiredTech": "PLACEHOLDER",
   },
   {
     "name": "Bakery",
     "cost": 80,
 	"production": 1,
 	"food": 1,
-    "requiredTech": "Late Ancient Growth",
+    "requiredTech": "PLACEHOLDER",
   },
   {
     "name": "Arena",
     "cost": 80,
 	"happiness": 2,
-    "requiredTech": "Late Ancient Growth",
+    "requiredTech": "PLACEHOLDER",
   },
   {
     "name": "Aqueduct",
     "cost": 80,
 	"happiness": 1,
-    "requiredTech": "Late Ancient Growth",
+    "requiredTech": "PLACEHOLDER",
 	"uniques": ["[40]% Food is carried over after population increases [in this city]"],
   },
   {
@@ -154,7 +154,7 @@
     "cost": 100,
 	"cityStrength": 3,
 	"cityHealth": 35,
-    "requiredTech": "Late Ancient Military",
+    "requiredTech": "Standing Army",
 	"uniques": ["Destroyed when the city is captured"],
   },
   {
