@@ -80,7 +80,7 @@
 		"rangedStrength": 11,
 		"range": 2,
 		"cost": 40,
-		"requiredTech": "Early Neolithic Military",
+		"requiredTech": "Archery",
 		"obsoleteTech": "Early Middle Ages Military",
 		"upgradesTo": "Crossbowman",
 	},
