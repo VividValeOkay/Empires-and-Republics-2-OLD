@@ -22,18 +22,6 @@
 		"wonderCost": 100,
 		"techs": [
 			{
-				"name": "Early Neolithic Science",
-				"row": 1,
-				"prerequisites": ["The Beginning"],
-				"quote": "'He who commands the sea has command of everything.' - Themistocles",
-			},
-			{
-				"name": "Early Neolithic Riches",
-				"row": 3,
-				"prerequisites": ["The Beginning"],
-				"quote": "'He who commands the sea has command of everything.' - Themistocles",
-			},
-			{
 				"name": "Early Neolithic Production",
 				"row": 5,
 				"prerequisites": ["The Beginning"],
@@ -58,8 +46,14 @@
 				"quote": "'He who commands the sea has command of everything.' - Themistocles",
 			},
 			{
-				"name": "Early Neolithic Faith",
+				"name": "Stone Making",
 				"row": 13,
+				"prerequisites": ["The Beginning"],
+				"quote": "'He who commands the sea has command of everything.' - Themistocles",
+			},
+			{
+				"name": "Fire",
+				"row": 15,
 				"prerequisites": ["The Beginning"],
 				"quote": "'He who commands the sea has command of everything.' - Themistocles",
 			},
@@ -75,20 +69,20 @@
 			{
 				"name": "Late Neolithic Science",
 				"row": 1,
-				"prerequisites": ["Early Neolithic Science"],
+				"prerequisites": ["Early Neolithic Production"],
 				"quote": "'He who commands the sea has command of everything.' - Themistocles",
 			},
 			{
 				"name": "Open Borders",
 				"row": 2,
-				"prerequisites": ["Early Neolithic Science"],
+				"prerequisites": ["Early Neolithic Production"],
 				"uniques": ["Enables Open Borders agreements"],
 				"quote": "'He who commands the sea has command of everything.' - Themistocles",
 			},
 			{
 				"name": "Late Neolithic Riches",
 				"row": 3,
-				"prerequisites": ["Early Neolithic Riches"],
+				"prerequisites": ["Early Neolithic Production"],
 				"quote": "'He who commands the sea has command of everything.' - Themistocles",
 			},
 			{
