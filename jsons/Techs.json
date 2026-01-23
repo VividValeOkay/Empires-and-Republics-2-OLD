@@ -82,21 +82,28 @@
 		"wonderCost": 100,
 		"techs": [
 			{
-				"name": "Writing",
+				"name": "Ship Building",
 				"row": 2,
+				"prerequisites": ["Fishing"],
+				"uniques": ["Enables embarkation for land units"],
+				"quote": "'He who commands the sea has command of everything.' - Themistocles",
+			},
+			{
+				"name": "Writing",
+				"row": 4,
 				"prerequisites": ["Early Agriculture"],
 				"uniques": ["Enables Open Borders agreements"],
 				"quote": "'He who commands the sea has command of everything.' - Themistocles",
 			},
 			{
 				"name": "Currency",
-				"row": 4,
+				"row": 6,
 				"prerequisites": ["Early Agriculture","Bronze Working"],
 				"quote": "'He who commands the sea has command of everything.' - Themistocles",
 			},
 			{
 				"name": "Mining",
-				"row": 6,
+				"row": 8,
 				"prerequisites": ["Bronze Working"],
 				"quote": "'He who commands the sea has command of everything.' - Themistocles",
 			},
