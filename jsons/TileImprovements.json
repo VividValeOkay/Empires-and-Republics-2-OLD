@@ -61,7 +61,7 @@
 		"name": "Road",
 		"terrainsCanBeBuiltOn": ["Land"],
 		"turnsToBuild": 4,
-		"techRequired": "Early Ancient Riches",
+		"techRequired": "Construction",
 		"uniques": ["Can be built outside your borders"],
 		"shortcutKey": "R",
 	},
