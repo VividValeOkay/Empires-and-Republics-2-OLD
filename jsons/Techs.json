@@ -112,7 +112,7 @@
 			{
 				"name": "Late Neolithic Faith",
 				"row": 13,
-				"prerequisites": ["Early Neolithic Faith"],
+				"prerequisites": ["Stone Making"],
 				"quote": "'He who commands the sea has command of everything.' - Themistocles",
 			},
 		]
