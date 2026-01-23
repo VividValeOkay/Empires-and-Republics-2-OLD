@@ -93,7 +93,7 @@
     "name": "Docks",
     "cost": 120,
     "gold": 2,
-    "requiredTech": "Early Ancient Riches",
+    "requiredTech": "Ship Building",
     "uniques": ["Can only be built <in [Coastal] tiles>"],
   },
   {
