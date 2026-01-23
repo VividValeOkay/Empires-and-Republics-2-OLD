@@ -128,7 +128,7 @@
 			},
 			{
 				"name": "Early Ancient Growth",
-				"row": 8,
+				"row": 9,
 				"prerequisites": ["Early Agriculture"],
 				"quote": "'He who commands the sea has command of everything.' - Themistocles",
 			},
