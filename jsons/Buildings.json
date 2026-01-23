@@ -120,7 +120,7 @@
     "name": "Bath",
     "cost": 100,
     "food": 2,
-    "requiredTech": "COnstruction",
+    "requiredTech": "Construction",
   },
   {
     "name": "Mill",
