@@ -89,8 +89,14 @@
 				"quote": "'He who commands the sea has command of everything.' - Themistocles",
 			},
 			{
+				"name": "Currency",
+				"row": 4,
+				"prerequisites": ["Early Agriculture","Bronze Working"],
+				"quote": "'He who commands the sea has command of everything.' - Themistocles",
+			},
+			{
 				"name": "Mining",
-				"row": 5,
+				"row": 6,
 				"prerequisites": ["Bronze Working"],
 				"quote": "'He who commands the sea has command of everything.' - Themistocles",
 			},
@@ -109,13 +115,13 @@
 			},
 			{
 				"name": "Early Ancient Production",
-				"row": 6,
+				"row": 7,
 				"prerequisites": ["Fishing"],
 				"quote": "'He who commands the sea has command of everything.' - Themistocles",
 			},
 			{
 				"name": "Early Ancient Growth",
-				"row": 7,
+				"row": 8,
 				"prerequisites": ["Early Agriculture"],
 				"quote": "'He who commands the sea has command of everything.' - Themistocles",
 			},
