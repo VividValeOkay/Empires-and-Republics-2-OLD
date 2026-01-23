@@ -61,8 +61,14 @@
 				"quote": "'He who commands the sea has command of everything.' - Themistocles",
 			},
 			{
-				"name": "Archery",
+				"name": "Bronze Working",
 				"row": 5,
+				"prerequisites": ["Stone Working"],
+				"quote": "'He who commands the sea has command of everything.' - Themistocles",
+			},
+			{
+				"name": "Archery",
+				"row": 7,
 				"prerequisites": ["Stone Working"],
 				"quote": "'He who commands the sea has command of everything.' - Themistocles",
 			},
@@ -75,6 +81,13 @@
 		"buildingCost": 80,
 		"wonderCost": 100,
 		"techs": [
+			{
+				"name": "Mining",
+				"row": 5,
+				"prerequisites": ["Bronze Working"],
+				"quote": "'He who commands the sea has command of everything.' - Themistocles",
+			},
+// OLD
 			{
 				"name": "Early Ancient Science",
 				"row": 1,
@@ -89,7 +102,7 @@
 			},
 			{
 				"name": "Early Ancient Production",
-				"row": 5,
+				"row": 6,
 				"prerequisites": ["Fishing"],
 				"quote": "'He who commands the sea has command of everything.' - Themistocles",
 			},
