@@ -113,7 +113,7 @@
     "name": "Market",
     "cost": 100,
     "gold": 2,
-    "requiredTech": "Early Ancient Riches",
+    "requiredTech": "Currency",
 	"uniques": ["[+2 Gold] <if [Docks] is constructed>"],
   },
   {
