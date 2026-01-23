@@ -161,7 +161,8 @@
     "name": "Mint",
     "cost": 85,
     "gold": 2,
-    "requiredTech": "Late Ancient Riches",
+    "requiredTech": "Currency",
+	"requiredBuilding": "Market",
   },
   {
     "name": "Garden",
