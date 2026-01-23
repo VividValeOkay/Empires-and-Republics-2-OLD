@@ -61,7 +61,7 @@
 	"science": 1,
 	"happiness": 1,
 	"uniques": ["[+1 Science] per [4] population [in this city]"],
-	"requiredTech": "Late Ancient Science"
+	"requiredTech": "Writing"
   },
   {
     "name": "Tannery",
