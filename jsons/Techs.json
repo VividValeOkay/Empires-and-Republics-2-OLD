@@ -29,13 +29,13 @@
 			},
 			{
 				"name": "Stone Working",
-				"row": 3,
+				"row": 5,
 				"prerequisites": ["The Beginning"],
 				"quote": "'He who commands the sea has command of everything.' - Themistocles",
 			},
 			{
 				"name": "Fire",
-				"row": 5,
+				"row": 8,
 				"prerequisites": ["The Beginning"],
 				"quote": "'He who commands the sea has command of everything.' - Themistocles",
 			},
