@@ -55,7 +55,7 @@
 				"quote": "'He who commands the sea has command of everything.' - Themistocles",
 			},
 			{
-				"name": "Early Agriculture",
+				"name": "Agriculture",
 				"row": 3,
 				"prerequisites": ["Fire","Hunting"],
 				"quote": "'He who commands the sea has command of everything.' - Themistocles",
@@ -97,14 +97,14 @@
 			{
 				"name": "Writing",
 				"row": 4,
-				"prerequisites": ["Early Agriculture"],
+				"prerequisites": ["Agriculture"],
 				"uniques": ["Enables Open Borders agreements"],
 				"quote": "'He who commands the sea has command of everything.' - Themistocles",
 			},
 			{
 				"name": "Currency",
 				"row": 6,
-				"prerequisites": ["Early Agriculture","Bronze Working"],
+				"prerequisites": ["Agriculture","Bronze Working"],
 				"quote": "'He who commands the sea has command of everything.' - Themistocles",
 			},
 			{
@@ -141,19 +141,19 @@
 			{
 				"name": "Early Ancient Growth",
 				"row": 9,
-				"prerequisites": ["Early Agriculture"],
+				"prerequisites": ["Agriculture"],
 				"quote": "'He who commands the sea has command of everything.' - Themistocles",
 			},
 			{
 				"name": "Early Ancient Military",
 				"row": 11,
-				"prerequisites": ["Early Agriculture"],
+				"prerequisites": ["Agriculture"],
 				"quote": "'He who commands the sea has command of everything.' - Themistocles",
 			},
 			{
 				"name": "Early Ancient Faith",
 				"row": 13,
-				"prerequisites": ["Early Agriculture"],
+				"prerequisites": ["Agriculture"],
 				"quote": "'He who commands the sea has command of everything.' - Themistocles",
 			},
 		]
