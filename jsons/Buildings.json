@@ -72,7 +72,7 @@
   {
     "name": "Barracks",
     "cost": 110,
-    "requiredTech": "Early Ancient Military",
+    "requiredTech": "Standing Army",
 	"uniques": ["New [Military] units start with [15] XP [in this city]","Destroyed when the city is captured"],
   },
   {
