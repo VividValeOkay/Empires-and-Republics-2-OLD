@@ -63,7 +63,7 @@
 			{
 				"name": "Archery",
 				"row": 5,
-				"prerequisites": ["Stone Making"],
+				"prerequisites": ["Stone Working"],
 				"quote": "'He who commands the sea has command of everything.' - Themistocles",
 			},
 		]
