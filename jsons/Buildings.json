@@ -14,20 +14,19 @@
 		"name": "Shrine",
 		"faith": 1,
 		"cost": 40,
-		"requiredTech": "Early Neolithic Faith",
 		"uniques": ["Only available <when religion is enabled>"]
   },
   {
 		"name": "Stone Circle",
 		"culture": 1,
 		"cost": 40,
-		"requiredTech": "Early Neolithic Culture",
+		"requiredTech": "Stone Working",
   },
   {
     "name": "Well",
     "cost": 50,
     "food": 2,
-    "requiredTech": "Early Neolithic Growth",
+    "requiredTech": "Early Agriculture",
     "uniques": ["[+1 Food] from [Farm] tiles [in this city]"],
   },
   {
@@ -35,24 +34,25 @@
     "cost": 20,
     "culture": 1,
     "happiness": 1,
+    "requiredTech": "Fire",
   },
   {
     "name": "Furnace",
     "cost": 60,
     "production": 2,
-    "requiredTech": "Early Neolithic Production", // Bronze workd=ing later NAHHHHH
+    "requiredTech": "Early Ancient Production", // Bronze workd=ing later NAHHHHH
   },
   {
 	"name": "Granary",
 	"cost": 70
 	"food": 2,
-	"requiredTech": "Early Neolithic Growth"
+	"requiredTech": "Early Agriculture"
   },
   {
     "name": "Fermenting Pit",
     "cost": 40,
     "happiness": 2,
-    "requiredTech": "Late Neolithic Growth",
+    "requiredTech": "Late Ancient Growth",
     "requiredResource": "Grapes",
   },
   {
@@ -61,7 +61,7 @@
 	"science": 1,
 	"happiness": 1,
 	"uniques": ["[+1 Science] per [4] population [in this city]"],
-	"requiredTech": "Late Neolithic Science"
+	"requiredTech": "Late Ancient Science"
   },
   {
     "name": "Tannery",
@@ -175,7 +175,7 @@
     "cost": 120,
     "faith": 1,
     "requiredTech": "Early Middle Ages Faith",
-	"uniques": ["[+1 Faith] per [4] population [in this city]"]
+	"uniques": ["[+1 Faith] per [4] population [in this city]","Only available <when religion is enabled>"]
   },
   {
     "name": "Chemist",
