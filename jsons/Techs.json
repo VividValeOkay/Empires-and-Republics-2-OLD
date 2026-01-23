@@ -48,6 +48,7 @@
 				"prerequisites": ["Fire"],
 				"quote": "'He who commands the sea has command of everything.' - Themistocles",
 			},
+			{
 				"name": "Early Agriculture",
 				"row": 3,
 				"prerequisites": ["Fire"],
