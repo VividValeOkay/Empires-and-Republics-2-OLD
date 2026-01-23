@@ -67,7 +67,7 @@
     "name": "Tannery",
     "cost": 90,
     "production": 1,
-    "requiredTech": "Construction",
+    "requiredTech": "Trapping",
   },
   {
     "name": "Barracks",
