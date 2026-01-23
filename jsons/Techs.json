@@ -68,13 +68,13 @@
 			},
 			{
 				"name": "Bronze Working",
-				"row": 6,
+				"row": 8,
 				"prerequisites": ["Stone Working"],
 				"quote": "'He who commands the sea has command of everything.' - Themistocles",
 			},
 			{
 				"name": "Archery",
-				"row": 8,
+				"row": 10,
 				"prerequisites": ["Stone Working"],
 				"quote": "'He who commands the sea has command of everything.' - Themistocles",
 			},
