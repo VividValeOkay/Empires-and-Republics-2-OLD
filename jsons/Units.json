@@ -23,7 +23,7 @@
 		"movement": 2,
 		"strength": 5,
 		"cost": 40,
-		"obsoleteTech": "Early Age of Discovery Military",
+		"obsoleteTech": "PLACEHOLDER",
 		"upgradesTo": "Spearman",
 		"attackSound": "nonmetalhit",
 	},
