@@ -43,7 +43,7 @@
 		"strength": 9,
 		"cost": 50,
 		"requiredTech": "Standing Army",
-		"obsoleteTech": "Late Middle Ages Military",
+		"obsoleteTech": "PLACEHOLDER",
 		"upgradesTo": "Footman",
 		"uniques": ["[+50]% Strength <vs [Mounted] units>"],
 		"attackSound": "metalhit"
