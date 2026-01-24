@@ -196,7 +196,7 @@
     "name": "Bank",
     "cost": 140,
     "gold": 3,
-    "requiredTech": "PLACEHOLDER",
+    "requiredTech": "Chartered Companies",
   },
   {
     "name": "Tailor",
@@ -287,7 +287,7 @@
     "name": "Stock Exchange",
     "cost": 190,
     "gold": 3,
-    "requiredTech": "Late Age of Imperialism Riches",
+    "requiredTech": "Chartered Companies",
   },
   {
 	"name": "Printer",
