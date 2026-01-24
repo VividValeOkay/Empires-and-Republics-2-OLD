@@ -168,14 +168,14 @@
     "name": "Garden",
     "cost": 100,
     "happiness": 2,
-    "requiredTech": "PLACEHOLDER",
+    "requiredTech": "Theology",
 	"uniques": ["Must be next to [Fresh water]"]
   },
   {
     "name": "Worship House",
     "cost": 120,
     "faith": 1,
-    "requiredTech": "PLACEHOLDER",
+    "requiredTech": "Theology",
 	"uniques": ["[+1 Faith] per [4] population [in this city]","Only available <when religion is enabled>"]
   },
   {
