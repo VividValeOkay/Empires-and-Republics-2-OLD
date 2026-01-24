@@ -168,6 +168,12 @@
 		"wonderCost": 100,
 		"techs": [
 			{
+				"name": "Philosophy",
+				"row": 4,
+				"prerequisites": ["Hydrology"],
+				"quote": "'He who commands the sea has command of everything.' - Themistocles",
+			},
+			{
 				"name": "ANCIENT",
 				"row": 14,
 				"prerequisites": ["Hydrology"],
