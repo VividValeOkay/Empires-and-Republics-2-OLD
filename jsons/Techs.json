@@ -197,12 +197,6 @@
 				"prerequisites": ["Organised Warfare","Horse Riding"],
 				"quote": "'He who commands the sea has command of everything.' - Themistocles",
 			},
-			{
-				"name": "ANCIENT",
-				"row": 14,
-				"prerequisites": ["Hydrology"],
-				"quote": "'He who commands the sea has command of everything.' - Themistocles",
-			},
 		]
 	},
 	{
@@ -213,47 +207,9 @@
 		"wonderCost": 100,
 		"techs": [
 			{
-				"name": "Early Middle Ages Science",
-				"row": 1,
-				"prerequisites": ["ANCIENT"],
-				"uniques": ["Enables conversion of city production to [Science]"],
-				"quote": "'He who commands the sea has command of everything.' - Themistocles",
-			},
-			{
-				"name": "Early Middle Ages Riches",
-				"row": 3,
-				"prerequisites": ["ANCIENT"],
-				"uniques": ["Enables conversion of city production to [Gold]"],
-				"quote": "'He who commands the sea has command of everything.' - Themistocles",
-			},
-			{
-				"name": "Early Middle Ages Production",
-				"row": 5,
-				"prerequisites": ["ANCIENT"],
-				"quote": "'He who commands the sea has command of everything.' - Themistocles",
-			},
-			{
-				"name": "Early Middle Ages Growth",
-				"row": 7,
-				"prerequisites": ["ANCIENT"],
-				"quote": "'He who commands the sea has command of everything.' - Themistocles",
-			},
-			{
-				"name": "Early Middle Ages Culture",
-				"row": 9,
-				"prerequisites": ["ANCIENT"],
-				"quote": "'He who commands the sea has command of everything.' - Themistocles",
-			},
-			{
-				"name": "Early Middle Ages Military",
-				"row": 11,
-				"prerequisites": ["ANCIENT"],
-				"quote": "'He who commands the sea has command of everything.' - Themistocles",
-			},
-			{
-				"name": "Early Middle Ages Faith",
-				"row": 13,
-				"prerequisites": ["ANCIENT"],
+				"name": "ANCIENT",
+				"row": 14,
+				"prerequisites": ["Philosophy"],
 				"quote": "'He who commands the sea has command of everything.' - Themistocles",
 			},
 		]
@@ -268,44 +224,44 @@
 			{
 				"name": "Late Middle Ages Science",
 				"row": 1,
-				"prerequisites": ["Early Middle Ages Science"],
+				"prerequisites": ["ANCIENT"],
 				"uniques": ["Enables Research agreements"],
 				"quote": "'He who commands the sea has command of everything.' - Themistocles",
 			},
 			{
 				"name": "Late Middle Ages Riches",
 				"row": 3,
-				"prerequisites": ["Early Middle Ages Science"],
+				"prerequisites": ["ANCIENT"],
 				"quote": "'He who commands the sea has command of everything.' - Themistocles",
 			},
 			{
 				"name": "Late Middle Ages Production",
 				"row": 5,
-				"prerequisites": ["Early Middle Ages Production"],
+				"prerequisites": ["ANCIENT"],
 				"quote": "'He who commands the sea has command of everything.' - Themistocles",
 			},
 			{
 				"name": "Late Middle Ages Growth",
 				"row": 7,
-				"prerequisites": ["Early Middle Ages Growth"],
+				"prerequisites": ["ANCIENT"],
 				"quote": "'He who commands the sea has command of everything.' - Themistocles",
 			},
 			{
 				"name": "Late Middle Ages Culture",
 				"row": 9,
-				"prerequisites": ["Early Middle Ages Culture"],
+				"prerequisites": ["ANCIENT"],
 				"quote": "'He who commands the sea has command of everything.' - Themistocles",
 			},
 			{
 				"name": "Late Middle Ages Military",
 				"row": 11,
-				"prerequisites": ["Early Middle Ages Military"],
+				"prerequisites": ["ANCIENT"],
 				"quote": "'He who commands the sea has command of everything.' - Themistocles",
 			},
 			{
 				"name": "Late Middle Ages Faith",
 				"row": 13,
-				"prerequisites": ["Early Middle Ages Faith"],
+				"prerequisites": ["ANCIENT"],
 				"quote": "'He who commands the sea has command of everything.' - Themistocles",
 			},
 		]
