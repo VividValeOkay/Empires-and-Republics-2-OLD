@@ -119,7 +119,7 @@
 	{
 		"name": "Iron",
 		"resourceType": "Strategic",
-		"revealedBy": "Standing Army",
+		"revealedBy": "Iron Working",
 		"terrainsCanBeFoundOn": ["Grassland","Plains","Desert","Tundra","Snow","Hill"],
 		"production": 1,
 		"improvement": "Mine",
