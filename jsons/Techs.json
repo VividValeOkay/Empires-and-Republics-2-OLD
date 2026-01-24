@@ -135,9 +135,15 @@
 		"wonderCost": 100,
 		"techs": [
 			{
+				"name": "Baking",
+				"row": 4,
+				"prerequisites": ["Currency","Writing"],
+				"quote": "'He who commands the sea has command of everything.' - Themistocles",
+			},
+			{
 				"name": "Hydrology",
 				"row": 8,
-				"prerequisites": ["Construction"],
+				"prerequisites": ["Construction","Ship Building"],
 				"quote": "'He who commands the sea has command of everything.' - Themistocles",
 			},
 			{
