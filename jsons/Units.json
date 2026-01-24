@@ -161,7 +161,7 @@
 		"strength": 14,
 		"cost": 90,
 		"requiredTech": "Military Tactics",
-		"obsoleteTech": "PLACEHOLDER",
+		"obsoleteTech": "Centralised Power",
 		"upgradesTo": "Halberdier",
 		"uniques": ["[+50]% Strength <vs [Mounted] units>"],
 		"attackSound": "metalhit"
@@ -218,7 +218,7 @@
 		"movement": 2,
 		"strength": 19,
 		"cost": 90,
-		"requiredTech": "PLACEHOLDER",
+		"requiredTech": "Centralised Power",
 		"obsoleteTech": "Late Machine Age Military",
 		"upgradesTo": "Anti-Tank Gun",
 		"uniques": ["[+50]% Strength <vs [Mounted] units>"],
