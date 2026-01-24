@@ -137,7 +137,7 @@
 		"movement": 2,
 		"strength": 15,
 		"cost": 90,
-		"requiredTech": "PLACEHOLDER",
+		"requiredTech": "Military Tactics",
 		"obsoleteTech": "Early Age of Discovery Military",
 		"upgradesTo": "Halberdier",
 		"attackSound": "metalhit"
