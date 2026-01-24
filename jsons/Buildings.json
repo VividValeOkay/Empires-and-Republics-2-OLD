@@ -210,7 +210,7 @@
     "name": "University",
     "cost": 170,
     "science": 2,
-    "requiredTech": "Early Age of Discovery Science",
+    "requiredTech": "Education",
   },
   {
     "name": "Taxation Office",
