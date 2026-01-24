@@ -208,7 +208,7 @@
 		"movement": 4,
 		"strength": 19,
 		"cost": 165,
-		"requiredTech": "PLACEHOLDER",
+		"requiredTech": "Astronomy",
 		"uniques": ["Can only be built <in cities with a [Docks]>","[+1] Sight"],
 		"attackSound": "cannon"
 	},
