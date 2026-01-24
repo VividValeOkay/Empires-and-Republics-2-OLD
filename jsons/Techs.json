@@ -286,8 +286,14 @@
 				"quote": "'He who commands the sea has command of everything.' - Themistocles",
 			},
 			{
-				"name": "Military Architecture",
+				"name": "Heavy Infantry",
 				"row": 11,
+				"prerequisites": ["Chivalry"],
+				"quote": "'He who commands the sea has command of everything.' - Themistocles",
+			},
+			{
+				"name": "Military Architecture",
+				"row": 12,
 				"prerequisites": ["Chivalry"],
 				"quote": "'He who commands the sea has command of everything.' - Themistocles",
 			},
