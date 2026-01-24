@@ -100,7 +100,7 @@
     "name": "School",
     "cost": 100,
     "science": 2,
-    "requiredTech": "PLACEHOLDER",
+    "requiredTech": "Philosophy",
   },
   {
 	"name": "Temple",
