@@ -54,7 +54,7 @@
 		"movement": 2,
 		"strength": 10,
 		"cost": 70,
-		"requiredTech": "PLACEHOLDER",
+		"requiredTech": "Standing Army",
 		"obsoleteTech": "Late Middle Ages Military",
 		"upgradesTo": "Man-at-Arms",
 		"requiredResource": "Iron",
