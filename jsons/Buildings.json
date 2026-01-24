@@ -244,7 +244,7 @@
     "name": "Forge",
     "cost": 170,
     "production": 2,
-    "requiredTech": "Late Age of Discovery Production",
+    "requiredTech": "Furnace Steel",
   },
   {
     "name": "Museum",
