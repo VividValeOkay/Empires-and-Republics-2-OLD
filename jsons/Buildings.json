@@ -140,7 +140,7 @@
     "name": "Arena",
     "cost": 80,
 	"happiness": 2,
-    "requiredTech": "PLACEHOLDER",
+    "requiredTech": "Construction",
   },
   {
     "name": "Aqueduct",
@@ -168,21 +168,21 @@
     "name": "Garden",
     "cost": 100,
     "happiness": 2,
-    "requiredTech": "Early Middle Ages Growth",
+    "requiredTech": "PLACEHOLDER",
 	"uniques": ["Must be next to [Fresh water]"]
   },
   {
     "name": "Worship House",
     "cost": 120,
     "faith": 1,
-    "requiredTech": "Early Middle Ages Faith",
+    "requiredTech": "PLACEHOLDER",
 	"uniques": ["[+1 Faith] per [4] population [in this city]","Only available <when religion is enabled>"]
   },
   {
     "name": "Chemist",
     "cost": 120,
     "food": 1,
-    "requiredTech": "Early Middle Ages Growth",
+    "requiredTech": "PLACEHOLDER",
   },
   {
     "name": "Amphitheater",
@@ -196,13 +196,13 @@
     "name": "Bank",
     "cost": 140,
     "gold": 3,
-    "requiredTech": "Late Middle Ages Riches",
+    "requiredTech": "PLACEHOLDER",
   },
   {
     "name": "Tailor",
     "cost": 140,
     "production": 1,
-    "requiredTech": "Late Middle Ages Production",
+    "requiredTech": "PLACEHOLDER",
     "requiredResource": "Basket",
     "uniques": ["Provides [1] [Tunics]","Consumes [1] [Basket]","Limited to [2] per Civilization"],
   },
