@@ -182,7 +182,7 @@
     "name": "Chemist",
     "cost": 120,
     "food": 1,
-    "requiredTech": "PLACEHOLDER",
+    "requiredTech": "Alchemy",
   },
   {
     "name": "Amphitheater",
