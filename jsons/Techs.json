@@ -135,20 +135,32 @@
 		"wonderCost": 100,
 		"techs": [
 			{
+				"name": "Hydrology",
+				"row": 8,
+				"prerequisites": ["Construction"],
+				"quote": "'He who commands the sea has command of everything.' - Themistocles",
+			},
+			{
 				"name": "Organised Warfare",
 				"row": 10,
 				"prerequisites": ["Standing Army"],
 				"quote": "'He who commands the sea has command of everything.' - Themistocles",
 			},
 			{
+				"name": "Horse Riding",
+				"row": 11,
+				"prerequisites": ["Standing Army"],
+				"quote": "'He who commands the sea has command of everything.' - Themistocles",
+			},
+			{
 				"name": "Fortifications",
-				"row": 12,
+				"row": 13,
 				"prerequisites": ["Standing Army","Mining"],
 				"quote": "'He who commands the sea has command of everything.' - Themistocles",
 			},
 			{
 				"name": "ANCIENT",
-				"row": 13,
+				"row": 14,
 				"prerequisites": ["Construction"],
 				"quote": "'He who commands the sea has command of everything.' - Themistocles",
 			},
