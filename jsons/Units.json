@@ -90,7 +90,7 @@
 		"movement": 3,
 		"strength": 12,
 		"cost": 90,
-		"requiredTech": "PLACEHOLDER",
+		"requiredTech": "Horse Riding",
 		"obsoleteTech": "Late Middle Ages Military",
 		"upgradesTo": "Knight",
 		"requiredResource": "Horses",
