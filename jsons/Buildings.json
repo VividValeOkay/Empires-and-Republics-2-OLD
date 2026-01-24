@@ -127,14 +127,14 @@
     "cost": 90,
     "production": 1,
 	"food": 1,
-    "requiredTech": "PLACEHOLDER",
+    "requiredTech": "Baking",
   },
   {
     "name": "Bakery",
     "cost": 80,
 	"production": 1,
 	"food": 1,
-    "requiredTech": "PLACEHOLDER",
+    "requiredTech": "Baking",
   },
   {
     "name": "Arena",
