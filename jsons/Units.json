@@ -113,7 +113,7 @@
 		"strength": 7,
 		"rangedStrength": 11,
 		"cost": 85,
-		"requiredTech": "Organised Warfare",
+		"requiredTech": "Siege Tactics",
 		"obsoleteTech": "Late Age of Discovery Military",
 		"upgradesTo": "Cannon",
 		"uniques": ["[+200]% Strength <vs cities> <when attacking>", "No defensive terrain bonus",
