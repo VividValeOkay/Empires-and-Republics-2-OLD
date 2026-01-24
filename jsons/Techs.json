@@ -207,6 +207,12 @@
 		"wonderCost": 100,
 		"techs": [
 			{
+				"name": "Alchemy",
+				"row": 4,
+				"prerequisites": ["Philosophy"],
+				"quote": "'He who commands the sea has command of everything.' - Themistocles",
+			},
+			{
 				"name": "ANCIENT",
 				"row": 14,
 				"prerequisites": ["Philosophy"],
