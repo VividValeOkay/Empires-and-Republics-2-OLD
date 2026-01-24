@@ -113,7 +113,7 @@
 		"strength": 7,
 		"rangedStrength": 11,
 		"cost": 85,
-		"requiredTech": "PLACEHOLDER",
+		"requiredTech": "Organised Warfare",
 		"obsoleteTech": "Late Age of Discovery Military",
 		"upgradesTo": "Cannon",
 		"uniques": ["[+200]% Strength <vs cities> <when attacking>", "No defensive terrain bonus",
@@ -126,7 +126,7 @@
 		"movement": 2,
 		"strength": 9,
 		"cost": 85,
-		"requiredTech": "PLACEHOLDER",
+		"requiredTech": "Organised Warfare",
 		"uniques": ["[+300]% Strength <vs cities> <when attacking>", "No defensive terrain bonus", "[-33]% Strength <when defending>",
 		"[-1] Sight", "Can only attack [City] units"],
 		"attackSound": "throw"
