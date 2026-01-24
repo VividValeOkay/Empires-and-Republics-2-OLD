@@ -182,7 +182,7 @@
 			{
 				"name": "Rhetoric",
 				"row": 5,
-				"prerequisites": ["Baking"],
+				"prerequisites": ["Hydrology"],
 				"quote": "'He who commands the sea has command of everything.' - Themistocles",
 			},
 			{
