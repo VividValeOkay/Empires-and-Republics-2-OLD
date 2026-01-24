@@ -216,7 +216,7 @@
     "name": "Taxation Office",
     "cost": 170,
     "gold": 3,
-    "requiredTech": "Late Age of Discovery Riches",
+    "requiredTech": "PLACEHOLDER",
 	"uniques": ["[+1 Gold] from [Luxury resource] tiles [in all cities]"],
   },
   {
@@ -224,7 +224,7 @@
     "cost": 180,
     "gold": 2,
 	"production": 1,
-    "requiredTech": "Late Age of Discovery Riches",
+    "requiredTech": "PLACEHOLDER",
     "uniques": ["Can only be built <in [Coastal] tiles>"],
   },
   {
@@ -232,13 +232,13 @@
     "cost": 160,
     "culture": 3,
 	"happiness": 1,
-    "requiredTech": "Early Age of Discovery Culture",
+    "requiredTech": "PLACEHOLDER",
   },
   {
     "name": "Plaza",
     "cost": 165,
 	"happiness": 3,
-    "requiredTech": "Late Age of Discovery Culture",
+    "requiredTech": "PLACEHOLDER",
   },
   {
     "name": "Forge",
@@ -267,7 +267,7 @@
     "science": 4,
 	"requiredBuilding": "University",
 	"uniques": ["Must be next to [Mountain]"],
-	"requiredTech": "Late Age of Discovery Science"
+	"requiredTech": "PLACEHOLDER"
   },
   {
     "name": "Cement Plant",
