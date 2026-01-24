@@ -307,6 +307,12 @@
 		"wonderCost": 100,
 		"techs": [
 			{
+				"name": "Centralised Power",
+				"row": 9,
+				"prerequisites": ["Heavy Infantry"],
+				"quote": "'He who commands the sea has command of everything.' - Themistocles",
+			},
+			{
 				"name": "ANCIENT",
 				"row": 14,
 				"prerequisites": ["Education"],
