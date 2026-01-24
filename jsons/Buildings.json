@@ -216,7 +216,7 @@
     "name": "Taxation Office",
     "cost": 170,
     "gold": 3,
-    "requiredTech": "PLACEHOLDER",
+    "requiredTech": "Centralised Power",
 	"uniques": ["[+1 Gold] from [Luxury resource] tiles [in all cities]"],
   },
   {
