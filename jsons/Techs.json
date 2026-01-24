@@ -253,6 +253,12 @@
 				"quote": "'He who commands the sea has command of everything.' - Themistocles",
 			},
 			{
+				"name": "Machinery",
+				"row": 10,
+				"prerequisites": ["Military Tactics"],
+				"quote": "'He who commands the sea has command of everything.' - Themistocles",
+			},
+			{
 				"name": "Chivalry",
 				"row": 11,
 				"prerequisites": ["Military Tactics"],
