@@ -146,7 +146,7 @@
     "name": "Aqueduct",
     "cost": 80,
 	"happiness": 1,
-    "requiredTech": "PLACEHOLDER",
+    "requiredTech": "Fortifications",
 	"uniques": ["[40]% Food is carried over after population increases [in this city]"],
   },
   {
@@ -154,7 +154,7 @@
     "cost": 100,
 	"cityStrength": 3,
 	"cityHealth": 35,
-    "requiredTech": "Standing Army",
+    "requiredTech": "Fortifications",
 	"uniques": ["Destroyed when the city is captured"],
   },
   {
