@@ -180,6 +180,12 @@
 				"quote": "'He who commands the sea has command of everything.' - Themistocles",
 			},
 			{
+				"name": "Siege Tactics",
+				"row": 10,
+				"prerequisites": ["Organised Warfare","Fortifications"],
+				"quote": "'He who commands the sea has command of everything.' - Themistocles",
+			},
+			{
 				"name": "ANCIENT",
 				"row": 14,
 				"prerequisites": ["Hydrology"],
