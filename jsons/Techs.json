@@ -307,6 +307,12 @@
 		"wonderCost": 100,
 		"techs": [
 			{
+				"name": "Chartered Companies",
+				"row": 6,
+				"prerequisites": ["Seafaring Mastery"],
+				"quote": "'He who commands the sea has command of everything.' - Themistocles",
+			},
+			{
 				"name": "Centralised Power",
 				"row": 9,
 				"prerequisites": ["Heavy Infantry"],
