@@ -267,6 +267,18 @@
 		"buildingCost": 120,
 		"wonderCost": 100,
 		"techs": [
+	        {
+				"name": "Seafaring Mastery",
+				"row": 2,
+				"prerequisites": ["Compass"],
+				"quote": "'He who commands the sea has command of everything.' - Themistocles",
+			},
+			{
+				"name": "Education",
+				"row": 4,
+				"prerequisites": ["Theology"],
+				"quote": "'He who commands the sea has command of everything.' - Themistocles",
+			},
 			{
 				"name": "Military Architecture",
 				"row": 11,
