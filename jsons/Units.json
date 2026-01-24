@@ -81,7 +81,7 @@
 		"range": 2,
 		"cost": 40,
 		"requiredTech": "Archery",
-		"obsoleteTech": "PLACEHOLDER",
+		"obsoleteTech": "Machinery",
 		"upgradesTo": "Crossbowman",
 	},
 	{
@@ -174,7 +174,7 @@
 		"rangedStrength": 16,
 		"range": 2,
 		"cost": 80,
-		"requiredTech": "PLACEHOLDER",
+		"requiredTech": "Machinery",
 		"obsoleteTech": "Late Age of Imperialism Military",
 		"upgradesTo": "Fieldgun",
 	},
