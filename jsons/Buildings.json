@@ -106,7 +106,7 @@
 	"name": "Temple",
 	"faith": 2,
 	"cost": 120,
-	"requiredTech": "PLACEHOLDER",
+	"requiredTech": "Rhetoric",
 	"uniques": ["Only available <when religion is enabled>"]
   },
   {
@@ -190,7 +190,7 @@
     "culture": 3,
 	"happiness": 1,
 	"uniques": ["Destroyed when the city is captured"],
-    "requiredTech": "Late Middle Ages Culture",
+    "requiredTech": "Rhetoric",
   },
   {
     "name": "Bank",
