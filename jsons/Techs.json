@@ -181,8 +181,14 @@
 			},
 			{
 				"name": "Siege Tactics",
-				"row": 10,
+				"row": 11,
 				"prerequisites": ["Organised Warfare","Fortifications"],
+				"quote": "'He who commands the sea has command of everything.' - Themistocles",
+			},
+			{
+				"name": "Standing Army",
+				"row": 10,
+				"prerequisites": ["Organised Warfare","Horse Riding"],
 				"quote": "'He who commands the sea has command of everything.' - Themistocles",
 			},
 			{
