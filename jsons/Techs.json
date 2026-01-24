@@ -258,16 +258,25 @@
 				"prerequisites": ["Military Tactics"],
 				"quote": "'He who commands the sea has command of everything.' - Themistocles",
 			},
+		]
+	},
+	{
+		"columnNumber": 8,
+		"era": "High Middle Ages",
+		"techCost": 200,
+		"buildingCost": 120,
+		"wonderCost": 100,
+		"techs": [
 			{
 				"name": "ANCIENT",
 				"row": 14,
-				"prerequisites": ["Alchemy"],
+				"prerequisites": ["Compass"],
 				"quote": "'He who commands the sea has command of everything.' - Themistocles",
 			},
 		]
 	},
 	{
-		"columnNumber": 8,
+		"columnNumber": 9,
 		"era": "Age of Discovery",
 		"techCost": 280,
 		"buildingCost": 160,
@@ -321,7 +330,7 @@
 		]
 	},
 	{
-		"columnNumber": 9,
+		"columnNumber": 10,
 		"era": "Age of Discovery",
 		"techCost": 280,
 		"buildingCost": 160,
@@ -373,7 +382,7 @@
 		]
 	},
 	{
-		"columnNumber": 10,
+		"columnNumber": 11,
 		"era": "Age of Imperialism",
 		"techCost": 330,
 		"buildingCost": 240,
@@ -424,7 +433,7 @@
 		]
 	},
 	{
-		"columnNumber": 11,
+		"columnNumber": 12,
 		"era": "Age of Imperialism",
 		"techCost": 330,
 		"buildingCost": 240,
@@ -475,7 +484,7 @@
 		]
 	},
 	{
-		"columnNumber": 12,
+		"columnNumber": 13,
 		"era": "Machine Age",
 		"techCost": 380,
 		"buildingCost": 240,
@@ -526,7 +535,7 @@
 		]
 	},
 	{
-		"columnNumber": 13,
+		"columnNumber": 14,
 		"era": "Machine Age",
 		"techCost": 380,
 		"buildingCost": 240,
@@ -577,7 +586,7 @@
 		]
 	},
 	{
-		"columnNumber": 14,
+		"columnNumber": 15,
 		"era": "Age of Atom",
 		"techCost": 430,
 		"buildingCost": 240,
@@ -628,7 +637,7 @@
 		]
 	},
 	{
-		"columnNumber": 15,
+		"columnNumber": 16,
 		"era": "Age of Atom",
 		"techCost": 430,
 		"buildingCost": 380,
@@ -679,7 +688,7 @@
 		]
 	},
 	{
-		"columnNumber": 16,
+		"columnNumber": 17,
 		"era": "Age of Information",
 		"techCost": 500,
 		"buildingCost": 300,
@@ -730,7 +739,7 @@
 		]
 	},
 	{
-		"columnNumber": 17,
+		"columnNumber": 18,
 		"era": "Age of Information",
 		"techCost": 500,
 		"buildingCost": 300,
@@ -781,7 +790,7 @@
 		]
 	},
 	{
-		"columnNumber": 18,
+		"columnNumber": 19,
 		"era": "Age of Tomorrow",
 		"techCost": 800,
 		"buildingCost": 500,
