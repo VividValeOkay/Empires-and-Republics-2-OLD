@@ -234,6 +234,19 @@
 		"wonderCost": 100,
 		"techs": [
 			{
+				"name": "Guilds",
+				"row": 6,
+				"prerequisites": ["Alchemy"],
+				"uniques": ["Enables conversion of city production to [Gold]"],
+				"quote": "'He who commands the sea has command of everything.' - Themistocles",
+			},
+			{
+				"name": "Chivalry",
+				"row": 11,
+				"prerequisites": ["Military Tactics"],
+				"quote": "'He who commands the sea has command of everything.' - Themistocles",
+			},
+			{
 				"name": "ANCIENT",
 				"row": 14,
 				"prerequisites": ["Alchemy"],
