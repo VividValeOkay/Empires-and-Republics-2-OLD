@@ -142,7 +142,7 @@
 	{
 		"name": "Niter",
 		"resourceType": "Strategic",
-		"revealedBy": "Early Age of Discovery Military",
+		"revealedBy": "PLACEHOLDER",
 		"terrainsCanBeFoundOn": ["Grassland","Plains"],
 		"production": 1,
 		"improvement": "Mine",
