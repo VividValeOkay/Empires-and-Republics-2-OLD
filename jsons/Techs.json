@@ -135,6 +135,12 @@
 		"wonderCost": 100,
 		"techs": [
 			{
+				"name": "Organised Warfare",
+				"row": 10,
+				"prerequisites": ["Standing Army"],
+				"quote": "'He who commands the sea has command of everything.' - Themistocles",
+			},
+			{
 				"name": "ANCIENT",
 				"row": 13,
 				"prerequisites": ["Construction"],
