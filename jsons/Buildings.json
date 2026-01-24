@@ -146,7 +146,7 @@
     "name": "Aqueduct",
     "cost": 80,
 	"happiness": 1,
-    "requiredTech": "Fortifications",
+    "requiredTech": "Hydrology",
 	"uniques": ["[40]% Food is carried over after population increases [in this city]"],
   },
   {
