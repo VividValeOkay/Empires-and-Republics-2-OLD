@@ -176,13 +176,13 @@
 			{
 				"name": "Philosophy",
 				"row": 4,
-				"prerequisites": ["Hydrology"],
+				"prerequisites": ["Baking"],
 				"quote": "'He who commands the sea has command of everything.' - Themistocles",
 			},
 			{
 				"name": "Rhetoric",
 				"row": 5,
-				"prerequisites": ["Hydrology"],
+				"prerequisites": ["Baking"],
 				"quote": "'He who commands the sea has command of everything.' - Themistocles",
 			},
 			{
