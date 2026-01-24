@@ -234,9 +234,21 @@
 		"wonderCost": 100,
 		"techs": [
 			{
+				"name": "Compass",
+				"row": 2,
+				"prerequisites": ["Alchemy"],
+				"quote": "'He who commands the sea has command of everything.' - Themistocles",
+			},
+			{
+				"name": "Theology",
+				"row": 5,
+				"prerequisites": ["Alchemy"],
+				"quote": "'He who commands the sea has command of everything.' - Themistocles",
+			},
+			{
 				"name": "Guilds",
 				"row": 6,
-				"prerequisites": ["Alchemy"],
+				"prerequisites": ["Furnace Steel"],
 				"uniques": ["Enables conversion of city production to [Gold]"],
 				"quote": "'He who commands the sea has command of everything.' - Themistocles",
 			},
