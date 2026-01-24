@@ -213,6 +213,12 @@
 				"quote": "'He who commands the sea has command of everything.' - Themistocles",
 			},
 			{
+				"name": "Furnace Steel",
+				"row": 8,
+				"prerequisites": ["Iron Working"],
+				"quote": "'He who commands the sea has command of everything.' - Themistocles",
+			},
+			{
 				"name": "ANCIENT",
 				"row": 14,
 				"prerequisites": ["Philosophy"],
