@@ -326,6 +326,12 @@
 				"quote": "'To better manage the evolution of complex empires—including wily lords with grand ambitions—a centralised system to collect and disburse taxes is necessary.' - Humankind",
 			},
 			{
+				"name": "Gunpowder",
+				"row": 10,
+				"prerequisites": ["Heavy Infantry","Military Architecture"],
+				"quote": "'To better manage the evolution of complex empires—including wily lords with grand ambitions—a centralised system to collect and disburse taxes is necessary.' - Humankind",
+			},
+			{
 				"name": "ANCIENT",
 				"row": 14,
 				"prerequisites": ["Education"],
