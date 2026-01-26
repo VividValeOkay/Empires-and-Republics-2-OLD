@@ -372,6 +372,12 @@
 				"quote": "'Colonialism. The enforced spread of the rule of reason. But who is going to spread it among the colonisers?' - Anthony Burgess",
 			},
 			{
+				"name": "Navigation",
+				"row": 12,
+				"prerequisites": ["Gunpowder","Astronomy"],
+				"quote": "'It’s not the towering sails, but the unseen wind that moves a ship.' - English Proverb",
+			},
+			{
 				"name": "ANCIENT",
 				"row": 14,
 				"prerequisites": ["Astronomy"],
