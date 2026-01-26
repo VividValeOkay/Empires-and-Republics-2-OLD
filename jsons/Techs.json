@@ -421,10 +421,16 @@
 		"wonderCost": 100,
 		"techs": [
 			{
-				"name": "Industrialization",
+				"name": "Industrialization", // should probbably be moved to mid imperial era..!
 				"row": 8,
 				"prerequisites": ["Mass Production"],
 				"quote": "'Stronger, faster, more productive! Mechanization is the dream of tomorrow, today!' - Humankind",
+			},
+			{
+				"name": "Military Science",
+				"row": 10,
+				"prerequisites": ["Siege Cannons"],
+				"quote": "'Never interrupt your enemy when he is making a mistake.' - Napoleon Bonaparte",
 			},
 			{
 				"name": "ANCIENT",
