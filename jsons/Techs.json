@@ -378,16 +378,25 @@
 				"uniques": ["[+1] Movement <for [Embarked] units>"],
 				"quote": "'It’s not the towering sails, but the unseen wind that moves a ship.' - English Proverb",
 			},
+		]
+	},
+	{
+		"columnNumber": 11,
+		"era": "Age of Discovery",
+		"techCost": 280,
+		"buildingCost": 160,
+		"wonderCost": 100,
+		"techs": [
 			{
 				"name": "ANCIENT",
 				"row": 14,
-				"prerequisites": ["Astronomy"],
+				"prerequisites": ["Movable Typeface"],
 				"quote": "'He who commands the sea has command of everything.' - Themistocles",
 			},
 		]
 	},
 	{
-		"columnNumber": 11,
+		"columnNumber": 12,
 		"era": "Age of Imperialism",
 		"techCost": 330,
 		"buildingCost": 240,
@@ -438,7 +447,7 @@
 		]
 	},
 	{
-		"columnNumber": 12,
+		"columnNumber": 13,
 		"era": "Age of Imperialism",
 		"techCost": 330,
 		"buildingCost": 240,
@@ -489,7 +498,7 @@
 		]
 	},
 	{
-		"columnNumber": 13,
+		"columnNumber": 14,
 		"era": "Machine Age",
 		"techCost": 380,
 		"buildingCost": 240,
@@ -540,7 +549,7 @@
 		]
 	},
 	{
-		"columnNumber": 14,
+		"columnNumber": 15,
 		"era": "Machine Age",
 		"techCost": 380,
 		"buildingCost": 240,
@@ -591,7 +600,7 @@
 		]
 	},
 	{
-		"columnNumber": 15,
+		"columnNumber": 16,
 		"era": "Age of Atom",
 		"techCost": 430,
 		"buildingCost": 240,
@@ -642,7 +651,7 @@
 		]
 	},
 	{
-		"columnNumber": 16,
+		"columnNumber": 17,
 		"era": "Age of Atom",
 		"techCost": 430,
 		"buildingCost": 380,
@@ -693,7 +702,7 @@
 		]
 	},
 	{
-		"columnNumber": 17,
+		"columnNumber": 18,
 		"era": "Age of Information",
 		"techCost": 500,
 		"buildingCost": 300,
@@ -744,7 +753,7 @@
 		]
 	},
 	{
-		"columnNumber": 18,
+		"columnNumber": 19,
 		"era": "Age of Information",
 		"techCost": 500,
 		"buildingCost": 300,
@@ -795,7 +804,7 @@
 		]
 	},
 	{
-		"columnNumber": 19,
+		"columnNumber": 20,
 		"era": "Age of Tomorrow",
 		"techCost": 800,
 		"buildingCost": 500,
