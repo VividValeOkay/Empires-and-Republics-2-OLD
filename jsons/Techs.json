@@ -421,6 +421,12 @@
 		"wonderCost": 100,
 		"techs": [
 			{
+				"name": "Industrialization",
+				"row": 8,
+				"prerequisites": ["Mass Production"],
+				"quote": "'Stronger, faster, more productive! Mechanization is the dream of tomorrow, today!' - Humankind",
+			},
+			{
 				"name": "ANCIENT",
 				"row": 14,
 				"prerequisites": ["Enlightenment"],
