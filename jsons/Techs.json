@@ -388,6 +388,12 @@
 		"wonderCost": 100,
 		"techs": [
 			{
+				"name": "Mass Production",
+				"row": 8,
+				"prerequisites": ["Chartered Companies","Colonialism"],
+				"quote": "'What can be labeled, packaged, mass produced is neither truth nor art.' - Marty Rubin",
+			},
+			{
 				"name": "ANCIENT",
 				"row": 14,
 				"prerequisites": ["Movable Typeface"],
