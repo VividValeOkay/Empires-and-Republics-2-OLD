@@ -347,6 +347,12 @@
 		"wonderCost": 100,
 		"techs": [
 			{
+				"name": "Humanism",
+				"row": 4,
+				"prerequisites": ["Banking"],
+				"quote": "'As wealthy empires grow, merchants and nobles express their power by funding artistic endeavors and scientific research.' - Humankind",
+			},
+			{
 				"name": "Chartered Companies",
 				"row": 6,
 				"prerequisites": ["Banking","Astronomy"],
