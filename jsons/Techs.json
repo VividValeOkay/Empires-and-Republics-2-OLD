@@ -394,6 +394,12 @@
 				"quote": "'What can be labeled, packaged, mass produced is neither truth nor art.' - Marty Rubin",
 			},
 			{
+				"name": "Siege Cannons",
+				"row": 11,
+				"prerequisites": ["Navigation"],
+				"quote": "'Packed with frightening explosive power, in a few hours these new weapons can crumble city walls that have stood for millenia.' - Humankind",
+			},
+			{
 				"name": "ANCIENT",
 				"row": 14,
 				"prerequisites": ["Movable Typeface"],
