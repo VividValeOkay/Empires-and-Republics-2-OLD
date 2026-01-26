@@ -422,9 +422,15 @@
 		"techs": [
 			{
 				"name": "Industrialization", // should probbably be moved to mid imperial era..!
-				"row": 8,
+				"row": 7,
 				"prerequisites": ["Mass Production"],
 				"quote": "'Stronger, faster, more productive! Mechanization is the dream of tomorrow, today!' - Humankind",
+			},
+			{
+				"name": "Steam Power",
+				"row": 8,
+				"prerequisites": ["Mass Production"],
+				"quote": "'It is arguable whether the human race have been gainers by the march of science beyond the steam engine.' - Winston Churchill",
 			},
 			{
 				"name": "Military Science",
