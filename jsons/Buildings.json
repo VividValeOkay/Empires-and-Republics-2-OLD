@@ -290,11 +290,11 @@
     "requiredTech": "Chartered Companies",
   },
   {
-	"name": "Printer",
+	"name": "Printing Press",
 	"cost": 195,
-    "science": 2,
+    "science": 1,
 	"uniques": ["[+1 Science] per [7] population [in this city]"],
-	"requiredTech": "Late Age of Imperialism Science"
+	"requiredTech": "Movable Typeface"
   },
   {
 	"name": "Academy",
