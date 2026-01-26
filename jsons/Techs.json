@@ -388,10 +388,10 @@
 		"wonderCost": 100,
 		"techs": [
 			{
-				"name": "Scientific Theory",
+				"name": "Enlightenment",
 				"row": 1,
 				"prerequisites": ["Movable Typeface","Humanism"],
-				"quote": "'Every great advance in science has issued from a new audacity of imagination.' - John Dewey",
+				"quote": "'New opinions are always suspected, and usually opposed, without any other reason but because they are not already common.' - John Locke",
 			},
 			{
 				"name": "Mercantilism",
