@@ -388,9 +388,15 @@
 		"wonderCost": 100,
 		"techs": [
 			{
+				"name": "Mercantilism",
+				"row": 6,
+				"prerequisites": ["Chartered Companies"],
+				"quote": "'A zero-sum trade system, this maximizes a nation's exports at the expense of other nations—and one's colonies.' - Humankind",
+			},
+			{
 				"name": "Mass Production",
 				"row": 8,
-				"prerequisites": ["Chartered Companies","Colonialism"],
+				"prerequisites": ["Colonialism"],
 				"quote": "'What can be labeled, packaged, mass produced is neither truth nor art.' - Marty Rubin",
 			},
 			{
