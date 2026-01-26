@@ -224,7 +224,7 @@
     "cost": 180,
     "gold": 2,
 	"production": 1,
-    "requiredTech": "PLACEHOLDER",
+    "requiredTech": "Mass Production",
     "uniques": ["Can only be built <in [Coastal] tiles>"],
   },
   {
