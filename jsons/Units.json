@@ -198,7 +198,7 @@
 		"strength": 20,
 		"cost": 240,
 		"requiredTech": "Gunpowder",
-		"obsoleteTech": "PLACEHOLDER",
+		"obsoleteTech": "Military Science",
 		"upgradesTo": "Line Infantry",
 		"requiredResource": "Niter",
 		"attackSound": "shot"
@@ -231,7 +231,7 @@
 		"movement": 3,
 		"strength": 27,
 		"cost": 330,
-		"requiredTech": "PLACEHOLDER",
+		"requiredTech": "Military Science",
 		"obsoleteTech": "Late Machine Age Military",
 		"upgradesTo": "Tank",
 		"requiredResource": "Horses",
@@ -257,7 +257,7 @@
 		"movement": 2,
 		"strength": 25,
 		"cost": 360,
-		"requiredTech": "PLACEHOLDER",
+		"requiredTech": "Military Science",
 		"obsoleteTech": "Early Machine Age Military",
 		"upgradesTo": "Great War Infantry",
 		"attackSound": "shot"
