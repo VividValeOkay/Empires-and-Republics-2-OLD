@@ -353,6 +353,13 @@
 				"quote": "'The creation of charters and shares allows companies to manage and take greater risks, in the hopes of greater profits.' - Humankind",
 			},
 			{
+				"name": "Colonialism",
+				"row": 7,
+				"prerequisites": ["Centralised Power","Astronomy"],
+				"uniques": ["[+50]% Production when constructing [Settler] units [in all cities]"],
+				"quote": "'Colonialism. The enforced spread of the rule of reason. But who is going to spread it among the colonisers?' - Anthony Burgess",
+			},
+			{
 				"name": "ANCIENT",
 				"row": 14,
 				"prerequisites": ["Astronomy"],
