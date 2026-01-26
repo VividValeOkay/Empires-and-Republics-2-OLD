@@ -5,13 +5,13 @@
 		"movement": 2,
 		"requiredTech": "The Beginning",
 		"uniques": ["Can build [Land] improvements on tiles", "Automation is a primary action"],
-		"cost": 70
+		"cost": 80
 	},
 	{
 		"name": "Settler",
 		"unitType": "Civilian",
 		"movement": 2,
-		"cost": 106,
+		"cost": 80,
 		"requiredTech": "The Beginning",
 		"uniques": ["Founds a new city <by consuming this unit>", "Excess Food converted to Production when under construction",
 			"Requires at least [2] population"],
