@@ -257,7 +257,7 @@
 		"movement": 2,
 		"strength": 25,
 		"cost": 360,
-		"requiredTech": "Early Age of Imperialism Military",
+		"requiredTech": "PLACEHOLDER",
 		"obsoleteTech": "Early Machine Age Military",
 		"upgradesTo": "Great War Infantry",
 		"attackSound": "shot"
@@ -270,7 +270,7 @@
 		"rangedStrength": 26,
 		"range": 2,
 		"cost": 330,
-		"requiredTech": "Late Age of Imperialism Military",
+		"requiredTech": "PLACEHOLDER",
 		"obsoleteTech": "Early Machine Age Military",
 		"upgradesTo": "Heavy Machine Gun",
 	},
@@ -291,7 +291,7 @@
 		"movement": 2,
 		"strength": 30,
 		"cost": 430,
-		"requiredTech": "Early Machine Age Military",
+		"requiredTech": "PLACEHOLDER",
 		"obsoleteTech": "Early Age of Atom Military",
 		"upgradesTo": "Infantry",
 		"attackSound": "shot"
@@ -304,7 +304,7 @@
 		"rangedStrength": 31,
 		"range": 2,
 		"cost": 415,
-		"requiredTech": "Early Machine Age Military",
+		"requiredTech": "PLACEHOLDER",
 	},
 	{
 		"name": "Artillery",
@@ -313,7 +313,7 @@
 		"strength": 23,
 		"rangedStrength": 31,
 		"cost": 430,
-		"requiredTech": "Early Machine Age Military",
+		"requiredTech": "PLACEHOLDER",
 		"uniques": ["[+200]% Strength <vs cities> <when attacking>", "No defensive terrain bonus",
 			        "Must set up to ranged attack", "[-1] Sight", "Never appears as a Barbarian unit"],
 		"attackSound": "cannon"
@@ -324,7 +324,7 @@
 		"movement": 2,
 		"strength": 32,
 		"cost": 480,
-		"requiredTech": "Late Machine Age Military",
+		"requiredTech": "PLACEHOLDER",
 		"requiredResource": "Oil",
 		"uniques": ["No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>"],
 	},
@@ -334,7 +334,7 @@
 		"movement": 2,
 		"strength": 27,
 		"cost": 400,
-		"requiredTech": "Late Machine Age Military",
+		"requiredTech": "PLACEHOLDER",
 		"uniques": ["[+50]% Strength <vs [Armored] units>"],
 		"attackSound": "shot"
 	},
