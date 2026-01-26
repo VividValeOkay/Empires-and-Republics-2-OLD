@@ -388,16 +388,16 @@
 		"wonderCost": 100,
 		"techs": [
 			{
-				"name": "Mercantilism",
-				"row": 5,
-				"prerequisites": ["Chartered Companies"],
-				"quote": "'A zero-sum trade system, this maximizes a nation's exports at the expense of other nations—and one's colonies.' - Humankind",
+				"name": "Scientific Theory",
+				"row": 1,
+				"prerequisites": ["Movable Typeface","Humanism"],
+				"quote": "'Every great advance in science has issued from a new audacity of imagination.' - John Dewey",
 			},
 			{
-				"name": "Supply Lines",
-				"row": 7,
-				"prerequisites": ["Colonialism"],
-				"quote": "'With commercial towns developing trade routes, managing global supply routes gains commercial and military importance.' - Humankind",
+				"name": "Mercantilism",
+				"row": 5,
+				"prerequisites": ["Chartered Companies","Humanism"],
+				"quote": "'A zero-sum trade system, this maximizes a nation's exports at the expense of other nations—and one's colonies.' - Humankind",
 			},
 			{
 				"name": "Mass Production",
