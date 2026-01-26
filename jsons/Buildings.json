@@ -300,13 +300,13 @@
 	"name": "Academy",
 	"cost": 220,
     "science": 3,
-	"requiredTech": "PLACEHOLDER"
+	"requiredTech": "Scientific Method"
   },
   {
     "name": "Fertilizer Plant",
     "cost": 200,
     "food": 2,
-    "requiredTech": "PLACEHOLDER",
+    "requiredTech": "Scientific Method",
   },
   {
     "name": "Pub",
