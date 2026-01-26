@@ -150,7 +150,7 @@
 		"cost": 100,
 		"requiredTech": "Heavy Infantry",
 		"obsoleteTech": "Early Age of Imperialism Military",
-		"upgradesTo": "Line Infantry",
+		"upgradesTo": "Musketman",
 		"requiredResource": "Iron",
 		"attackSound": "metalhit"
 	},
@@ -196,7 +196,7 @@
 		"movement": 2,
 		"strength": 20,
 		"cost": 125,
-		"requiredTech": "PLACEHOLDER",
+		"requiredTech": "Gunpowder",
 		"obsoleteTech": "Early Age of Imperialism Military",
 		"upgradesTo": "Line Infantry",
 		"requiredResource": "Niter",
