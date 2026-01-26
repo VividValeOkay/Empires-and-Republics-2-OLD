@@ -347,6 +347,12 @@
 		"wonderCost": 100,
 		"techs": [
 			{
+				"name": "Movable Typeface",
+				"row": 1,
+				"prerequisites": ["Astronomy"],
+				"quote": "'Advancements in metallurgy and metalworking allow the creation of rapidly replaceable typefaces, revolutionizing printing.' - Humankind",
+			},
+			{
 				"name": "Humanism",
 				"row": 4,
 				"prerequisites": ["Banking"],
@@ -361,7 +367,7 @@
 			{
 				"name": "Colonialism",
 				"row": 7,
-				"prerequisites": ["Centralised Power","Astronomy"],
+				"prerequisites": ["Centralised Power"],
 				"uniques": ["[+50]% Production when constructing [Settler] units [in all cities]"],
 				"quote": "'Colonialism. The enforced spread of the rule of reason. But who is going to spread it among the colonisers?' - Anthony Burgess",
 			},
