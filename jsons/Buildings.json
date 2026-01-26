@@ -196,7 +196,7 @@
     "name": "Bank",
     "cost": 140,
     "gold": 3,
-    "requiredTech": "Chartered Companies",
+    "requiredTech": "Banking",
   },
   {
     "name": "Tailor",
@@ -258,7 +258,7 @@
     "cost": 190,
     "food": 2,
 	"happiness": 2,
-    "requiredTech": "Early Age of Imperialism Growth",
+    "requiredTech": "Chartered Companies",
     "requiredResource": "Coffee Beans",
   },
   {
