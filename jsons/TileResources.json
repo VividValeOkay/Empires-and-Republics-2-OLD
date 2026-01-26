@@ -45,6 +45,7 @@
 	{
 		"name": "Coffee Beans",
 		"resourceType": "Bonus",
+		"revealedBy": "Chartered Companies",
 		"terrainsCanBeFoundOn": ["Plains","Grassland","Jungle"],
 		"food": 1,
 		"improvement": "Plantation",
