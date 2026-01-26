@@ -251,7 +251,7 @@
     "cost": 190,
     "culture": 3,
 	"happiness": 1,
-    "requiredTech": "Early Age of Imperialism Culture",
+    "requiredTech": "PLACEHOLDER",
   },
   {
     "name": "Coffee House",
@@ -267,13 +267,13 @@
     "science": 4,
 	"requiredBuilding": "University",
 	"uniques": ["Must be next to [Mountain]"],
-	"requiredTech": "PLACEHOLDER"
+	"requiredTech": "Astronomy"
   },
   {
     "name": "Cement Plant",
     "cost": 200,
     "production": 2,
-    "requiredTech": "Early Age of Imperialism Production",
+    "requiredTech": "PLACEHOLDER",
     "requiredResource": "Iron",
     "uniques": ["Provides [1] [Cement]","Limited to [2] per Civilization"],
   },
@@ -281,7 +281,7 @@
     "name": "Factory",
     "cost": 220,
     "production": 3,
-    "requiredTech": "Late Age of Imperialism Production",
+    "requiredTech": "PLACEHOLDER",
   },
   {
     "name": "Stock Exchange",
@@ -300,20 +300,20 @@
 	"name": "Academy",
 	"cost": 220,
     "science": 3,
-	"requiredTech": "Late Age of Imperialism Science"
+	"requiredTech": "PLACEHOLDER"
   },
   {
     "name": "Fertilizer Plant",
     "cost": 200,
     "food": 2,
-    "requiredTech": "Late Age of Imperialism Growth",
+    "requiredTech": "PLACEHOLDER",
   },
   {
     "name": "Pub",
     "cost": 200,
     "food": 2,
     "happiness": 2,
-    "requiredTech": "Late Age of Imperialism Growth",
+    "requiredTech": "PLACEHOLDER",
     "requiredResource": "Grapes",
   },
   {
