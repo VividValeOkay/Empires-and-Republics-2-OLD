@@ -277,10 +277,11 @@
 		"name": "Frigate",
 		"unitType": "Ranged Water",
 		"movement": 5,
-		"strength": 20,
+		"strength": 18,
 		"rangedStrength": 26,
 		"cost": 220,
-		"requiredTech": "PLACEHOLDER",
+		"requiredTech": "Navigation",
+		"requiredResource": "Niter",
 		"attackSound": "shipCannonVolley"
 	},
 	{
