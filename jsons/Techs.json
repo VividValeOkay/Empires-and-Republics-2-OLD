@@ -411,12 +411,6 @@
 				"prerequisites": ["Navigation"],
 				"quote": "'Packed with frightening explosive power, in a few hours these new weapons can crumble city walls that have stood for millenia.' - Humankind",
 			},
-			{
-				"name": "ANCIENT",
-				"row": 14,
-				"prerequisites": ["Movable Typeface"],
-				"quote": "'He who commands the sea has command of everything.' - Themistocles",
-			},
 		]
 	},
 	{
@@ -427,45 +421,9 @@
 		"wonderCost": 100,
 		"techs": [
 			{
-				"name": "Early Age of Imperialism Science",
-				"row": 1,
-				"prerequisites": ["ANCIENT"],
-				"quote": "'He who commands the sea has command of everything.' - Themistocles",
-			},
-			{
-				"name": "Early Age of Imperialism Riches",
-				"row": 3,
-				"prerequisites": ["ANCIENT"],
-				"quote": "'He who commands the sea has command of everything.' - Themistocles",
-			},
-			{
-				"name": "Early Age of Imperialism Production",
-				"row": 5,
-				"prerequisites": ["ANCIENT"],
-				"quote": "'He who commands the sea has command of everything.' - Themistocles",
-			},
-			{
-				"name": "Early Age of Imperialism Growth",
-				"row": 7,
-				"prerequisites": ["ANCIENT"],
-				"quote": "'He who commands the sea has command of everything.' - Themistocles",
-			},
-			{
-				"name": "Early Age of Imperialism Culture",
-				"row": 9,
-				"prerequisites": ["ANCIENT"],
-				"quote": "'He who commands the sea has command of everything.' - Themistocles",
-			},
-			{
-				"name": "Early Age of Imperialism Military",
-				"row": 11,
-				"prerequisites": ["ANCIENT"],
-				"quote": "'He who commands the sea has command of everything.' - Themistocles",
-			},
-			{
-				"name": "Early Age of Imperialism Faith",
-				"row": 13,
-				"prerequisites": ["ANCIENT"],
+				"name": "ANCIENT",
+				"row": 14,
+				"prerequisites": ["Enlightenment"],
 				"quote": "'He who commands the sea has command of everything.' - Themistocles",
 			},
 		]
@@ -480,43 +438,43 @@
 			{
 				"name": "Late Age of Imperialism Science",
 				"row": 1,
-				"prerequisites": ["Early Age of Imperialism Science"],
+				"prerequisites": ["ANCIENT"],
 				"quote": "'He who commands the sea has command of everything.' - Themistocles",
 			},
 			{
 				"name": "Late Age of Imperialism Riches",
 				"row": 3,
-				"prerequisites": ["Early Age of Imperialism Science"],
+				"prerequisites": ["ANCIENT"],
 				"quote": "'He who commands the sea has command of everything.' - Themistocles",
 			},
 			{
 				"name": "Late Age of Imperialism Production",
 				"row": 5,
-				"prerequisites": ["Early Age of Imperialism Production"],
+				"prerequisites": ["ANCIENT"],
 				"quote": "'He who commands the sea has command of everything.' - Themistocles",
 			},
 			{
 				"name": "Late Age of Imperialism Growth",
 				"row": 7,
-				"prerequisites": ["Early Age of Imperialism Growth"],
+				"prerequisites": ["ANCIENT"],
 				"quote": "'He who commands the sea has command of everything.' - Themistocles",
 			},
 			{
 				"name": "Late Age of Imperialism Culture",
 				"row": 9,
-				"prerequisites": ["Early Age of Imperialism Culture"],
+				"prerequisites": ["ANCIENT"],
 				"quote": "'He who commands the sea has command of everything.' - Themistocles",
 			},
 			{
 				"name": "Late Age of Imperialism Military",
 				"row": 11,
-				"prerequisites": ["Early Age of Imperialism Military"],
+				"prerequisites": ["ANCIENT"],
 				"quote": "'He who commands the sea has command of everything.' - Themistocles",
 			},
 			{
 				"name": "Late Age of Imperialism Faith",
 				"row": 13,
-				"prerequisites": ["Early Age of Imperialism Faith"],
+				"prerequisites": ["ANCIENT"],
 				"quote": "'He who commands the sea has command of everything.' - Themistocles",
 			},
 		]
