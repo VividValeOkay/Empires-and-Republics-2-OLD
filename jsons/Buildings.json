@@ -25,7 +25,7 @@
   {
     "name": "Well",
     "cost": 50,
-    "food": 2,
+    "food": 1,
     "requiredTech": "Agriculture",
     "uniques": ["[+1 Food] from [Farm] tiles [in this city]"],
   },
@@ -39,7 +39,7 @@
   {
     "name": "Furnace",
     "cost": 60,
-    "production": 2,
+    "production": 1,
     "requiredTech": "Bronze Working",
   },
   {
@@ -60,7 +60,7 @@
 	"cost": 70,
 	"science": 1,
 	"happiness": 1,
-	"uniques": ["[+1 Science] per [4] population [in this city]"],
+	"uniques": ["[+1 Science] per [8] population [in this city]"],
 	"requiredTech": "Writing"
   },
   {
@@ -147,7 +147,7 @@
     "cost": 80,
 	"happiness": 1,
     "requiredTech": "Hydrology",
-	"uniques": ["[40]% Food is carried over after population increases [in this city]"],
+	"uniques": ["[25]% Food is carried over after population increases [in this city]"],
   },
   {
     "name": "Walls",
@@ -232,13 +232,13 @@
     "cost": 160,
     "culture": 3,
 	"happiness": 1,
-    "requiredTech": "PLACEHOLDER",
+    "requiredTech": "Humanism",
   },
   {
     "name": "Plaza",
     "cost": 165,
 	"happiness": 3,
-    "requiredTech": "PLACEHOLDER",
+    "requiredTech": "Humanism",
   },
   {
     "name": "Forge",
