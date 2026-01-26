@@ -66,6 +66,15 @@
 		"shortcutKey": "R",
 	},
 	{
+		"name": "Railroad",
+		"terrainsCanBeBuiltOn": ["Land"],
+		"turnsToBuild": 4,
+		"techRequired": "Steam Power",
+		"uniques": ["Can be built outside your borders"],
+		"shortcutKey": "R",
+	},
+// OIL
+	{
 		"name": "Oil well",
 		"turnsToBuild": 9,
 		"techRequired": "Early Machine Age Production",
