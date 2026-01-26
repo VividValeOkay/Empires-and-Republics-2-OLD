@@ -433,6 +433,12 @@
 				"quote": "'Never interrupt your enemy when he is making a mistake.' - Napoleon Bonaparte",
 			},
 			{
+				"name": "Rifling",
+				"row": 11,
+				"prerequisites": ["Siege Cannons"],
+				"quote": "'Never criticize a rifleman until you have walked a mile in his shoes. That way, he’ll be barefoot and you’ll be out of range.' - The 2nd Target Company",
+			},
+			{
 				"name": "ANCIENT",
 				"row": 14,
 				"prerequisites": ["Enlightenment"],
