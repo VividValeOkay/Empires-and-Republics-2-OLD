@@ -389,9 +389,15 @@
 		"techs": [
 			{
 				"name": "Mercantilism",
-				"row": 6,
+				"row": 5,
 				"prerequisites": ["Chartered Companies"],
 				"quote": "'A zero-sum trade system, this maximizes a nation's exports at the expense of other nations—and one's colonies.' - Humankind",
+			},
+			{
+				"name": "Supply Lines",
+				"row": 7,
+				"prerequisites": ["Colonialism"],
+				"quote": "'With commercial towns developing trade routes, managing global supply routes gains commercial and military importance.' - Humankind",
 			},
 			{
 				"name": "Mass Production",
