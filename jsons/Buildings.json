@@ -281,7 +281,7 @@
     "name": "Factory",
     "cost": 220,
     "production": 3,
-    "requiredTech": "PLACEHOLDER",
+    "requiredTech": "Industrialization",
   },
   {
     "name": "Stock Exchange",
@@ -337,9 +337,9 @@
   },
   {
     "name": "Industrial Silos",
-    "cost": 240,
+    "cost": 220,
     "food": 3,
-    "requiredTech": "Early Machine Age Growth",
+    "requiredTech": "Industrialization",
   },
   {
     "name": "Police Station",
