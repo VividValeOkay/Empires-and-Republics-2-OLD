@@ -421,6 +421,12 @@
 		"wonderCost": 100,
 		"techs": [
 			{
+				"name": "Scientific Method",
+				"row": 1,
+				"prerequisites": ["Enlightenment"],
+				"quote": "'This distills thousands of years of speculation on how to discover natural truths into an instrument of razor-sharp precision.' - Humankind",
+			},
+			{
 				"name": "Industrialization", // should probbably be moved to mid imperial era..!
 				"row": 7,
 				"prerequisites": ["Mass Production"],
