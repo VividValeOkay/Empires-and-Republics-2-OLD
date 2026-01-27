@@ -453,6 +453,18 @@
 		"buildingCost": 240,
 		"wonderCost": 100,
 		"techs": [
+            {
+				"name": "Sanitation",
+				"row": 2,
+				"prerequisites": ["Scientific Method"],
+				"quote": "'No innovation in the past 200 years has done more to save lives and improve health than the sanitation revolution triggered by the invention of the toilet.' - Sylvia Burwell",
+			},
+            {
+				"name": "Archaeology",
+				"row": 3,
+				"prerequisites": ["Scientific Method"],
+				"quote": "'Had I been present at the Creation, I would have given some useful hints for the better ordering of the universe.' - Nelson Algren",
+			},
 			{
 				"name": "Industrialization",
 				"row": 7,
