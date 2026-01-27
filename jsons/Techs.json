@@ -427,14 +427,8 @@
 				"quote": "'This distills thousands of years of speculation on how to discover natural truths into an instrument of razor-sharp precision.' - Humankind",
 			},
 			{
-				"name": "Industrialization", // should probbably be moved to mid imperial era..!
-				"row": 7,
-				"prerequisites": ["Mass Production"],
-				"quote": "'Stronger, faster, more productive! Mechanization is the dream of tomorrow, today!' - Humankind",
-			},
-			{
 				"name": "Steam Power",
-				"row": 8,
+				"row": 7,
 				"prerequisites": ["Mass Production"],
 				"quote": "'It is arguable whether the human race have been gainers by the march of science beyond the steam engine.' - Winston Churchill",
 			},
@@ -450,12 +444,6 @@
 				"prerequisites": ["Siege Cannons"],
 				"quote": "'Never criticize a rifleman until you have walked a mile in his shoes. That way, he’ll be barefoot and you’ll be out of range.' - The 2nd Target Company",
 			},
-			{
-				"name": "ANCIENT",
-				"row": 14,
-				"prerequisites": ["Enlightenment"],
-				"quote": "'He who commands the sea has command of everything.' - Themistocles",
-			},
 		]
 	},
 	{
@@ -466,45 +454,15 @@
 		"wonderCost": 100,
 		"techs": [
 			{
-				"name": "Late Age of Imperialism Science",
-				"row": 1,
-				"prerequisites": ["ANCIENT"],
-				"quote": "'He who commands the sea has command of everything.' - Themistocles",
-			},
-			{
-				"name": "Late Age of Imperialism Riches",
-				"row": 3,
-				"prerequisites": ["ANCIENT"],
-				"quote": "'He who commands the sea has command of everything.' - Themistocles",
-			},
-			{
-				"name": "Late Age of Imperialism Production",
-				"row": 5,
-				"prerequisites": ["ANCIENT"],
-				"quote": "'He who commands the sea has command of everything.' - Themistocles",
-			},
-			{
-				"name": "Late Age of Imperialism Growth",
+				"name": "Industrialization",
 				"row": 7,
-				"prerequisites": ["ANCIENT"],
-				"quote": "'He who commands the sea has command of everything.' - Themistocles",
+				"prerequisites": ["Steam Power","Scientific Method"],
+				"quote": "'Stronger, faster, more productive! Mechanization is the dream of tomorrow, today!' - Humankind",
 			},
 			{
-				"name": "Late Age of Imperialism Culture",
-				"row": 9,
-				"prerequisites": ["ANCIENT"],
-				"quote": "'He who commands the sea has command of everything.' - Themistocles",
-			},
-			{
-				"name": "Late Age of Imperialism Military",
-				"row": 11,
-				"prerequisites": ["ANCIENT"],
-				"quote": "'He who commands the sea has command of everything.' - Themistocles",
-			},
-			{
-				"name": "Late Age of Imperialism Faith",
-				"row": 13,
-				"prerequisites": ["ANCIENT"],
+				"name": "ANCIENT",
+				"row": 14,
+				"prerequisites": ["Scientific Method"],
 				"quote": "'He who commands the sea has command of everything.' - Themistocles",
 			},
 		]
@@ -519,43 +477,43 @@
 			{
 				"name": "Early Machine Age Science",
 				"row": 1,
-				"prerequisites": ["Late Age of Imperialism Science"],
+				"prerequisites": ["ANCIENT"],
 				"quote": "'He who commands the sea has command of everything.' - Themistocles",
 			},
 			{
 				"name": "Early Machine Age Riches",
 				"row": 3,
-				"prerequisites": ["Late Age of Imperialism Science"],
+				"prerequisites": ["ANCIENT"],
 				"quote": "'He who commands the sea has command of everything.' - Themistocles",
 			},
 			{
 				"name": "Early Machine Age Production",
 				"row": 5,
-				"prerequisites": ["Late Age of Imperialism Production"],
+				"prerequisites": ["ANCIENT"],
 				"quote": "'He who commands the sea has command of everything.' - Themistocles",
 			},
 			{
 				"name": "Early Machine Age Growth",
 				"row": 7,
-				"prerequisites": ["Late Age of Imperialism Growth"],
+				"prerequisites": ["ANCIENT"],
 				"quote": "'He who commands the sea has command of everything.' - Themistocles",
 			},
 			{
 				"name": "Early Machine Age Culture",
 				"row": 9,
-				"prerequisites": ["Late Age of Imperialism Culture"],
+				"prerequisites": ["ANCIENT"],
 				"quote": "'He who commands the sea has command of everything.' - Themistocles",
 			},
 			{
 				"name": "Early Machine Age Military",
 				"row": 11,
-				"prerequisites": ["Late Age of Imperialism Military"],
+				"prerequisites": ["ANCIENT"],
 				"quote": "'He who commands the sea has command of everything.' - Themistocles",
 			},
 			{
 				"name": "Early Machine Age Faith",
 				"row": 13,
-				"prerequisites": ["Late Age of Imperialism Faith"],
+				"prerequisites": ["ANCIENT"],
 				"quote": "'He who commands the sea has command of everything.' - Themistocles",
 			},
 		]
