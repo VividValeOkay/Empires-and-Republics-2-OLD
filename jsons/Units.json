@@ -139,7 +139,7 @@
 		"strength": 15,
 		"cost": 140,
 		"requiredTech": "Military Tactics",
-		"obsoleteTech": "PLACEHOLDER",
+		"obsoleteTech": "Centralised Power",
 		"upgradesTo": "Halberdier",
 		"attackSound": "metalhit"
 	},
