@@ -466,9 +466,15 @@
 				"quote": "'Had I been present at the Creation, I would have given some useful hints for the better ordering of the universe.' - Nelson Algren",
 			},
 			{
-				"name": "Industrialization",
+				"name": "Economics",
 				"row": 6,
-				"prerequisites": ["Steam Power","Scientific Method"],
+				"prerequisites": ["Steam Power","Military Science"],
+				"quote": "'You and I come by road or rail, but economists travel on infrastructure.' - Margaret Thatcher",
+			},
+			{
+				"name": "Industrialization",
+				"row": 8,
+				"prerequisites": ["Steam Power","Scientific Method","Rifling"],
 				"quote": "'Stronger, faster, more productive! Mechanization is the dream of tomorrow, today!' - Humankind",
 			},
 			{
