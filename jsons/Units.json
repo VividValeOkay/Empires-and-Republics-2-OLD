@@ -150,7 +150,7 @@
 		"strength": 16,
 		"cost": 160,
 		"requiredTech": "Heavy Infantry",
-		"obsoleteTech": "PLACEHOLDER",
+		"obsoleteTech": "Military Science",
 		"upgradesTo": "Musketman",
 		"requiredResource": "Iron",
 		"attackSound": "metalhit"
