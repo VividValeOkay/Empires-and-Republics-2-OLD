@@ -467,7 +467,7 @@
 			},
 			{
 				"name": "Industrialization",
-				"row": 7,
+				"row": 6,
 				"prerequisites": ["Steam Power","Scientific Method"],
 				"quote": "'Stronger, faster, more productive! Mechanization is the dream of tomorrow, today!' - Humankind",
 			},
