@@ -251,7 +251,7 @@
     "cost": 190,
     "culture": 3,
 	"happiness": 1,
-    "requiredTech": "PLACEHOLDER",
+    "requiredTech": "Archaeology",
   },
   {
     "name": "Coffee House",
