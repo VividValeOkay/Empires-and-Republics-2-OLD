@@ -220,7 +220,7 @@
 		"strength": 19,
 		"cost": 250,
 		"requiredTech": "Centralised Power",
-		"obsoleteTech": "Late Machine Age Military",
+		"obsoleteTech": "PLACEHOLDER",
 		"upgradesTo": "Anti-Tank Gun",
 		"uniques": ["[+50]% Strength <vs [Mounted] units>"],
 		"attackSound": "metalhit"
@@ -232,7 +232,7 @@
 		"strength": 27,
 		"cost": 330,
 		"requiredTech": "Rifling",
-		"obsoleteTech": "Late Machine Age Military",
+		"obsoleteTech": "PLACEHOLDER",
 		"upgradesTo": "Tank",
 		"requiredResource": "Horses",
 		"uniques": ["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>"],
