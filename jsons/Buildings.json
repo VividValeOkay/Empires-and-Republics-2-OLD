@@ -321,7 +321,7 @@
     "cost": 240,
     "culture": 3,
 	"happiness": 1,
-    "requiredTech": "Early Machine Age Culture",
+    "requiredTech": "PLACEHOLDER",
   },
   {
     "name": "Conscription Center",
