@@ -421,7 +421,7 @@
 		"wonderCost": 100,
 		"techs": [
 			{
-				"name": "Scientific Method",
+				"name": "Encyclopedia",
 				"row": 1,
 				"prerequisites": ["Enlightenment"],
 				"quote": "'This distills thousands of years of speculation on how to discover natural truths into an instrument of razor-sharp precision.' - Humankind",
@@ -477,16 +477,43 @@
 				"prerequisites": ["Steam Power","Scientific Method","Rifling"],
 				"quote": "'Stronger, faster, more productive! Mechanization is the dream of tomorrow, today!' - Humankind",
 			},
+		]
+	},
+	{
+		"columnNumber": 14,
+		"era": "Age of Imperialism",
+		"techCost": 330,
+		"buildingCost": 240,
+		"wonderCost": 100,
+		"techs": [
+			{
+				"name": "Scientific Method",
+				"row": 1,
+				"prerequisites": ["Sanitation"],
+				"quote": "'This distills thousands of years of speculation on how to discover natural truths into an instrument of razor-sharp precision.' - Humankind",
+			},
+			{
+				"name": "Ideology",
+				"row": 5,
+				"prerequisites": ["Economics","Archaeology"],
+				"quote": "'You and I come by road or rail, but economists travel on infrastructure.' - Margaret Thatcher",
+			},
+			{
+				"name": "Urbanisation",
+				"row": 7,
+				"prerequisites": ["Economics","Industrialization"],
+				"quote": "'You and I come by road or rail, but economists travel on infrastructure.' - Margaret Thatcher",
+			},
 			{
 				"name": "ANCIENT",
 				"row": 14,
-				"prerequisites": ["Scientific Method"],
+				"prerequisites": ["Industrialization"],
 				"quote": "'He who commands the sea has command of everything.' - Themistocles",
 			},
 		]
 	},
 	{
-		"columnNumber": 14,
+		"columnNumber": 15,
 		"era": "Machine Age",
 		"techCost": 380,
 		"buildingCost": 240,
@@ -537,7 +564,7 @@
 		]
 	},
 	{
-		"columnNumber": 15,
+		"columnNumber": 16,
 		"era": "Machine Age",
 		"techCost": 380,
 		"buildingCost": 240,
@@ -588,7 +615,7 @@
 		]
 	},
 	{
-		"columnNumber": 16,
+		"columnNumber": 17,
 		"era": "Age of Atom",
 		"techCost": 430,
 		"buildingCost": 240,
@@ -639,7 +666,7 @@
 		]
 	},
 	{
-		"columnNumber": 17,
+		"columnNumber": 18,
 		"era": "Age of Atom",
 		"techCost": 430,
 		"buildingCost": 380,
@@ -690,7 +717,7 @@
 		]
 	},
 	{
-		"columnNumber": 18,
+		"columnNumber": 19,
 		"era": "Age of Information",
 		"techCost": 500,
 		"buildingCost": 300,
@@ -741,7 +768,7 @@
 		]
 	},
 	{
-		"columnNumber": 19,
+		"columnNumber": 20,
 		"era": "Age of Information",
 		"techCost": 500,
 		"buildingCost": 300,
@@ -792,7 +819,7 @@
 		]
 	},
 	{
-		"columnNumber": 20,
+		"columnNumber": 21,
 		"era": "Age of Tomorrow",
 		"techCost": 800,
 		"buildingCost": 500,
