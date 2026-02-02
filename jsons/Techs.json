@@ -462,7 +462,7 @@
             {
 				"name": "Archaeology",
 				"row": 3,
-				"prerequisites": ["Scientific Method"],
+				"prerequisites": ["Encyclopedia"],
 				"quote": "'Had I been present at the Creation, I would have given some useful hints for the better ordering of the universe.' - Nelson Algren",
 			},
 			{
@@ -474,7 +474,7 @@
 			{
 				"name": "Industrialization",
 				"row": 8,
-				"prerequisites": ["Steam Power","Scientific Method","Rifling"],
+				"prerequisites": ["Steam Power","Encyclopedia","Rifling"],
 				"quote": "'Stronger, faster, more productive! Mechanization is the dream of tomorrow, today!' - Humankind",
 			},
 		]
