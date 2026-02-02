@@ -516,8 +516,14 @@
 			{
 				"name": "Nationalism",
 				"row": 5,
-				"prerequisites": ["Ideology"],
+				"prerequisites": ["Ideology","Scientific Method"],
 				"quote": "'Patriotism is when love of your own people comes first; nationalism, when hate for people other than your own comes first.' - Charles de Gaulle",
+			},
+			{
+				"name": "Trench Warfare",
+				"row": 10,
+				"prerequisites": ["Ideology","Urbanisation"],
+				"quote": "'War is not an adventure. It is a disease. It is like typhus.' - Antoine de Saint-Exupery",
 			},
 			{
 				"name": "ANCIENT",
