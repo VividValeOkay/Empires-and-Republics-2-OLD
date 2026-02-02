@@ -326,14 +326,14 @@
   {
     "name": "Conscription Center",
     "cost": 240,
-    "requiredTech": "Early Machine Age Military",
+    "requiredTech": "Nationalism",
 	"uniques": ["New [Military] units start with [15] XP [in this city]","Destroyed when the city is captured"],
   },
   {
     "name": "Stadium",
     "cost": 240,
 	"happiness": 3,
-    "requiredTech": "Early Machine Age Growth",
+    "requiredTech": "PLACEHOLDER",
   },
   {
     "name": "Industrial Silos",
@@ -344,7 +344,7 @@
   {
     "name": "Police Station",
     "cost": 275,
-    "requiredTech": "Early Machine Age Growth",
+    "requiredTech": "PLACEHOLDER",
 	"uniques": ["[-15]% enemy spy effectiveness [in this city]","Gain an extra spy"],
   },
   {
@@ -352,20 +352,20 @@
     "cost": 240,
     "food": 2,
 	"gold": 1,
-    "requiredTech": "Early Machine Age Growth",
+    "requiredTech": "PLACEHOLDER",
   },
   {
 	"name": "Research Lab",
 	"cost": 250,
     "science": 3,
-	"requiredTech": "Late Machine Age Science"
+	"requiredTech": "PLACEHOLDER"
   },
   {
     "name": "War Memorial",
     "cost": 265,
     "culture": 3,
 	"happiness": 1,
-    "requiredTech": "Late Machine Age Culture",
+    "requiredTech": "PLACEHOLDER",
   },
   {
     "name": "Medical Lab",
