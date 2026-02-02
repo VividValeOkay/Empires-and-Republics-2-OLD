@@ -77,7 +77,7 @@
 	{
 		"name": "Oil well",
 		"turnsToBuild": 9,
-		"techRequired": "Early Machine Age Production",
+		"techRequired": "PLACEHOLDER",
 		"uniques": ["Can only be built to improve a resource", "Cannot be built on [Water] tiles", "Pillaging this improvement yields approximately [+20 Gold]"],
 		"shortcutKey": "W"
 	},
