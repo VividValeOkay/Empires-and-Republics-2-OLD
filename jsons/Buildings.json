@@ -300,7 +300,7 @@
 	"name": "Academy",
 	"cost": 220,
     "science": 3,
-	"requiredTech": "Scientific Method"
+	"requiredTech": "Encyclopedia"
   },
   {
     "name": "Fertilizer Plant",
