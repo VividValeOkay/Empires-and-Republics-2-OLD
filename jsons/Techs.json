@@ -456,7 +456,7 @@
             {
 				"name": "Sanitation",
 				"row": 2,
-				"prerequisites": ["Scientific Method"],
+				"prerequisites": ["Encyclopedia"],
 				"quote": "'No innovation in the past 200 years has done more to save lives and improve health than the sanitation revolution triggered by the invention of the toilet.' - Sylvia Burwell",
 			},
             {
