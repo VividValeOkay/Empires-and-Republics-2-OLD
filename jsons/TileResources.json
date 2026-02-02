@@ -154,7 +154,7 @@
 	{
 		"name": "Oil",
 		"resourceType": "Strategic",
-		"revealedBy": "Early Machine Age Production",
+		"revealedBy": "PLACEHOLDER",
 		"terrainsCanBeFoundOn": ["Desert","Coast","Tundra","Snow","Jungle"],
 		"production": 1,
 		"improvedBy": ["Oil well", "Offshore Platform"],
