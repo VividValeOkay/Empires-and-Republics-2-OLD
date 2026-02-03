@@ -365,7 +365,7 @@
     "cost": 265,
     "culture": 3,
 	"happiness": 1,
-    "requiredTech": "PLACEHOLDER",
+    "requiredTech": "War Memorial",
   },
   {
     "name": "Medical Lab",
