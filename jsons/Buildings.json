@@ -352,7 +352,7 @@
     "cost": 240,
     "food": 2,
 	"gold": 1,
-    "requiredTech": "Urbanisation",
+    "requiredTech": "Electricity",
   },
   {
 	"name": "Research Lab",
