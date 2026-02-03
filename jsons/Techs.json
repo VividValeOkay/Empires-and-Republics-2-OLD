@@ -553,6 +553,12 @@
 		"wonderCost": 100,
 		"techs": [
 			{
+				"name": "Continuous Track",
+				"row": 10,
+				"prerequisites": ["Combustion Engine","Trench Warfare"],
+				"quote": "'Ploughed fields, mountainsides, trench lands—few places are out of bounds for a tracked vehicle.' - Humankind",
+			},
+			{
 				"name": "ANCIENT",
 				"row": 14,
 				"prerequisites": ["Electricity"],
