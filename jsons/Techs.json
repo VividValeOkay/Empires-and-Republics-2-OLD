@@ -528,13 +528,13 @@
 			{
 				"name": "Combustion Engine",
 				"row": 7,
-				"prerequisites": ["Urbanisation"],
+				"prerequisites": ["Electricity"],
 				"quote": "'It is arguable whether the human race have been gainers by the march of science beyond the steam engine.' - Winston Churchill",
 			},
 			{
 				"name": "Trench Warfare",
 				"row": 10,
-				"prerequisites": ["Ideology","Urbanisation"],
+				"prerequisites": ["Ideology","Electricity"],
 				"quote": "'War is not an adventure. It is a disease. It is like typhus.' - Antoine de Saint-Exupery",
 			},
 		]
