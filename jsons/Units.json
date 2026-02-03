@@ -364,6 +364,20 @@
 		"requiredTech": "Early Age of Atom Military",
 		"attackSound": "shot"
 	},
+	{
+		"name": "Triplane",
+		"unitType": "Fighter",
+		"movement": 1,
+		"strength": 38,
+		"rangedStrength": 38,
+		"range": 5,
+		"interceptRange": 5,
+		"cost": 430,
+		"requiredTech": "Flight",
+		"requiredResource": "Oil",
+		"uniques": ["[50]% chance to intercept air attacks", "[+150]% Strength <vs [Bomber] units>"],
+		"attackSound": "shot"
+	},
 	// Great People (Yes, i did just copy this from the base game...)
 	{
 		"name": "Great General",
