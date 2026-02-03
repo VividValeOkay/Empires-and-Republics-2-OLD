@@ -483,7 +483,7 @@
 			{
 				"name": "Scientific Method",
 				"row": 1,
-				"prerequisites": ["Sanitation"],
+				"prerequisites": ["Sanitation","Archaeology"],
 				"quote": "'This distills thousands of years of speculation on how to discover natural truths into an instrument of razor-sharp precision.' - Humankind",
 			},
 			{
@@ -493,10 +493,10 @@
 				"quote": "'You and I come by road or rail, but economists travel on infrastructure.' - Margaret Thatcher",
 			},
 			{
-				"name": "Urbanisation",
+				"name": "Electricity",
 				"row": 7,
 				"prerequisites": ["Economics","Industrialization"],
-				"quote": "'What I like about cities is that everything is king size, the beauty and the ugliness.' - Joseph Brodsky",
+				"quote": "'Born in the minds of visionaries who tinkered with strange metals, even they couldn't have foreseen electricity's reach.' - Humankind",
 			},
 		]
 	},
@@ -508,15 +508,15 @@
 		"wonderCost": 100,
 		"techs": [
 			{
-				"name": "Electricity",
-				"row": 2,
+				"name": "Refrigeration",
+				"row": 1,
 				"prerequisites": ["Scientific Method"],
-				"quote": "'Born in the minds of visionaries who tinkered with strange metals, even they couldn't have foreseen electricity's reach.' - Humankind",
+				"quote": "'And homeless near a thousand homes I stood, and near a thousand tables pined and wanted food.' - William Wordsworth",
 			},
 			{
 				"name": "Radio and Film",
 				"row": 4,
-				"prerequisites": ["Scientific Method"],
+				"prerequisites": ["Ideology","Scientific Method"],
 				"quote": "'Drama, spectacle, celebrity—these are the essential ingredients to ensnare another generation, whether on the small or silver screen.' - Humankind",
 			},
 			{
