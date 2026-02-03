@@ -553,12 +553,6 @@
 				"quote": "'If you don't read the newspaper, you're uninformed. If you read the newspaper, you're mis-informed.' - Mark Twain",
 			},
 			{
-				"name": "Chemistry",
-				"row": 1,
-				"prerequisites": ["Electricity"],
-				"quote": "'Chemists do not usually stutter. It would be very awkward if they did, seeing that they have at times to get out such words as methylethylamylophenylium.' - Sir William Crookes",
-			},
-			{
 				"name": "Continuous Track",
 				"row": 10,
 				"prerequisites": ["Combustion Engine","Trench Warfare"],
@@ -579,6 +573,30 @@
 		"buildingCost": 240,
 		"wonderCost": 100,
 		"techs": [
+			{
+				"name": "Chemistry",
+				"row": 1,
+				"prerequisites": ["Mass Media"],
+				"quote": "'Chemists do not usually stutter. It would be very awkward if they did, seeing that they have at times to get out such words as methylethylamylophenylium.' - Sir William Crookes",
+			},
+			{
+				"name": "Leisure",
+				"row": 4,
+				"prerequisites": ["Mass Media"],
+				"quote": "'If you don't read the newspaper, you're uninformed. If you read the newspaper, you're mis-informed.' - Mark Twain",
+			},
+			{
+				"name": "War Memorial",
+				"row": 5,
+				"prerequisites": ["Mass Media"],
+				"quote": "'War is not an adventure. It is a disease. It is like typhus.' - Antoine de Saint-Exupery",
+			},
+			{
+				"name": "Hydroelectricity",
+				"row": 2,
+				"prerequisites": ["Continuous Track"],
+				"quote": "'Born in the minds of visionaries who tinkered with strange metals, even they couldn't have foreseen electricity's reach.' - Humankind",
+			},
 			{
 				"name": "ANCIENT",
 				"row": 14,
