@@ -507,7 +507,7 @@
 		]
 	},
 	{
-		"columnNumber": 16,
+		"columnNumber": 15,
 		"era": "Age of Imperialism",
 		"techCost": 380,
 		"buildingCost": 240,
@@ -546,7 +546,7 @@
 		]
 	},
 	{
-		"columnNumber": 15,
+		"columnNumber": 16,
 		"era": "Machine Age",
 		"techCost": 380,
 		"buildingCost": 240,
@@ -558,6 +558,15 @@
 				"prerequisites": ["Combustion Engine","Trench Warfare"],
 				"quote": "'Ploughed fields, mountainsides, trench lands—few places are out of bounds for a tracked vehicle.' - Humankind",
 			},
+		]
+	},
+	{
+		"columnNumber": 17,
+		"era": "Machine Age",
+		"techCost": 380,
+		"buildingCost": 240,
+		"wonderCost": 100,
+		"techs": [
 			{
 				"name": "ANCIENT",
 				"row": 14,
@@ -567,7 +576,7 @@
 		]
 	},
 	{
-		"columnNumber": 17,
+		"columnNumber": 18,
 		"era": "Age of Atom",
 		"techCost": 430,
 		"buildingCost": 240,
@@ -618,7 +627,7 @@
 		]
 	},
 	{
-		"columnNumber": 18,
+		"columnNumber": 19,
 		"era": "Age of Atom",
 		"techCost": 430,
 		"buildingCost": 380,
@@ -669,7 +678,7 @@
 		]
 	},
 	{
-		"columnNumber": 19,
+		"columnNumber": 20,
 		"era": "Age of Information",
 		"techCost": 500,
 		"buildingCost": 300,
@@ -720,7 +729,7 @@
 		]
 	},
 	{
-		"columnNumber": 20,
+		"columnNumber": 21,
 		"era": "Age of Information",
 		"techCost": 500,
 		"buildingCost": 300,
@@ -771,7 +780,7 @@
 		]
 	},
 	{
-		"columnNumber": 21,
+		"columnNumber": 22,
 		"era": "Age of Tomorrow",
 		"techCost": 800,
 		"buildingCost": 500,
