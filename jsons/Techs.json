@@ -520,6 +520,12 @@
 				"quote": "'Born in the minds of visionaries who tinkered with strange metals, even they couldn't have foreseen electricity's reach.' - Humankind",
 			},
 			{
+				"name": "Radio and Film",
+				"row": 4,
+				"prerequisites": ["Scientific Method"],
+				"quote": "'Drama, spectacle, celebrity—these are the essential ingredients to ensnare another generation, whether on the small or silver screen.' - Humankind",
+			},
+			{
 				"name": "Nationalism",
 				"row": 5,
 				"prerequisites": ["Ideology","Scientific Method"],
