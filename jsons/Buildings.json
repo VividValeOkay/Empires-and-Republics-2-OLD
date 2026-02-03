@@ -333,7 +333,7 @@
     "name": "Stadium",
     "cost": 240,
 	"happiness": 3,
-    "requiredTech": "Radio and Film",
+    "requiredTech": "Mass Media",
   },
   {
     "name": "Industrial Silos",
@@ -358,7 +358,7 @@
 	"name": "Research Lab",
 	"cost": 250,
     "science": 3,
-	"requiredTech": "PLACEHOLDER"
+	"requiredTech": "Chemistry"
   },
   {
     "name": "War Memorial",
