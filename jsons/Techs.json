@@ -543,12 +543,6 @@
 				"prerequisites": ["Ideology","Urbanisation"],
 				"quote": "'War is not an adventure. It is a disease. It is like typhus.' - Antoine de Saint-Exupery",
 			},
-			{
-				"name": "ANCIENT",
-				"row": 14,
-				"prerequisites": ["Scientific Method"],
-				"quote": "'He who commands the sea has command of everything.' - Themistocles",
-			},
 		]
 	},
 	{
@@ -559,45 +553,9 @@
 		"wonderCost": 100,
 		"techs": [
 			{
-				"name": "Late Machine Age Science",
-				"row": 1,
-				"prerequisites": ["ANCIENT"],
-				"quote": "'He who commands the sea has command of everything.' - Themistocles",
-			},
-			{
-				"name": "Late Machine Age Riches",
-				"row": 3,
-				"prerequisites": ["ANCIENT"],
-				"quote": "'He who commands the sea has command of everything.' - Themistocles",
-			},
-			{
-				"name": "Late Machine Age Production",
-				"row": 5,
-				"prerequisites": ["ANCIENT"],
-				"quote": "'He who commands the sea has command of everything.' - Themistocles",
-			},
-			{
-				"name": "Late Machine Age Growth",
-				"row": 7,
-				"prerequisites": ["ANCIENT"],
-				"quote": "'He who commands the sea has command of everything.' - Themistocles",
-			},
-			{
-				"name": "Late Machine Age Culture",
-				"row": 9,
-				"prerequisites": ["ANCIENT"],
-				"quote": "'He who commands the sea has command of everything.' - Themistocles",
-			},
-			{
-				"name": "Late Machine Age Military",
-				"row": 11,
-				"prerequisites": ["ANCIENT"],
-				"quote": "'He who commands the sea has command of everything.' - Themistocles",
-			},
-			{
-				"name": "Late Machine Age Faith",
-				"row": 13,
-				"prerequisites": ["ANCIENT"],
+				"name": "ANCIENT",
+				"row": 14,
+				"prerequisites": ["Electricity"],
 				"quote": "'He who commands the sea has command of everything.' - Themistocles",
 			},
 		]
@@ -612,43 +570,43 @@
 			{
 				"name": "Early Age of Atom Science",
 				"row": 1,
-				"prerequisites": ["Late Machine Age Science"],
+				"prerequisites": ["ANCIENT"],
 				"quote": "'He who commands the sea has command of everything.' - Themistocles",
 			},
 			{
 				"name": "Early Age of Atom Riches",
 				"row": 3,
-				"prerequisites": ["Late Machine Age Science"],
+				"prerequisites": ["ANCIENT"],
 				"quote": "'He who commands the sea has command of everything.' - Themistocles",
 			},
 			{
 				"name": "Early Age of Atom Production",
 				"row": 5,
-				"prerequisites": ["Late Machine Age Production"],
+				"prerequisites": ["ANCIENT"],
 				"quote": "'He who commands the sea has command of everything.' - Themistocles",
 			},
 			{
 				"name": "Early Age of Atom Growth",
 				"row": 7,
-				"prerequisites": ["Late Machine Age Growth"],
+				"prerequisites": ["ANCIENT"],
 				"quote": "'He who commands the sea has command of everything.' - Themistocles",
 			},
 			{
 				"name": "Early Age of Atom Culture",
 				"row": 9,
-				"prerequisites": ["Late Machine Age Culture"],
+				"prerequisites": ["ANCIENT"],
 				"quote": "'He who commands the sea has command of everything.' - Themistocles",
 			},
 			{
 				"name": "Early Age of Atom Military",
 				"row": 11,
-				"prerequisites": ["Late Machine Age Military"],
+				"prerequisites": ["ANCIENT"],
 				"quote": "'He who commands the sea has command of everything.' - Themistocles",
 			},
 			{
 				"name": "Early Age of Atom Faith",
 				"row": 13,
-				"prerequisites": ["Late Machine Age Faith"],
+				"prerequisites": ["ANCIENT"],
 				"quote": "'He who commands the sea has command of everything.' - Themistocles",
 			},
 		]
