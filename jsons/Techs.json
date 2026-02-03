@@ -564,7 +564,7 @@
 			{
 				"name": "ANCIENT",
 				"row": 14,
-				"prerequisites": ["Electricity"],
+				"prerequisites": ["Continuous Track"],
 				"quote": "'He who commands the sea has command of everything.' - Themistocles",
 			},
 		]
