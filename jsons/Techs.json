@@ -415,7 +415,7 @@
 	},
 	{
 		"columnNumber": 12,
-		"era": "Age of Imperialism",
+		"era": "Machine Age",
 		"techCost": 330,
 		"buildingCost": 240,
 		"wonderCost": 100,
@@ -448,7 +448,7 @@
 	},
 	{
 		"columnNumber": 13,
-		"era": "Age of Imperialism",
+		"era": "Machine Age",
 		"techCost": 330,
 		"buildingCost": 240,
 		"wonderCost": 100,
@@ -481,7 +481,7 @@
 	},
 	{
 		"columnNumber": 14,
-		"era": "Age of Imperialism",
+		"era": "Machine Age",
 		"techCost": 330,
 		"buildingCost": 240,
 		"wonderCost": 100,
@@ -508,7 +508,7 @@
 	},
 	{
 		"columnNumber": 15,
-		"era": "Machine Age",
+		"era": "Age of Imperialism",
 		"techCost": 380,
 		"buildingCost": 240,
 		"wonderCost": 100,
@@ -547,7 +547,7 @@
 	},
 	{
 		"columnNumber": 16,
-		"era": "Machine Age",
+		"era": "Age of Imperialism",
 		"techCost": 380,
 		"buildingCost": 240,
 		"wonderCost": 100,
