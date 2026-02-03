@@ -594,7 +594,7 @@
 			{
 				"name": "Hydroelectricity",
 				"row": 2,
-				"prerequisites": ["Continuous Track"],
+				"prerequisites": ["Chemistry","Continuous Track"],
 				"quote": "'Born in the minds of visionaries who tinkered with strange metals, even they couldn't have foreseen electricity's reach.' - Humankind",
 			},
 			{
