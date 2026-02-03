@@ -547,10 +547,28 @@
 		"wonderCost": 100,
 		"techs": [
 			{
+				"name": "Mass Media",
+				"row": 4,
+				"prerequisites": ["Electricity","Radio and Film"],
+				"quote": "'If you don't read the newspaper, you're uninformed. If you read the newspaper, you're mis-informed.' - Mark Twain",
+			},
+			{
+				"name": "Chemistry",
+				"row": 1,
+				"prerequisites": ["Electricity"],
+				"quote": "'Chemists do not usually stutter. It would be very awkward if they did, seeing that they have at times to get out such words as methylethylamylophenylium.' - Sir William Crookes",
+			},
+			{
 				"name": "Continuous Track",
 				"row": 10,
 				"prerequisites": ["Combustion Engine","Trench Warfare"],
 				"quote": "'Ploughed fields, mountainsides, trench lands—few places are out of bounds for a tracked vehicle.' - Humankind",
+			},
+			{
+				"name": "Flight",
+				"row": 11,
+				"prerequisites": ["Combustion Engine","Trench Warfare"],
+				"quote": "'Humans have always dreamed of flight. Now, with new physics, robust materials, and brave pioneers, these fantasies can come true.' - Humankind",
 			},
 		]
 	},
