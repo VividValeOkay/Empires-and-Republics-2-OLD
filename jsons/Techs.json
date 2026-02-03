@@ -549,13 +549,13 @@
 			{
 				"name": "Chemistry",
 				"row": 1,
-				"prerequisites": ["Refrigeration","Mass Media"],
+				"prerequisites": ["Refrigeration"],
 				"quote": "'Chemists do not usually stutter. It would be very awkward if they did, seeing that they have at times to get out such words as methylethylamylophenylium.' - Sir William Crookes",
 			},
 			{
 				"name": "Mass Media",
 				"row": 4,
-				"prerequisites": ["Electricity","Radio and Film"],
+				"prerequisites": ["Radio and Film","Nationalism"],
 				"quote": "'If you don't read the newspaper, you're uninformed. If you read the newspaper, you're mis-informed.' - Mark Twain",
 			},
 			{
