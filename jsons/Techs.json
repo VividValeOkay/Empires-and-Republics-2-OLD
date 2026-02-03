@@ -209,13 +209,13 @@
 			{
 				"name": "Alchemy",
 				"row": 4,
-				"prerequisites": ["Philosophy"],
+				"prerequisites": ["Rhetoric","Philosophy"],
 				"quote": "'He who commands the sea has command of everything.' - Themistocles",
 			},
 			{
 				"name": "Furnace Steel",
 				"row": 8,
-				"prerequisites": ["Iron Working"],
+				"prerequisites": ["Rhetoric","Iron Working"],
 				"quote": "'He who commands the sea has command of everything.' - Themistocles",
 			},
 			{
@@ -514,10 +514,22 @@
 		"wonderCost": 100,
 		"techs": [
 			{
+				"name": "Electricity",
+				"row": 2,
+				"prerequisites": ["Scientific Method"],
+				"quote": "'Born in the minds of visionaries who tinkered with strange metals, even they couldn't have foreseen electricity's reach.' - Humankind",
+			},
+			{
 				"name": "Nationalism",
 				"row": 5,
 				"prerequisites": ["Ideology","Scientific Method"],
 				"quote": "'Patriotism is when love of your own people comes first; nationalism, when hate for people other than your own comes first.' - Charles de Gaulle",
+			},
+			{
+				"name": "Combustion Engine",
+				"row": 7,
+				"prerequisites": ["Urbanisation"],
+				"quote": "'It is arguable whether the human race have been gainers by the march of science beyond the steam engine.' - Winston Churchill",
 			},
 			{
 				"name": "Trench Warfare",
