@@ -507,7 +507,7 @@
 		]
 	},
 	{
-		"columnNumber": 15,
+		"columnNumber": 16,
 		"era": "Age of Imperialism",
 		"techCost": 380,
 		"buildingCost": 240,
@@ -546,7 +546,7 @@
 		]
 	},
 	{
-		"columnNumber": 16,
+		"columnNumber": 15,
 		"era": "Machine Age",
 		"techCost": 380,
 		"buildingCost": 240,
