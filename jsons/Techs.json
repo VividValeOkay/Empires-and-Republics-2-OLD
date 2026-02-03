@@ -547,6 +547,12 @@
 		"wonderCost": 100,
 		"techs": [
 			{
+				"name": "Chemistry",
+				"row": 1,
+				"prerequisites": ["Mass Media"],
+				"quote": "'Chemists do not usually stutter. It would be very awkward if they did, seeing that they have at times to get out such words as methylethylamylophenylium.' - Sir William Crookes",
+			},
+			{
 				"name": "Mass Media",
 				"row": 4,
 				"prerequisites": ["Electricity","Radio and Film"],
@@ -574,12 +580,6 @@
 		"wonderCost": 100,
 		"techs": [
 			{
-				"name": "Chemistry",
-				"row": 1,
-				"prerequisites": ["Mass Media"],
-				"quote": "'Chemists do not usually stutter. It would be very awkward if they did, seeing that they have at times to get out such words as methylethylamylophenylium.' - Sir William Crookes",
-			},
-			{
 				"name": "Leisure",
 				"row": 4,
 				"prerequisites": ["Mass Media"],
@@ -596,6 +596,12 @@
 				"row": 2,
 				"prerequisites": ["Continuous Track"],
 				"quote": "'Born in the minds of visionaries who tinkered with strange metals, even they couldn't have foreseen electricity's reach.' - Humankind",
+			},
+			{
+				"name": "Naval Strategy",
+				"row": 13,
+				"prerequisites": ["Continuous Track","Flight"],
+				"quote": "'The oceans are vast, unforgiving environments, and new ideas are necessary to bring naval power into their theaters of war.' - Humankind",
 			},
 			{
 				"name": "ANCIENT",
