@@ -334,7 +334,7 @@
 		"movement": 2,
 		"strength": 27,
 		"cost": 400,
-		"requiredTech": "PLACEHOLDER",
+		"requiredTech": "Continuous Track",
 		"uniques": ["[+50]% Strength <vs [Armored] units>"],
 		"attackSound": "shot"
 	},
