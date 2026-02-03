@@ -154,7 +154,7 @@
 	{
 		"name": "Oil",
 		"resourceType": "Strategic",
-		"revealedBy": "PLACEHOLDER",
+		"revealedBy": "Combustion Engine",
 		"terrainsCanBeFoundOn": ["Desert","Coast","Tundra","Snow","Jungle"],
 		"production": 1,
 		"improvedBy": ["Oil well", "Offshore Platform"],
