@@ -282,13 +282,13 @@
 			{
 				"name": "Education",
 				"row": 4,
-				"prerequisites": ["Theology"],
+				"prerequisites": ["Guilds","Theology"],
 				"quote": "'He who commands the sea has command of everything.' - Themistocles",
 			},
 			{
 				"name": "Heavy Infantry",
 				"row": 11,
-				"prerequisites": ["Chivalry"],
+				"prerequisites": ["Machinery","Chivalry"],
 				"quote": "'He who commands the sea has command of everything.' - Themistocles",
 			},
 			{
@@ -330,12 +330,6 @@
 				"row": 10,
 				"prerequisites": ["Heavy Infantry","Military Architecture"],
 				"quote": "'To better manage the evolution of complex empires—including wily lords with grand ambitions—a centralised system to collect and disburse taxes is necessary.' - Humankind",
-			},
-			{
-				"name": "ANCIENT",
-				"row": 14,
-				"prerequisites": ["Education"],
-				"quote": "'He who commands the sea has command of everything.' - Themistocles",
 			},
 		]
 	},
@@ -423,13 +417,13 @@
 			{
 				"name": "Encyclopedia",
 				"row": 1,
-				"prerequisites": ["Enlightenment"],
+				"prerequisites": ["Mercantilism","Enlightenment"],
 				"quote": "'The tome encompassing the sum of human knowledge is sought by the tyrant and the benevolent alike.' - Humankind",
 			},
 			{
 				"name": "Steam Power",
 				"row": 7,
-				"prerequisites": ["Mass Production"],
+				"prerequisites": ["Mercantilism","Mass Production"],
 				"quote": "'It is arguable whether the human race have been gainers by the march of science beyond the steam engine.' - Winston Churchill",
 			},
 			{
