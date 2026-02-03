@@ -313,7 +313,7 @@
     "cost": 200,
     "food": 2,
     "happiness": 2,
-    "requiredTech": "PLACEHOLDER",
+    "requiredTech": "Radio and Film",
     "requiredResource": "Grapes",
   },
   {
@@ -321,7 +321,7 @@
     "cost": 240,
     "culture": 3,
 	"happiness": 1,
-    "requiredTech": "PLACEHOLDER",
+    "requiredTech": "Radio and Film",
   },
   {
     "name": "Conscription Center",
@@ -333,7 +333,7 @@
     "name": "Stadium",
     "cost": 240,
 	"happiness": 3,
-    "requiredTech": "PLACEHOLDER",
+    "requiredTech": "Radio and Film",
   },
   {
     "name": "Industrial Silos",
@@ -352,7 +352,7 @@
     "cost": 240,
     "food": 2,
 	"gold": 1,
-    "requiredTech": "PLACEHOLDER",
+    "requiredTech": "Urbanisation",
   },
   {
 	"name": "Research Lab",
