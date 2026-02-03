@@ -549,7 +549,7 @@
 			{
 				"name": "Chemistry",
 				"row": 1,
-				"prerequisites": ["Mass Media"],
+				"prerequisites": ["Refrigeration","Mass Media"],
 				"quote": "'Chemists do not usually stutter. It would be very awkward if they did, seeing that they have at times to get out such words as methylethylamylophenylium.' - Sir William Crookes",
 			},
 			{
