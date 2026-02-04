@@ -383,7 +383,7 @@
     "name": "Nuclear Plant",
     "cost": 280,
     "production": 3,
-    "requiredTech": "Early Age of Atom Production",
+    "requiredTech": "Nuclear Fission",
     "requiredResource": "Uranium",
   },
   {
@@ -391,7 +391,7 @@
 	"cost": 750,
 	"isNationalWonder": true,
 	"uniques": ["Enables nuclear weapon", "Triggers a global alert upon completion", "Cannot be hurried"],
-	"requiredTech": "Early Age of Atom Military",
+	"requiredTech": "Nuclear Fission",
   },
   {
 	"name": "Data Centre",
