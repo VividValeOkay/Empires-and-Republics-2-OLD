@@ -97,7 +97,7 @@
 			{
 				"name": "Writing",
 				"row": 4,
-				"prerequisites": ["Agriculture"],
+				"prerequisites": ["Trapping","Agriculture"],
 				"uniques": ["Enables Open Borders agreements"],
 				"quote": "'He who commands the sea has command of everything.' - Themistocles",
 			},
@@ -621,7 +621,7 @@
 			{
 				"name": "ANCIENT",
 				"row": 14,
-				"prerequisites": ["Continuous Track"],
+				"prerequisites": ["Hydroelectricity"],
 				"quote": "'He who commands the sea has command of everything.' - Themistocles",
 			},
 		]
