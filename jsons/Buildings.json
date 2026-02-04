@@ -397,14 +397,14 @@
 	"name": "Data Centre",
 	"cost": 285,
     "science": 3,
-	"requiredTech": "Early Age of Atom Science",
+	"requiredTech": "PLACEHOLDER",
   },
   {
     "name": "Hotel",
     "cost": 275,
     "food": 1,
 	"happiness": 2,
-    "requiredTech": "Early Age of Atom Growth",
+    "requiredTech": "PLACEHOLDER",
   },
   {
     "name": "Bomb Shelter",
