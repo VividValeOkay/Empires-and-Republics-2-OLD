@@ -404,7 +404,7 @@
     "cost": 275,
     "food": 1,
 	"happiness": 2,
-    "requiredTech": "PLACEHOLDER",
+    "requiredTech": "Leisure",
   },
   {
     "name": "Bomb Shelter",
