@@ -175,7 +175,7 @@
 	{
 		"name": "Uranium",
 		"resourceType": "Strategic",
-		"revealedBy": "Early Age of Atom Military",
+		"revealedBy": "Combined Arms",
 		"terrainsCanBeFoundOn": ["Jungle","Forest","Tundra","Snow"],
 		"production": 1,
 		"improvement": "Mine",
