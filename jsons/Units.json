@@ -292,7 +292,7 @@
 		"strength": 30,
 		"cost": 430,
 		"requiredTech": "Trench Warfare",
-		"obsoleteTech": "Early Age of Atom Military",
+		"obsoleteTech": "PLACEHOLDER",
 		"upgradesTo": "Infantry",
 		"attackSound": "shot"
 	},
