@@ -634,6 +634,18 @@
 		"wonderCost": 100,
 		"techs": [
 			{
+				"name": "Plastics",
+				"row": 3,
+				"prerequisites": ["Pharmaceuticals"],
+				"quote": "'In nothing do men more nearly approach the gods than in giving health to men.' - Cicero",
+			},
+			{
+				"name": "Rocketry",
+				"row": 8,
+				"prerequisites": ["Leisure","Nuclear Fission"],
+				"quote": "'Better to fight for something than live for nothing.' - George S. Patton",
+			},
+			{
 				"name": "Advanced Ballistics",
 				"row": 10,
 				"prerequisites": ["Nuclear Fission"],
@@ -648,7 +660,7 @@
 			{
 				"name": "ANCIENT",
 				"row": 14,
-				"prerequisites": ["Hydroelectricity"],
+				"prerequisites": ["Pharmaceuticals"],
 				"quote": "'He who commands the sea has command of everything.' - Themistocles",
 			},
 		]
