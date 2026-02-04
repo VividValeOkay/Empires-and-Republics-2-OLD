@@ -346,7 +346,7 @@
 		"rangedStrength": 300,
 		"range": 12,
 		"cost": 600,
-		"requiredTech": "Early Age of Atom Military",
+		"requiredTech": "Nuclear Fission",
 		"requiredResource": "Uranium",
 		"promotions" : ["Evasion"],
 		"uniques": ["Nuclear weapon of Strength [2]", "Only available <if [Nuclear Weapons Project] is constructed>", "Self-destructs when attacking",
@@ -361,7 +361,7 @@
 		"movement": 2,
 		"strength": 35,
 		"cost": 190,
-		"requiredTech": "Early Age of Atom Military",
+		"requiredTech": "PLACEHOLDER",
 		"attackSound": "shot"
 	},
 	{
