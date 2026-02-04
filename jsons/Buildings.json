@@ -427,7 +427,7 @@
 		"isNationalWonder": true,
 		"uniques": ["Enables construction of Spaceship parts", "Triggers a global alert upon completion", 
 			"Only available <when [Scientific] Victory is enabled>", "Cannot be hurried"],
-		"requiredTech": "Late Age of Atom Science",
+		"requiredTech": "Rocketry",
 	},
 
 	// Religious buildings
