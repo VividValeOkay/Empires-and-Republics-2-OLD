@@ -580,12 +580,6 @@
 		"wonderCost": 100,
 		"techs": [
 			{
-				"name": "Leisure",
-				"row": 4,
-				"prerequisites": ["Mass Media"],
-				"quote": "'If you don't read the newspaper, you're uninformed. If you read the newspaper, you're mis-informed.' - Mark Twain",
-			},
-			{
 				"name": "War Memorial",
 				"row": 5,
 				"prerequisites": ["Mass Media"],
@@ -612,6 +606,18 @@
 		"buildingCost": 240,
 		"wonderCost": 100,
 		"techs": [
+			{
+				"name": "Pharmaceuticals",
+				"row": 2,
+				"prerequisites": ["Hydroelectricity"],
+				"quote": "'In nothing do men more nearly approach the gods than in giving health to men.' - Cicero",
+			},
+			{
+				"name": "Leisure",
+				"row": 4,
+				"prerequisites": ["War Memorial"],
+				"quote": "'If you don't read the newspaper, you're uninformed. If you read the newspaper, you're mis-informed.' - Mark Twain",
+			},
 			{
 				"name": "Nuclear Fission",
 				"row": 9,
