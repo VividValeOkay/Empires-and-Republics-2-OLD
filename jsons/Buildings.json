@@ -371,13 +371,13 @@
     "name": "Medical Lab",
     "cost": 280,
     "food": 3,
-    "requiredTech": "Early Age of Atom Growth",
+    "requiredTech": "PLACEHOLDER",
   },
   {
     "name": "Solar Plant",
     "cost": 280,
     "production": 3,
-    "requiredTech": "Late Age of Atom Production",
+    "requiredTech": "PLACEHOLDER",
   },
   {
     "name": "Nuclear Plant",
