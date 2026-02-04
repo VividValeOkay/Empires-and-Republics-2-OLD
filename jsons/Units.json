@@ -176,7 +176,7 @@
 		"range": 2,
 		"cost": 180,
 		"requiredTech": "Machinery",
-		"obsoleteTech": "PLACEHOLDER",
+		"obsoleteTech": "Military Science",
 		"upgradesTo": "Fieldgun",
 	},
 	{
@@ -220,7 +220,7 @@
 		"strength": 19,
 		"cost": 250,
 		"requiredTech": "Centralised Power",
-		"obsoleteTech": "PLACEHOLDER",
+		"obsoleteTech": "Continuous Track",
 		"upgradesTo": "Anti-Tank Gun",
 		"uniques": ["[+50]% Strength <vs [Mounted] units>"],
 		"attackSound": "metalhit"
