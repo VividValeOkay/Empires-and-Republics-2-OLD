@@ -685,6 +685,12 @@
 		"wonderCost": 100,
 		"techs": [
 			{
+				"name": "Mass Entertainment",
+				"row": 4,
+				"prerequisites": ["Leisure"],
+				"quote": "'Drama, spectacle, celebrity—these are the essential ingredients to ensnare another generation, whether on the small or silver screen.' - Humankind",
+			},
+			{
 				"name": "Nanotechnology",
 				"row": 8,
 				"prerequisites": ["Satellites"],
