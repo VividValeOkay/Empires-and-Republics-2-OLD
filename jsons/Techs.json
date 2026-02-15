@@ -691,6 +691,12 @@
 				"quote": "'Drama, spectacle, celebrity—these are the essential ingredients to ensnare another generation, whether on the small or silver screen.' - Humankind",
 			},
 			{
+				"name": "Mechanized Harvesting",
+				"row": 6,
+				"prerequisites": ["Plastics","Leisure"],
+				"quote": "'Expanding the domain of automated processes into the sphere of farming is both brutal and efficient.' - Humankind",
+			},
+			{
 				"name": "Nanotechnology",
 				"row": 8,
 				"prerequisites": ["Satellites"],
@@ -714,9 +720,9 @@
 			{
 				"name": "Future Tech",
 				"row": 6,
-				"prerequisites": ["Nanotechnology"],
+				"prerequisites": ["Mass Entertainment","Mechanized Harvesting","Nanotechnology","Composite Armor"],
 				"uniques": ["Can be continually researched"],
-				"quote": "'I think we agree, the past is over.' - George W. Bush",
+				"quote": "Who knows what the future holds..?",
                 "civilopediaText": [{"text": "Who knows what the future holds?"}]
 			},
 			{
