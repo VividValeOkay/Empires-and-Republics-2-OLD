@@ -407,14 +407,6 @@
     "requiredTech": "Leisure",
   },
   {
-    "name": "Bomb Shelter",
-    "cost": 350,
-    "requiredTech": "Early Age of Information Military",
-	"uniques": ["Population loss from nuclear attacks [-75]% [in this city]",
-			    "Damage to garrison from nuclear attacks [-75]% [in this city]",
-			    "Only available <when nuclear weapons are enabled> <hidden from users>"]
-  },
-  {
     "name": "Spaceship Factory",
     "cost": 375,
     "production": 1,
