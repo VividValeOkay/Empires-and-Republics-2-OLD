@@ -418,7 +418,7 @@
     "name": "Spaceship Factory",
     "cost": 375,
     "production": 1,
-    "requiredTech": "PLACEHOLDER",
+    "requiredTech": "Rocketry",
 	"uniques": ["[+50]% Production when constructing [Spaceship part] units [in this city]"],
   },
 	{
