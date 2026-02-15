@@ -292,7 +292,7 @@
 		"strength": 30,
 		"cost": 430,
 		"requiredTech": "Trench Warfare",
-		"obsoleteTech": "PLACEHOLDER",
+		"obsoleteTech": "Automatic Weapons",
 		"upgradesTo": "Infantry",
 		"attackSound": "shot"
 	},
@@ -360,8 +360,18 @@
 		"unitType": "Gunpowder",
 		"movement": 2,
 		"strength": 35,
-		"cost": 190,
+		"cost": 430,
 		"requiredTech": "Automatic Weapons",
+		"obsoleteTech": "Composite Armor",
+		"attackSound": "shot"
+	},
+	{
+		"name": "Mechanized Infantry",
+		"unitType": "Gunpowder",
+		"movement": 2,
+		"strength": 40,
+		"cost": 650,
+		"requiredTech": "Composite Armor",
 		"attackSound": "shot"
 	},
 	{
