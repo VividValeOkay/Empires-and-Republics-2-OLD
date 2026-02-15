@@ -666,7 +666,7 @@
 			},
 			{
 				"name": "Advanced Ballistics",
-				"row": 10,
+				"row": 11,
 				"prerequisites": ["Advanced Flight"],
 				"quote": "'Better to fight for something than live for nothing.' - George S. Patton",
 			},
