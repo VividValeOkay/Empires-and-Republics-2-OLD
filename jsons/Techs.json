@@ -663,12 +663,6 @@
 				"prerequisites": ["Nuclear Fission"],
 				"quote": "'Better to fight for something than live for nothing.' - George S. Patton",
 			},
-			{
-				"name": "ANCIENT",
-				"row": 14,
-				"prerequisites": ["Pharmaceuticals"],
-				"quote": "'He who commands the sea has command of everything.' - Themistocles",
-			},
 		]
 	},
 	{
@@ -696,8 +690,7 @@
 			{
 				"name": "Future Tech",
 				"row": 6,
-				"prerequisites": ["Late Age of Information Science","Late Age of Information Production","Late Age of Information Culture",
-					              "Late Age of Information Growth","Late Age of Information Military","Late Age of Information Faith"],
+				"prerequisites": ["Nanotechnology"],
 				"uniques": ["Can be continually researched"],
 				"quote": "'I think we agree, the past is over.' - George W. Bush",
                 "civilopediaText": [{"text": "Who knows what the future holds?"}]
@@ -705,7 +698,7 @@
 			{
 				"name": "PLACEHOLDER",
 				"row": 1,
-				"prerequisites": ["Early Age of Information Faith"],
+				"prerequisites": ["Nanotechnology"],
 				"quote": "'He who commands the sea has command of everything.' - Themistocles",
 			}
 		]
