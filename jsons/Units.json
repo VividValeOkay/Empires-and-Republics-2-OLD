@@ -361,7 +361,7 @@
 		"movement": 2,
 		"strength": 35,
 		"cost": 190,
-		"requiredTech": "PLACEHOLDER",
+		"requiredTech": "Automatic Weapons",
 		"attackSound": "shot"
 	},
 	{
