@@ -693,7 +693,7 @@
 			{
 				"name": "Composite Armor",
 				"row": 10,
-				"prerequisites": ["Advanced Ballistics"],
+				"prerequisites": ["Automatic Weapons","Advanced Ballistics"],
 				"quote": "'All material things seem to have been composed of the hard and solid particles; variously associated with the first Creation by the counsel of an Intelligent Agent.' - Isaac Newton",
 			},
 		]
