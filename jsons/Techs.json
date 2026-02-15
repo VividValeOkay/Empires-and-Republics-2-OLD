@@ -679,46 +679,10 @@
 		"wonderCost": 100,
 		"techs": [
 			{
-				"name": "Early Age of Information Science",
-				"row": 1,
-				"prerequisites": ["ANCIENT"],
-				"quote": "'He who commands the sea has command of everything.' - Themistocles",
-			},
-			{
-				"name": "Early Age of Information Riches",
-				"row": 3,
-				"prerequisites": ["ANCIENT"],
-				"quote": "'He who commands the sea has command of everything.' - Themistocles",
-			},
-			{
-				"name": "Early Age of Information Production",
-				"row": 5,
-				"prerequisites": ["ANCIENT"],
-				"quote": "'He who commands the sea has command of everything.' - Themistocles",
-			},
-			{
-				"name": "Early Age of Information Growth",
-				"row": 7,
-				"prerequisites": ["ANCIENT"],
-				"quote": "'He who commands the sea has command of everything.' - Themistocles",
-			},
-			{
-				"name": "Early Age of Information Culture",
-				"row": 9,
-				"prerequisites": ["ANCIENT"],
-				"quote": "'He who commands the sea has command of everything.' - Themistocles",
-			},
-			{
-				"name": "Early Age of Information Military",
-				"row": 11,
-				"prerequisites": ["ANCIENT"],
-				"quote": "'He who commands the sea has command of everything.' - Themistocles",
-			},
-			{
-				"name": "Early Age of Information Faith",
-				"row": 13,
-				"prerequisites": ["ANCIENT"],
-				"quote": "'He who commands the sea has command of everything.' - Themistocles",
+				"name": "Nanotechnology",
+				"row": 8,
+				"prerequisites": ["Satellites"],
+				"quote": "'If technology is the engine of change, then nanotechnology is the fuel for humanity’s future.' - Natasha Vita-More",
 			},
 		]
 	},
