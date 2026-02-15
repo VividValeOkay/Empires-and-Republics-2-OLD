@@ -592,6 +592,12 @@
 				"quote": "'Born in the minds of visionaries who tinkered with strange metals, even they couldn't have foreseen electricity's reach.' - Humankind",
 			},
 			{
+				"name": "Nuclear Fission",
+				"row": 9,
+				"prerequisites": ["Continuous Track","Flight"],
+				"quote": "'If you go on with this nuclear arms race, all you are going to do is make the rubble bounce.' - Winston Churchill",
+			},
+			{
 				"name": "Combined Arms",
 				"row": 13,
 				"prerequisites": ["Continuous Track","Flight"],
@@ -620,15 +626,9 @@
 			},
 			{
 				"name": "Rocketry",
-				"row": 8,
+				"row": 7,
 				"prerequisites": ["Combined Arms"],
 				"quote": "'Better to fight for something than live for nothing.' - George S. Patton",
-			},
-			{
-				"name": "Nuclear Fission",
-				"row": 9,
-				"prerequisites": ["War Memorial","Combined Arms"],
-				"quote": "'If you go on with this nuclear arms race, all you are going to do is make the rubble bounce.' - Winston Churchill",
 			},
 			{
 				"name": "Advanced Flight",
@@ -683,6 +683,12 @@
 				"row": 8,
 				"prerequisites": ["Satellites"],
 				"quote": "'If technology is the engine of change, then nanotechnology is the fuel for humanity’s future.' - Natasha Vita-More",
+			},
+			{
+				"name": "Composite Armor",
+				"row": 10,
+				"prerequisites": ["Advanced Ballistics"],
+				"quote": "'All material things seem to have been composed of the hard and solid particles; variously associated with the first Creation by the counsel of an Intelligent Agent.' - Isaac Newton",
 			},
 		]
 	},
