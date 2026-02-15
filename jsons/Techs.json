@@ -631,6 +631,12 @@
 				"quote": "'Better to fight for something than live for nothing.' - George S. Patton",
 			},
 			{
+				"name": "Automatic Weapons",
+				"row": 10,
+				"prerequisites": ["Combined Arms"],
+				"quote": "'Many of us take better care of our automobiles than we do of our own bodies; yet the auto has replaceable parts.' - B.J. Palmer",
+			},
+			{
 				"name": "Advanced Flight",
 				"row": 11,
 				"prerequisites": ["Combined Arms"],
