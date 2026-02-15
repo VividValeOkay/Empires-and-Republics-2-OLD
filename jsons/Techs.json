@@ -619,6 +619,12 @@
 				"quote": "'If you don't read the newspaper, you're uninformed. If you read the newspaper, you're mis-informed.' - Mark Twain",
 			},
 			{
+				"name": "Rocketry",
+				"row": 8,
+				"prerequisites": ["Combined Arms"],
+				"quote": "'Better to fight for something than live for nothing.' - George S. Patton",
+			},
+			{
 				"name": "Nuclear Fission",
 				"row": 9,
 				"prerequisites": ["War Memorial","Combined Arms"],
@@ -627,7 +633,7 @@
 			{
 				"name": "Advanced Flight",
 				"row": 11,
-				"prerequisites": ["Nuclear Fission"],
+				"prerequisites": ["Combined Arms"],
 				"quote": "'Sure, jets are fast and economical, but, oh my, what fun we’ve lost and what leisure we’ve sacrificed in the race for efficiency.' - Ginger Rogers",
 			},
 		]
@@ -646,9 +652,9 @@
 				"quote": "'In nothing do men more nearly approach the gods than in giving health to men.' - Cicero",
 			},
 			{
-				"name": "Rocketry",
+				"name": "Satellites",
 				"row": 8,
-				"prerequisites": ["Leisure","Nuclear Fission"],
+				"prerequisites": ["Rocketry"],
 				"quote": "'Better to fight for something than live for nothing.' - George S. Patton",
 			},
 			{
