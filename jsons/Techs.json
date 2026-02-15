@@ -601,7 +601,7 @@
 	},
 	{
 		"columnNumber": 18,
-		"era": "Age of Atom",
+		"era": "Contemporary Age",
 		"techCost": 1660,
 		"buildingCost": 240,
 		"wonderCost": 100,
@@ -628,7 +628,7 @@
 	},
 	{
 		"columnNumber": 19,
-		"era": "Age of Atom",
+		"era": "Contemporary Age",
 		"techCost": 1660,
 		"buildingCost": 380,
 		"wonderCost": 100,
@@ -667,7 +667,7 @@
 	},
 	{
 		"columnNumber": 20,
-		"era": "Age of Information",
+		"era": "Contemporary Age",
 		"techCost": 2155,
 		"buildingCost": 300,
 		"wonderCost": 100,
@@ -718,7 +718,7 @@
 	},
 	{
 		"columnNumber": 21,
-		"era": "Age of Information",
+		"era": "Contemporary Age",
 		"techCost": 2155,
 		"buildingCost": 300,
 		"wonderCost": 100,
