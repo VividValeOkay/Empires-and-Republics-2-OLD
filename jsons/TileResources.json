@@ -330,19 +330,19 @@
 					"Doesn't generate naturally <in [Tundra] tiles>"]
 	},
 	// Civ-made resources
-	{
-		"name": "Basket",
-		"resourceType": "Luxury",
-		"food": 1,
-	},
-	{
-		"name": "Tunics",
-		"resourceType": "Luxury",
-		"gold": 3,
-	},
-	{
-		"name": "Cement",
-		"resourceType": "Luxury",
-		"production": 3,
-	},
+//	{
+//		"name": "Basket",
+//		"resourceType": "Luxury",
+//		"food": 1,
+//	},
+//	{
+//		"name": "Tunics",
+//		"resourceType": "Luxury",
+//		"gold": 3,
+//	},
+//	{
+//		"name": "Cement",
+//		"resourceType": "Luxury",
+//		"production": 3,
+//	},
 ]
