@@ -624,6 +624,12 @@
 				"prerequisites": ["War Memorial","Combined Arms"],
 				"quote": "'If you go on with this nuclear arms race, all you are going to do is make the rubble bounce.' - Winston Churchill",
 			},
+			{
+				"name": "Advanced Flight",
+				"row": 11,
+				"prerequisites": ["Nuclear Fission"],
+				"quote": "'Sure, jets are fast and economical, but, oh my, what fun we’ve lost and what leisure we’ve sacrificed in the race for efficiency.' - Ginger Rogers",
+			},
 		]
 	},
 	{
@@ -650,12 +656,6 @@
 				"row": 10,
 				"prerequisites": ["Nuclear Fission"],
 				"quote": "'Better to fight for something than live for nothing.' - George S. Patton",
-			},
-			{
-				"name": "Advanced Flight",
-				"row": 11,
-				"prerequisites": ["Nuclear Fission"],
-				"quote": "'Sure, jets are fast and economical, but, oh my, what fun we’ve lost and what leisure we’ve sacrificed in the race for efficiency.' - Ginger Rogers",
 			},
 			{
 				"name": "ANCIENT",
@@ -718,57 +718,6 @@
 	},
 	{
 		"columnNumber": 21,
-		"era": "Contemporary Age",
-		"techCost": 2155,
-		"buildingCost": 300,
-		"wonderCost": 100,
-		"techs": [
-			{
-				"name": "Late Age of Information Science",
-				"row": 1,
-				"prerequisites": ["Early Age of Information Science"],
-				"quote": "'He who commands the sea has command of everything.' - Themistocles",
-			},
-			{
-				"name": "Late Age of Information Riches",
-				"row": 3,
-				"prerequisites": ["Early Age of Information Science"],
-				"quote": "'He who commands the sea has command of everything.' - Themistocles",
-			},
-			{
-				"name": "Late Age of Information Production",
-				"row": 5,
-				"prerequisites": ["Early Age of Information Production"],
-				"quote": "'He who commands the sea has command of everything.' - Themistocles",
-			},
-			{
-				"name": "Late Age of Information Growth",
-				"row": 7,
-				"prerequisites": ["Early Age of Information Growth"],
-				"quote": "'He who commands the sea has command of everything.' - Themistocles",
-			},
-			{
-				"name": "Late Age of Information Culture",
-				"row": 9,
-				"prerequisites": ["Early Age of Information Culture"],
-				"quote": "'He who commands the sea has command of everything.' - Themistocles",
-			},
-			{
-				"name": "Late Age of Information Military",
-				"row": 11,
-				"prerequisites": ["Early Age of Information Military"],
-				"quote": "'He who commands the sea has command of everything.' - Themistocles",
-			},
-			{
-				"name": "Late Age of Information Faith",
-				"row": 13,
-				"prerequisites": ["Early Age of Information Faith"],
-				"quote": "'He who commands the sea has command of everything.' - Themistocles",
-			},
-		]
-	},
-	{
-		"columnNumber": 22,
 		"era": "Age of Tomorrow",
 		"techCost": 3000,
 		"buildingCost": 500,
