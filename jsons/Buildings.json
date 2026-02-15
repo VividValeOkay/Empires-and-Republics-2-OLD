@@ -377,7 +377,7 @@
     "name": "Solar Plant",
     "cost": 280,
     "production": 3,
-    "requiredTech": "PLACEHOLDER",
+    "requiredTech": "Satellites",
   },
   {
     "name": "Nuclear Plant",
@@ -397,7 +397,7 @@
 	"name": "Data Centre",
 	"cost": 285,
     "science": 3,
-	"requiredTech": "PLACEHOLDER",
+	"requiredTech": "Computing",
   },
   {
     "name": "Hotel",
