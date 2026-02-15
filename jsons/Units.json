@@ -458,7 +458,7 @@
 		"unitType": "Civilian",
 		"movement": 2,
 		"cost": 1500,
-		"requiredTech": "PLACEHOLDER",
+		"requiredTech": "Nanotechnology",
 		"requiredResource": "Oil",
 		"uniques": ["Spaceship part", "Cannot be purchased", "Only available <if [Apollo Program] is constructed>", "Uncapturable", "Can be added to [The Spaceship] in the Capital", "Limited to [1] per Civilization", "Only available <when [Scientific] Victory is enabled>"]
 		// costs 1500 in BNW
@@ -468,7 +468,7 @@
 		"unitType": "Civilian",
 		"movement": 2,
 		"cost": 1500,
-		"requiredTech": "PLACEHOLDER",
+		"requiredTech": "Nanotechnology",
 		"requiredResource": "Iron",
 		"uniques": ["Spaceship part", "Cannot be purchased", "Only available <if [Apollo Program] is constructed>", "Uncapturable", "Can be added to [The Spaceship] in the Capital", "Limited to [1] per Civilization", "Only available <when [Scientific] Victory is enabled>"]
 		// costs 1500 in BNW
