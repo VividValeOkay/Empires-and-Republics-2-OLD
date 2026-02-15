@@ -92,22 +92,7 @@
         "iconRGB": [255, 87, 35]
     },
     {
-        "name": "Age of Atom",
-        "researchAgreementCost": 680,
-        "startingSettlerCount": 3, // These values should not include the values given in Difficulties.json
-        "startingWorkerCount": 2,
-        "startingMilitaryUnitCount": 3,
-        "startingMilitaryUnit": "Great War Infantry",
-        "settlerPopulation": 6,
-        "settlerBuildings": ["Shrine","Campfire","Well","Furnace","Granary","Library","School","Market","Tannery","Logging Camp","Mint","Mill","Bakery","Walls"],
-        "baseUnitBuyCost": 550,
-        "embarkDefense": 3,
-        "startPercent": 0,
-        "citySound": "cityAtomic",
-        "iconRGB": [255, 87, 35]
-    },
-    {
-        "name": "Age of Information",
+        "name": "Contemporary Age",
         "researchAgreementCost": 900,
         "startingSettlerCount": 3, // These values should not include the values given in Difficulties.json
         "startingWorkerCount": 2,
