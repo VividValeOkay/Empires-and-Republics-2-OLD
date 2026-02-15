@@ -646,6 +646,12 @@
 		"wonderCost": 100,
 		"techs": [
 			{
+				"name": "Computing",
+				"row": 2,
+				"prerequisites": ["Pharmaceuticals"],
+				"quote": "'Who knows where this invention is going to lead? It's amazing what you can do with silicon, an algorithm, and some ones and zeroes...' - Humankind",
+			},
+			{
 				"name": "Plastics",
 				"row": 3,
 				"prerequisites": ["Pharmaceuticals"],
