@@ -23,7 +23,7 @@
 		"movement": 2,
 		"strength": 5,
 		"cost": 40,
-		"obsoleteTech": "PLACEHOLDER",
+		"obsoleteTech": "Trench Warfare",
 		"upgradesTo": "Spearman",
 		"attackSound": "nonmetalhit",
 	},
