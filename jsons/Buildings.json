@@ -344,7 +344,7 @@
   {
     "name": "Police Station",
     "cost": 275,
-    "requiredTech": "PLACEHOLDER",
+    "requiredTech": "Nationalism",
 	"uniques": ["[-15]% enemy spy effectiveness [in this city]","Gain an extra spy"],
   },
   {
@@ -371,7 +371,7 @@
     "name": "Medical Lab",
     "cost": 280,
     "food": 3,
-    "requiredTech": "PLACEHOLDER",
+    "requiredTech": "Pharmaceuticals",
   },
   {
     "name": "Solar Plant",
