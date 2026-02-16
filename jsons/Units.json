@@ -325,6 +325,7 @@
 		"strength": 32,
 		"cost": 480,
 		"requiredTech": "Continuous Track",
+		"obsoleteTech": "Composite Armor",
 		"requiredResource": "Oil",
 		"uniques": ["No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>"],
 	},
@@ -373,6 +374,16 @@
 		"cost": 650,
 		"requiredTech": "Composite Armor",
 		"attackSound": "shot"
+	},
+	{
+		"name": "Main Battle Tank",
+		"unitType": "Armored",
+		"movement": 2,
+		"strength": 45,
+		"cost": 680,
+		"requiredTech": "Composite Armor",
+		"requiredResource": "Oil",
+		"uniques": ["No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>"],
 	},
 	{
 		"name": "Triplane",
