@@ -724,12 +724,6 @@
 				"uniques": ["Can be continually researched"],
 				"quote": "Who knows what the future holds..?",
                 "civilopediaText": [{"text": "Who knows what the future holds?"}]
-			},
-			{
-				"name": "PLACEHOLDER",
-				"row": 1,
-				"prerequisites": ["Nanotechnology"],
-				"quote": "'He who commands the sea has command of everything.' - Themistocles",
 			}
 		]
 	}
