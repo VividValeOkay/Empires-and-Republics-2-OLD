@@ -443,6 +443,18 @@
 		"innerColor": [127, 177, 236],
 		"cities": ["Bangkok"]
 },
+{
+		"name": "Yoruba Peoples",
+		"adjective": ["Yoruba"],
+		"cityStateType": "Food",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "War, then? Fools think fortune is on their side. Who will you blame when yours runs out?",
+		"defeated": "One gains humility in defeat. I pray you are granted the most humility of all.",
+		"outerColor": [0, 0, 0],
+		"innerColor": [127, 177, 236],
+		"cities": ["Abuja"]
+},
 	//Barbarian
 {
 		"name": "Barbarians",
