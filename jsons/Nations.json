@@ -548,8 +548,20 @@
 		"attacked": "Very well, this won't be forgotten.",
 		"defeated": "And now, the burning wheel passes over me.",
 		"outerColor": [0, 0, 0],
-		"innerColor": [158, 17, 209],
+		"innerColor": [240, 236, 10],
 		"cities": ["Venice"]
+},
+{
+		"name": "Haudenosaunee Peoples",
+		"adjective": ["Haudenosaunee"],
+		"cityStateType": "Gold",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this won't be forgotten.",
+		"defeated": "And now, the burning wheel passes over me.",
+		"outerColor": [0, 0, 0],
+		"innerColor": [240, 236, 10],
+		"cities": ["Onondaga"]
 },
 	//Barbarian
 {
