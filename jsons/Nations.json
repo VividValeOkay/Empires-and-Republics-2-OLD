@@ -261,9 +261,9 @@
 		"startBias": ["Avoid [Tundra]","Coast"],
         "favoredReligion": "Catholicism",
 
-		"declaringWar": "God will probably forgive you. But I will not. Prepare for war.",
-		"attacked": "Repugnant spawn of the devil! You will pay!",
-		"defeated": "Very well. This is undoubtedly the will of God. And I must accept it.",
+		"declaringWar": "I covet not your lands and crown for me, but for the increasement of the kingdom of God, which is mine.",
+		"attacked": "You only make martyrs!",
+		"defeated": "I, who sought to extend the grace of God in this land, I'm cast out from it! To live among simple swineherds and... what's the word? Bakers!",
         "denounced": "There is no greater sin than to defy the anointed servant of the Lord. You will pay dearly for this."
 		"introduction": "I am Lady Isabel, monarch of these kingdoms and estates. The queen always speaks true. The queen is always true.",
 
