@@ -563,6 +563,18 @@
 		"innerColor": [240, 236, 10],
 		"cities": ["Onondaga"]
 },
+{
+		"name": "Moroccan Peoples",
+		"adjective": ["Moroccan"],
+		"cityStateType": "Gold",
+
+		"declaringWar": "You have revealed your purposes a bit too early, my friend...",
+		"attacked": "Very well, this won't be forgotten.",
+		"defeated": "I have failed. May you, at least, know compassion towards our people.",
+		"outerColor": [0, 0, 0],
+		"innerColor": [240, 236, 10],
+		"cities": ["Marrakesh"]
+},
 	//Barbarian
 {
 		"name": "Barbarians",
