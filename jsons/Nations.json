@@ -484,9 +484,9 @@
 		"adjective": ["Magyar"],
 		"cityStateType": "Production",
 
-		"declaringWar": "You leave us no choice. War it must be.",
-		"attacked": "God fights with us. You stand alone.",
-		"defeated": "The fenced walls could not save Armenia from invasion, I am powerless.",
+		"declaringWar": "Your insolence has provoked this war, and I shall be happy to lead the Black Army to victory over you.",
+		"attacked": "Surely you had to know that one day there would be war between us.",
+		"defeated": "Today you wear the victor's laurels, but can you keep what you have taken?",
 		"outerColor": [0, 0, 0],
 		"innerColor": [222, 144, 18],
 		"cities": ["Budapest"]
