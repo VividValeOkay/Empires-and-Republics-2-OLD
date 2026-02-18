@@ -496,12 +496,12 @@
 		"adjective": ["Australian"],
 		"cityStateType": "Production",
 
-		"declaringWar": "Your insolence has provoked this war, and I shall be happy to lead the Black Army to victory over you.",
-		"attacked": "Surely you had to know that one day there would be war between us.",
-		"defeated": "Today you wear the victor's laurels, but can you keep what you have taken?",
+		"declaringWar": "After thorough deliberation, Australia finds itself at a crossroads. Prepare yourself, war is upon us.",
+		"attacked": "We will mobilize every means of resistance to stop this transgression against our nation!",
+		"defeated": "The principles for which we have fought will survive longer than any nation you could ever build.",
 		"outerColor": [0, 0, 0],
 		"innerColor": [222, 144, 18],
-		"cities": ["Kawuka"]
+		"cities": ["Canberra"]
 },
 	//Barbarian
 {
