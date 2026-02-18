@@ -556,9 +556,9 @@
 		"adjective": ["Haudenosaunee"],
 		"cityStateType": "Gold",
 
-		"declaringWar": "You leave us no choice. War it must be.",
-		"attacked": "Very well, this won't be forgotten.",
-		"defeated": "And now, the burning wheel passes over me.",
+		"declaringWar": "You are a plague upon Mother Earth! Prepare for battle!",
+		"attacked": "You evil creature! My braves will slaughter you!",
+		"defeated": "You have defeated us... but our spirits will never be vanquished! We shall return!",
 		"outerColor": [0, 0, 0],
 		"innerColor": [240, 236, 10],
 		"cities": ["Onondaga"]
