@@ -580,11 +580,11 @@
 		"adjective": ["Israelite"],
 		"cityStateType": "Religion",
 
-		"declaringWar": "You have revealed your purposes a bit too early, my friend...",
-		"attacked": "Very well, this won't be forgotten.",
-		"defeated": "A wrong calculation, on my part.",
+		"declaringWar": "By god's grace we will not allow these atrocities to occur any longer. We declare war!",
+		"attacked": "May god have mercy on your evil soul.",
+		"defeated": "I for one welcome our new conquer overlord!",
 		"outerColor": [0, 0, 0],
-		"innerColor": [240, 236, 10],
+		"innerColor": [255, 255, 255],
 		"cities": ["Jerusalem"]
 },
 	//Barbarian
