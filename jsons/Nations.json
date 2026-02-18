@@ -467,6 +467,18 @@
 		"innerColor": [59, 237, 14],
 		"cities": ["Nukuʻalofa"]
 },
+{
+		"name": "Armenian Peoples",
+		"adjective": ["Armenian"],
+		"cityStateType": "Production",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "God fights with us. You stand alone.",
+		"defeated": "The fenced walls could not save Armenia from invasion, I am powerless.",
+		"outerColor": [0, 0, 0],
+		"innerColor": [59, 237, 14],
+		"cities": ["Yerevan"]
+},
 	//Barbarian
 {
 		"name": "Barbarians",
