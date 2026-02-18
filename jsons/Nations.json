@@ -432,8 +432,8 @@
 },
 	// City-States
 {
-		"name": "Belgium",
-		"adjective": ["Belgian"],
+		"name": "Thai Peoples",
+		"adjective": ["Thai"],
 		"cityStateType": "Food",
 
 		"declaringWar": "You leave us no choice. War it must be.",
@@ -441,7 +441,7 @@
 		"defeated": "I guess you weren't here for the sprouts after all...",
 		"outerColor": [0, 0, 0],
 		"innerColor": [127, 177, 236],
-		"cities": ["Brussels"]
+		"cities": ["Bangkok"]
 },
 	//Barbarian
 {
