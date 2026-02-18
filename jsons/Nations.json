@@ -437,8 +437,8 @@
 		"cityStateType": "Food",
 
 		"declaringWar": "You leave us no choice. War it must be.",
-		"attacked": "Very well, this shall not be forgotten.",
-		"defeated": "I guess you weren't here for the sprouts after all...",
+		"attacked": "War, then? Fools think fortune is on their side. Who will you blame when yours runs out?",
+		"defeated": "One gains humility in defeat. I pray you are granted the most humility of all.",
 		"outerColor": [0, 0, 0],
 		"innerColor": [127, 177, 236],
 		"cities": ["Bangkok"]
