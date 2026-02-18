@@ -527,6 +527,18 @@
 		"innerColor": [158, 17, 209],
 		"cities": ["Manila"]
 },
+{
+		"name": "Nepali Peoples",
+		"adjective": ["Nepali"],
+		"cityStateType": "Culture",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this won't be forgotten.",
+		"defeated": "Wealth is fleeting; learning is vanity. All I have done, O God, I did in your name.",
+		"outerColor": [0, 0, 0],
+		"innerColor": [158, 17, 209],
+		"cities": ["Kathmandu"]
+},
 	//Barbarian
 {
 		"name": "Barbarians",
