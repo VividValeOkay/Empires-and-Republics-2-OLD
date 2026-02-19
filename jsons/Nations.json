@@ -599,6 +599,18 @@
 		"innerColor": [255, 255, 255],
 		"cities": ["Hunza"]
 },
+{
+		"name": "Afghan Peoples",
+		"adjective": ["Afghan"],
+		"cityStateType": "Religion",
+
+		"declaringWar": "Let there be war between us! I will wrestle your lands away, and rule your subjects with strength.",
+		"attacked": "Very well, this won't be forgotten.",
+		"defeated": "How did you darken the sun? I ruled with diligence and mercy—see that you do so as well.",
+		"outerColor": [0, 0, 0],
+		"innerColor": [255, 255, 255],
+		"cities": ["Herat"]
+},
 	//Barbarian
 {
 		"name": "Barbarians",
