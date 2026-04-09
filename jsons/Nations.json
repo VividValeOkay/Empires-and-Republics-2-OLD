@@ -49,6 +49,8 @@
 
 		"tradeRequest": "I offer this, for your consideration.",
 		"declaringFriendship": "Rome is not without its graces. Come into friendship with us.",
+	    "neutralRejectingDemand": "I have a better idea, how about I just raze your cities and sow your fields with salt?",
+	    "hateRejectingDemand": "I have a better idea, how about I just raze your cities and sow your fields with salt?",
 
 		"outerColor": [70, 0, 118],
 		"innerColor": [240, 199, 0],
