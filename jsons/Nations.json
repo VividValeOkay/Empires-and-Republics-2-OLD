@@ -101,6 +101,8 @@
 
 		"tradeRequest": "Come forth, let's do business.",
 		"declaringFriendship": "I understand now that you are a friend to my nation. Let us declare our friendship to the world.",
+	    "neutralRejectingDemand": "Your words are but the braying of a jackass. Take them elsewhere.",
+	    "hateRejectingDemand": "Your words are but the braying of a jackass. Take them elsewhere.",
 
 		"outerColor": [43, 88, 46],
 		"innerColor": [146, 221, 10],
