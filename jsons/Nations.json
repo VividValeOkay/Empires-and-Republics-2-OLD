@@ -128,6 +128,8 @@
 
 		"tradeRequest": "My friend, does this seem reasonable to you?",
 		"declaringFriendship": "Let's put our differences aside for a moment, shall we? Friendship is more important than petty politics.",
+	    "neutralRejectingDemand": "No!",
+	    "hateRejectingDemand": "No!",
 
 		"outerColor": [255, 255, 255],
 		"innerColor": [65, 141, 254],
