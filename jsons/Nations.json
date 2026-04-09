@@ -22,6 +22,8 @@
 
 		"tradeRequest": "Would you be interested in a trade agreement with England?",
 		"declaringFriendship": "We are pleased to consider you an esteemed friend. We hope the feeling is mutual...",
+	    "neutralRejectingDemand": "You tread on dangerous waters in the face of England and her loyal colonies.",
+	    "hateRejectingDemand": "You tread on dangerous waters in the face of England and her loyal colonies.",
 
 		"outerColor": [120, 0, 1],
 		"innerColor": [249, 249, 249],
