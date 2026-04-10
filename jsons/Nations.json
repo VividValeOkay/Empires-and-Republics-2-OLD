@@ -488,6 +488,18 @@
 		"cities": ["Marajó Island"]
 },
 {
+		"name": "Irish Peoples",
+		"adjective": ["Irish"],
+		"cityStateType": "Food",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this won't be forgotten.",
+		"defeated": "How did you darken the sun? I ruled with diligence and mercy—see that you do so as well.",
+		"outerColor": [0, 0, 0],
+		"innerColor": [59, 237, 14],
+		"cities": ["Dublin"]
+},
+{
 		"name": "Armenian Peoples",
 		"adjective": ["Armenian"],
 		"cityStateType": "Production",
