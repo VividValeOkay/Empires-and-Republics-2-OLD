@@ -588,9 +588,9 @@
 		"adjective": ["Joseon"],
 		"cityStateType": "Culture",
 
-		"declaringWar": "You leave us no choice. War it must be.",
-		"attacked": "Very well, this won't be forgotten.",
-		"defeated": "And now, the burning wheel passes over me.",
+		"declaringWar": "The stars foretell your defeat. The will of Heaven cannot be denied.",
+		"attacked": "I foresee that your defeat will be swift and your nation will be forgotten.",
+		"defeated": "I foresaw my death, but Korea's fate would be different.",
 		"outerColor": [0, 0, 0],
 		"innerColor": [158, 17, 209],
 		"cities": ["Hanseong"]
