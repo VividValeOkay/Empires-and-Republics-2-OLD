@@ -620,6 +620,18 @@
 		"cities": ["Marrakesh"]
 },
 {
+		"name": "Mandé Peoples",
+		"adjective": ["Mandé"],
+		"cityStateType": "Gold",
+
+		"declaringWar": "The gain from the war, what will you get out of it?",
+		"attacked": "Shame on you, using violence which doesn't solve anything.",
+		"defeated": "The gain is having a clean system from corruption.",
+		"outerColor": [0, 0, 0],
+		"innerColor": [240, 236, 10],
+		"cities": ["Niani"]
+},
+{
 		"name": "Israelite Peoples",
 		"adjective": ["Israelite"],
 		"cityStateType": "Religion",
