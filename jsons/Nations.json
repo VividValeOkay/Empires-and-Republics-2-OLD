@@ -476,6 +476,18 @@
 		"cities": ["Nukuʻalofa"]
 },
 {
+		"name": "Marajoara Peoples",
+		"adjective": ["Marajoara"],
+		"cityStateType": "Food",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this won't be forgotten.",
+		"defeated": "How did you darken the sun? I ruled with diligence and mercy—see that you do so as well.",
+		"outerColor": [0, 0, 0],
+		"innerColor": [59, 237, 14],
+		"cities": ["Marajó Island"]
+},
+{
 		"name": "Armenian Peoples",
 		"adjective": ["Armenian"],
 		"cityStateType": "Production",
