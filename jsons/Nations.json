@@ -552,9 +552,9 @@
 		"adjective": ["Polish"],
 		"cityStateType": "Culture",
 
-		"declaringWar": "You leave us no choice. War it must be.",
-		"attacked": "Very well, this won't be forgotten.",
-		"defeated": "And now, the burning wheel passes over me.",
+		"declaringWar": "I must protect the interests of Poland. Surrender quickly so that this may end without bloodshed.",
+		"attacked": "So, you show your true nature, a serpent lying in the grass... easily trampled.",
+		"defeated": "No, I am not ready to leave God's service. I am just beginning his good work!",
 		"outerColor": [0, 0, 0],
 		"innerColor": [158, 17, 209],
 		"cities": ["Kraków"]
