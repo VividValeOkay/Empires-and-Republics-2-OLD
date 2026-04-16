@@ -94,7 +94,7 @@
     "cost": 120,
     "gold": 2,
     "requiredTech": "Ship Building",
-    "uniques": ["Can only be built <in [Coastal] tiles>"],
+    "uniques": ["Comment [+1 Production from unimproved coastal tiles in this city]","[+1 Production] from [Coastal] tiles without [Improvement] [in this city]","Can only be built <in [Coastal] tiles>"],
   },
   {
     "name": "School",
