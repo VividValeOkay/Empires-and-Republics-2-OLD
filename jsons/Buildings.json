@@ -41,6 +41,7 @@
     "cost": 60,
     "production": 1,
     "requiredTech": "Bronze Working",
+	"uniques": ["[+1 Production] from every [Mine]"],
   },
   {
 	"name": "Granary",
