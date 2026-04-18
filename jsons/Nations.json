@@ -425,10 +425,10 @@
         "denounced": "This situation is going to get worse before it gets any better."
 		"introduction": "Good day. It is an honor to meet you in person. It seems great minds do attract each other, after all.",
 
-		"neutralHello": "Good day.",
-		"hateHello": "Oh, it's you...",
+		"neutralHello": "Hello.",
+		"hateHello": "What do you want?",
 
-		"tradeRequest": "I hope this deal will receive your blessing.",
+		"tradeRequest": "Should we prosper through commerce?",
 		"declaringFriendship": "Would you like to formally declare our friendship?",
 
 		"outerColor": [97, 191, 34],
