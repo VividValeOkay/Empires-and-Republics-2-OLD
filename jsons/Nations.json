@@ -438,6 +438,31 @@
 		"cities": ["Rio de Janeiro","São Paulo","Salvador da Bahia","Brasília","Fortaleza","Manaus","Curitiba","Recife","Porto Alegre","Belém","Guarulhos","Natal","Campinas","São Luis","Maceió","Vitória","Belo Horizonte","Goiânia","Duque de Caxias","Campo Grande"],
 		"spyNames": ["Bento","Donato","Leandro","Paulo","Clara","Fernanda","Talita"],
 },
+{
+		"name": "The Zulu",
+		"leaderName": "Shaka",
+		"startBias": ["Avoid [Tubdra]"],
+        "favoredReligion": "Christianity",
+
+		"declaringWar": "I have to do this for the benefit of progress. It needs to be fought.",
+		"attacked": "You will see how fruitless it will be for you, won't you?",
+		"defeated": "May God grant me these last wishes... peace and prosperity for Brazil.",
+        "denounced": "This situation is going to get worse before it gets any better."
+		"introduction": "Good day. It is an honor to meet you in person. It seems great minds do attract each other, after all.",
+
+		"neutralHello": "Hello.",
+		"hateHello": "What do you want?",
+
+		"tradeRequest": "Should we prosper through commerce?",
+		"declaringFriendship": "Would you like to formally declare our friendship?",
+
+		"outerColor": [97, 191, 34],
+		"innerColor": [247, 216, 1],
+		"uniqueName": "Amazon",
+	    "uniques": ["[+50]% Yield from every [Jungle]","[+2 Food] from [Farm] tiles [in all cities]"]
+		"cities": ["Ulundi"],
+		"spyNames": ["Bento","Donato","Leandro","Paulo","Clara","Fernanda","Talita"],
+},
 	// City-States
 {
 		"name": "Thai Peoples",
