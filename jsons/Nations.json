@@ -444,11 +444,11 @@
 		"startBias": ["Avoid [Tubdra]"],
         "favoredReligion": "Christianity",
 
-		"declaringWar": "I have to do this for the benefit of progress. It needs to be fought.",
-		"attacked": "You will see how fruitless it will be for you, won't you?",
-		"defeated": "May God grant me these last wishes... peace and prosperity for Brazil.",
+		"declaringWar": "There is too much weakness in you. Fear not, the children of Zulu shall remove it.",
+		"attacked": "Strong words, but they quaver on your lips. Already I see you weaken in fear.",
+		"defeated": "True, you ended my reign. But I will live on in your nightmares",
         "denounced": "This situation is going to get worse before it gets any better."
-		"introduction": "Good day. It is an honor to meet you in person. It seems great minds do attract each other, after all.",
+		"introduction": "You stand before Shaka of the Zulu. Dare you turn your back to my armies? I will make no such mistake.",
 
 		"neutralHello": "Hello.",
 		"hateHello": "What do you want?",
