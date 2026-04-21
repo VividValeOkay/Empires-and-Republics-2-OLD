@@ -447,14 +447,14 @@
 		"declaringWar": "There is too much weakness in you. Fear not, the children of Zulu shall remove it.",
 		"attacked": "Strong words, but they quaver on your lips. Already I see you weaken in fear.",
 		"defeated": "True, you ended my reign. But I will live on in your nightmares",
-        "denounced": "This situation is going to get worse before it gets any better."
+        "denounced": "Your words are foul. You have a rot at your center. The only way to cleanse that is to cut it out."
 		"introduction": "You stand before Shaka of the Zulu. Dare you turn your back to my armies? I will make no such mistake.",
 
 		"neutralHello": "Hello.",
 		"hateHello": "What do you want?",
 
 		"tradeRequest": "Should we prosper through commerce?",
-		"declaringFriendship": "Would you like to formally declare our friendship?",
+		"declaringFriendship": "The children of the Zulu will stand with you, if you stand with them. Shall we declare our friendship?",
 
 		"outerColor": [97, 191, 34],
 		"innerColor": [247, 216, 1],
