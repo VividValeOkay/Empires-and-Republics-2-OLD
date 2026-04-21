@@ -450,15 +450,15 @@
         "denounced": "Your words are foul. You have a rot at your center. The only way to cleanse that is to cut it out."
 		"introduction": "You stand before Shaka of the Zulu. Dare you turn your back to my armies? I will make no such mistake.",
 
-		"neutralHello": "Hello.",
-		"hateHello": "What do you want?",
+		"neutralHello": "Hail your Majesty!",
+		"hateHello": "You say? What are you doing here?",
 
 		"tradeRequest": "Should we prosper through commerce?",
 		"declaringFriendship": "The children of the Zulu will stand with you, if you stand with them. Shall we declare our friendship?",
 
 		"outerColor": [97, 191, 34],
 		"innerColor": [247, 216, 1],
-		"uniqueName": "Amazon",
+		"uniqueName": "Isibongo",
 	    "uniques": ["[+50]% Yield from every [Jungle]","[+2 Food] from [Farm] tiles [in all cities]"]
 		"cities": ["Ulundi"],
 		"spyNames": ["Bento","Donato","Leandro","Paulo","Clara","Fernanda","Talita"],
