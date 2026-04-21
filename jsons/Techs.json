@@ -277,6 +277,7 @@
 				"name": "Seafaring Mastery",
 				"row": 2,
 				"prerequisites": ["Compass"],
+				"uniques": ["[+1] Movement <for [Water] units>"],
 				"quote": "'He who commands the sea has command of everything.' - Themistocles",
 			},
 			{
